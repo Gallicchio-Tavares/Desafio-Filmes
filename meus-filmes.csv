@@ -50,7 +50,7 @@ Dr. No,GBR,1962,110,3,0,Ação,0,NA
 Willy Wonka & the Chocolate Factory,USA,1971,99,3.5,0,Comédia,0,NA
 Jaws,USA,1975,124,5,0,Aventura,0,NA
 Taxi Driver,USA,1976,114,3,0,Drama,0,NA
-Carrie,USA,1976,98,4,0,Horror,0,NA
+Carrie,USA,1976,98,4,0,Terror,0,NA
 Star Wars,USA,1977,121,5,0,Aventura,0,NA
 Escape from Alcatraz,USA,1979,113,4,0,Thriller,0,NA
 Life of Brian,GBR,1979,94,5,0,Comédia,0,NA
@@ -73,8 +73,10 @@ A Bela e a Fera,USA,1991,84,5,0,Romance,1,3.9
 Aladdin,USA,1992,95,5,0,Aventura,1,3.9
 Groundhog Day,USA,1993,101,3.5,0,Comédia,0,3.8
 Hocus Pocus,USA,1993,96,3.5,0,Fantasia,0,3.5
+Addams Family Values, USA,1993,94,4.5,0,Comédia,0,3.8
 Ace Ventura: Pet Detective,USA,1994,86,3,0,Comédia,0,3.2
 Forrest Gump,USA,1994,142,5,0,Drama,0,4.1
+The Mask,USA,1994,101,3,0,Comédia,0,3.3
 A Goofy Movie,USA,1995,78,5,0,Aventura,1,3.6
 Pocahontas,USA,1995,81,3,0,Romance,1,3.2
 Pocahontas II: Journey to a New World,USA,1998,72,2.5,0,Romance,1,2
@@ -146,7 +148,7 @@ Hotel Rwanda,USA,2004,121,NA,0,História,0,3.8
 Barbie: A Princesa e a Plebéia,CAN,2004,85,2.5,0,Fantasia,1,3.9
 Os Incríveis,USA,2004,115,5,0,Ação,1,4.1
 Mulan II,USA,2004,79,NA,0,Ação,1,2.7
-Bob Esponja - O Filme,USA,2004,87,5,0,Aventrua,1,3.9
+Bob Esponja - O Filme,USA,2004,87,5,0,Aventura,1,3.9
 Constantine,USA,2005,121,4.5,0,Ação,0,3.4
 Barbie: Fairytopia,CAN,2005,70,3,0,Fantasia,1,3.4
 Revenge of the Sith,USA,2005,140,5,0,Sci-fi,0,3.9
