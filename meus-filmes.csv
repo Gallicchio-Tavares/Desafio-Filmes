@@ -1,129 +1,124 @@
 Filme,País,Ano,Tempo,Meu_Rating,Outlier_t,Genero,Animação,Rating_Geral
-The Nightmare Before Christmas,USA,1993,76,4,0,Fantasia,1,4
-I Saw The TV Glow,USA,2024,100,4,0,Drama,0,3.5
-Que Horas Ela Volta?,BRA,2015,112,5,0,Drama,0,4.1
-Memento,USA,2000,113,4,0,Mistério,0,4.2
-Les Yeux sans visage,FRA,1960,84,3.5,0,Terror,0,3.9
-Brokeback Mountain,USA,2005,134,5,0,Romance,0,4.1
-Nattvardsgästerna,SWE,1963,80,3,0,Drama,0,4.2
-Central do Brasil,BRA,1998,113,4.5,0,Drama,0,4.3
-Сталкер,URSS,1979,162,4.5,0,Sci-fi,0,4.4
-The Substance,GBR,2024,141,4.5,0,Terror,0,4
-Kill Bill: Vol. 1,USA,2003,111,5,0,Crime,0,4.2
-Kill Bill: Vol. 2,USA,2004,136,5,0,Crime,0,4.1
-Judas and the Black Messiah,USA,2021,126,5,0,História,0,4
-Rio 40 Graus,BRA,1955,91,3.5,0,Drama,0,4
-Bir Zamanlar Anadolu'da,TUR,2011,163,2.5,0,Drama,0,4.1
-Nimona,GBR,2023,99,5,0,Fantasia,1,3.9
-Puss in Boots: The Last Wish,USA,2022,103,4,0,Aventura,1,4.1
-Scarface,USA,1983,169,3,0,Crime,0,4.1
-La Noire de...,SEN,1966,65,4,0,Drama,0,4.1
-Ostře sledované vlaky,CSK,1966,93,4,0,Comédia,0,3.9
-Sedmikrásky,CSK,1966,76,3.5,0,Comédia,0,4
-Familia sumergida,ARG,2018,91,2.5,0,Drama,0,3.3
-Pink Flamingos,USA,1972,93,4,0,Comédia,0,3.6
-Vanskabte land,ISL,2022,143,4.5,0,Drama,0,3.8
-Das Cabinet des Dr. Caligari,GER,1920,78,5,0,Crime,0,4.1
-Monty Python and the Holy Grail,GBR,1975,91,5,0,Comédia,0,4.1
-기생충,KOR,2019,133,4.5,0,Thriller,0,4.6
-Donnie Darko,USA,2001,114,5,0,Mistério,0,4
-Drive,USA,2011,100,3.5,0,Thriller,0,3.9
-Солярис,URSS,1972,167,4.5,0,Sci-fi,0,4.2
-The Lighthouse,USA,2019,109,5,0,Thriller,0,4
 The Cavalier’s Dream,USA,1898,1,3,1,Fantasia,0,2.9
-The ‘?’ Motorist,GBR,1906,3,5,1,Fantasia,0,3.5
-The Great Train Robbery,USA,1903,12,4,1,Western,0,3.5
 Le Voyage dans la Lune,FRA,1902,15,4,1,Sci-fi,0,4
+The Great Train Robbery,USA,1903,12,4,1,Western,0,3.5
+The ‘?’ Motorist,GBR,1906,3,5,1,Fantasia,0,3.5
+Das Cabinet des Dr. Caligari,GER,1920,78,5,0,Crime,0,4.1
 Nosferatu,GER,1922,95,3.5,0,Terror,0,3.9
 Человек с киноаппаратом,URSS,1929,68,4.5,0,Documentário,0,4.3
 Un Chien Andalou,FRA,1929,16,3,1,Terror,0,3.9
-The Wizard of Oz,USA,1939,102,4,0,Aventura,0,4
-Snow White and the Seven Dwarfs,USA,1937,83,5,0,Fantasia,1,3.4
 Modern Times,USA,1936,87,5,0,Comédia,0,4.3
+Snow White and the Seven Dwarfs,USA,1937,83,5,0,Fantasia,1,3.4
+The Wizard of Oz,USA,1939,102,4,0,Aventura,0,4
 Fantasia,USA,1940,124,NA,0,Fantasia,1,3.9
-Sleeping Beauty,USA,1959,75,5,0,Fantasia,1,3.5
-Det sjunde inseglet,SWE,1957,96,4.5,0,Fantasia,0,4.3
-Alice in Wonderland,USA,1951,75,5,0,Fantasia,1,3.8
+Pinocchio,USA,1940,88,3,0,Fantasia,1,3.5
+Dumbo,USA,1941,64,3.5,0,Fantasia,1,3.4
+Bambi,USA,1942,70,3,0,Drama,1,3.5
+Ninguém Crê em Mim,USA,1949,73,4.5,0,Thriller,0,3.6
 Cinderella,USA,1950,74,4,0,Fantasia,1,3.5
-Doctor Zhivago,USA,1965,200,2.5,0,Guerra,0,3.9
-Mary Poppins,USA,1964,139,4.5,0,Comédia,0,3.9
-The House Is Black,IRN,1963,21,5,1,Documentário,0,4.3
+Alice in Wonderland,USA,1951,75,5,0,Fantasia,1,3.8
+Peter Pan,USA,1953,77,4,0,Fantasia,1,3.5
+Rio 40 Graus,BRA,1955,91,3.5,0,Drama,0,4
+Lady and the Tramp,USA,1955,76,3,0,Romance,1,3.5
+Det sjunde inseglet,SWE,1957,96,4.5,0,Fantasia,0,4.3
+Sleeping Beauty,USA,1959,75,5,0,Fantasia,1,3.5
+Les Yeux sans visage,FRA,1960,84,3.5,0,Terror,0,3.9
 Dr. No,GBR,1962,110,3,0,Ação,0,3.4
+The House Is Black,IRN,1963,21,5,1,Documentário,0,4.3
+Nattvardsgästerna,SWE,1963,80,3,0,Drama,0,4.2
+Mary Poppins,USA,1964,139,4.5,0,Comédia,0,3.9
+Doctor Zhivago,USA,1965,200,2.5,0,Guerra,0,3.9
+La Noire de...,SEN,1966,65,4,0,Drama,0,4.1
+Ostře sledované vlaky,CSK,1966,93,4,0,Comédia,0,3.9
+Sedmikrásky,CSK,1966,76,3.5,0,Comédia,0,4
+The Aristocats,USA,1970,78,3,0,Comédia,1,3.7
 Willy Wonka & the Chocolate Factory,USA,1971,99,3.5,0,Comédia,0,3.8
+Lucifer Rising,GER,1972,29,3,1,Fantasia,0,3.8
+Pink Flamingos,USA,1972,93,4,0,Comédia,0,3.6
+Солярис,URSS,1972,167,4.5,0,Sci-fi,0,4.2
 Jaws,USA,1975,124,5,0,Aventura,0,4
+Monty Python and the Holy Grail,GBR,1975,91,5,0,Comédia,0,4.1
 Taxi Driver,USA,1976,114,3,0,Drama,0,4.2
 Carrie,USA,1976,98,4,0,Terror,0,3.8
 Star Wars,USA,1977,121,5,0,Aventura,0,4.2
+Bernardo e Bianca,USA,1977,78,4,0,Aventura,1,3.4
 Escape from Alcatraz,USA,1979,113,4,0,Thriller,0,3.8
 Life of Brian,GBR,1979,94,5,0,Comédia,0,4
+Сталкер,URSS,1979,162,4.5,0,Sci-fi,0,4.4
 The Empire Strikes Back,USA,1980,124,5,0,Ação,0,4.4
 Raiders of the Lost Ark,USA,1981,115,4,0,Aventura,0,4.2
 Born in Flames,USA,1982,80,3,0,Drama,0,3.9
 Monty Python’s The Meaning of Life,GBR,1983,107,3.5,0,Comédia,0,3.8
 Return of the Jedi,USA,1983,132,4,0,Ação,0,4.1
+Scarface,USA,1983,169,3,0,Crime,0,4.1
 Indiana Jones and the Temple of Doom,USA,1984,118,4.5,0,Ação,0,3.6
 Back to the Future,USA,1985,116,5,0,Sci-fi,0,4.2
+The Name of the Rose,FRA,1986,130,4,0,Mistério,0,3.7
 Coming to America,USA,1988,117,NA,0,Comédia,0,3.5
 Indiana Jones and the Last Crusade,USA,1989,127,5,0,Aventura,0,4.1
 Dead Poets Society,USA,1989,128,5,0,Drama,0,4.3
 The Little Mermaid,USA,1989,83,5,0,Fantasia,1,3.7
+Undergångens arkitektur,SWE,1989,119,NA,0,Documentário,0,3.8
 Back to the Future Part II,USA,1989,108,5,0,Sci-fi,0,3.9
 Back to the Future Part III,USA,1990,119,4,0,Sci-fi,0,3.5
 GoodFellas,USA,1990,145,4,0,Crime,0,4.5
+Szürkület,HUN,1990,95,3,0,Drama,0,3.9
 Bernardo e Bianca na Cangurulândia,USA,1990,77,3,0,Aventura,1,3.2
-Bernardo e Bianca,USA,1977,78,4,0,Aventura,1,3.4
-A Bela e a Fera,USA,1991,84,5,0,Romance,1,3.9
-Aladdin,USA,1992,95,5,0,Aventura,1,3.9
+A Bela e a Fera,USA,1991,84,4,0,Romance,1,3.9
+The Addams Family,USA,1991,100,5,0,Comédia,0,3.7
+Aladdin,USA,1992,95,4.5,0,Aventura,1,3.9
+The Nightmare Before Christmas,USA,1993,76,4,0,Fantasia,1,4
 Groundhog Day,USA,1993,101,3.5,0,Comédia,0,3.8
 Hocus Pocus,USA,1993,96,3.5,0,Fantasia,0,3.5
-Addams Family Values, USA,1993,94,4.5,0,Comédia,0,3.8
+Addams Family Values,USA,1993,94,4.5,0,Comédia,0,3.8
 Ace Ventura: Pet Detective,USA,1994,86,3,0,Comédia,0,3.2
 Forrest Gump,USA,1994,142,5,0,Drama,0,4.1
+White Men Are Cracking Up,GBR,1994,20,4,1,Crime,0,3.6
 The Mask,USA,1994,101,3,0,Comédia,0,3.3
 A Goofy Movie,USA,1995,78,5,0,Aventura,1,3.6
 Pocahontas,USA,1995,81,3,0,Romance,1,3.2
-Pocahontas II: Journey to a New World,USA,1998,72,2.5,0,Romance,1,2
-Anastasia,USA,1997,94,3.5,0,Fantasia,1,3.8
-Rise of the Guardians,USA,2012,97,2,0,Fantasia,1,3.5
 Se7en,USA,1995,127,5,0,Crime,0,4.3
 Toy Story,USA,1995,81,5,0,Comédia,1,4.1
-Toy Story 2,USA,1999,92,4.5,0,Comédia,1,3.9
-Toy Story 3,USA,2010,103,4,0,Comédia,1,4
 Jumanji,USA,1995,104,3.5,0,Fantasia,0,3.6
 Trainspotting,GBR,1996,94,4.5,0,Drama,0,4.2
 O Corcunda de Notre Dame,USA,1996,91,5,0,Drama,1,3.7
 Matilda,USA,1996,98,5,0,Comédia,0,3.7
 Scream,USA,1996,112,4,0,Terror,0,4
+Anastasia,USA,1997,94,3.5,0,Fantasia,1,3.8
 Hercules,USA,1997,93,4.5,0,Aventura,1,3.8
 Men in Black,USA,1997,98,4.5,0,Comédia,0,3.7
 Bean,GBR,1997,89,4,0,Comédia,0,3.2
 Perfect Blue,JPN,1997,82,4.5,0,Thriller,1,4.4
 Titanic,USA,1997,194,3.5,0,Drama,0,3.8
+Pocahontas II: Journey to a New World,USA,1998,72,2.5,0,Romance,1,2
 The Truman Show,USA,1998,103,4,0,Comédia,0,4.2
 Mulan,USA,1998,88,5,0,Aventura,1,4.1
 Vida de Inseto,USA,1998,95,3.5,0,Comédia,1,3.5
+Central do Brasil,BRA,1998,113,4.5,0,Drama,0,4.3
 The Matrix,USA,1999,136,5,0,Sci-fi,0,4.2
 The Phantom Menace,USA,1999,136,4,0,Sci-fi,0,2.9
 Inherit the Wind,USA,1999,113,3,0,Drama,0,3.4
 Clube da Luta,USA,1999,139,5,0,Drama,0,4.3
 But I’m a Cheerleader,USA,1999,85,4,0,Romance,0,4
 "Girl, Interrupted",USA,1999,127,4,0,Drama,0,3.9
+Tarzan,USA,1999,88,NA,0,Aventura,1,3.7
+Toy Story 2,USA,1999,92,4.5,0,Comédia,1,3.9
 American Psycho,USA,2000,102,4,0,Crime,0,3.8
 Náufrago,USA,2000,143,5,0,Drama,0,3.9
+Memento,USA,2000,113,4,0,Mistério,0,4.2
 The Emperor’s New Groove,USA,2000,78,5,0,Comédia,1,3.9
 Shrek,USA,2001,90,5,0,Aventura,1,4.1
 Legally Blonde,USA,2001,96,4,0,Romance,0,3.8
 The Princess Diaries,USA,2001,115,4,0,Comédia,0,3.7
 Barbie in the Nutcracker,USA,2001,77,5,0,Romance,1,3.4
 "Monsters, Inc. ",USA,2001,92,5,0,Comédia,0,4.1
+Donnie Darko,USA,2001,114,5,0,Mistério,0,4
 Harry Potter and the Philosopher’s Stone,GBR,2001,152,3.5,0,Fantasia,0,3.8
 O Corcunda de Notre Dame 2,USA,2002,68,NA,0,Comédia,1,2
-Peter Pan,USA,1953,77,4,0,Fantasia,1,3.5
 Return to Never Land,USA,2002,72,NA,0,Fantasia,1,2.9
 A Era do Gelo,USA,2002,81,4.5,0,Comédia,1,3.5
 Attack of the Clones,USA,2002,142,4,0,Sci-fi,0,2.9
 Scooby-Doo,USA,2002,87,5,0,Comédia,0,3.3
-Scooby-Doo 2: Monsters Unleashed,USA,2004,93,5,0,Comédia,0,3.2
 Lilo & Stitch,USA,2002,85,NA,0,Comédia,1,4
 Men in Black II,USA,2002,88,NA,0,Sci-fi,0,3
 Barbie as Rapunzel,USA,2002,84,3,0,Fantasia,1,3.5
@@ -139,34 +134,40 @@ Barbie of Swan Lake,USA,2003,83,4,0,Fantasia,1,3.5
 School of Rock,USA,2003,110,5,0,Comédia,0,3.8
 The Matrix Revolutions,USA,2003,129,3,0,Thriller,0,3.1
 Star Wars: Clone Wars,USA,2003,138,4.5,0,Guerra,1,4
+Kill Bill: Vol. 1,USA,2003,111,5,0,Crime,0,4.2
+Irmão Urso,USA,2003,85,3,0,Aventura,1,3.7
 Monster,USA,2003,110,4,0,Drama,0,3.6
+"Mickey, Donald, Goofy: The Three Musketeers",USA,2004,68,4,0,Aventura,1,3.3
+Scooby-Doo 2: Monsters Unleashed,USA,2004,93,5,0,Comédia,0,3.2
 Home on the Range,USA,2004,76,5,0,Comédia,1,2.7
+Kill Bill: Vol. 2,USA,2004,136,5,0,Crime,0,4.1
 Mean Girls,USA,2004,97,4,0,Comédia,0,3.8
 Shrek 2,USA,2004,92,5,0,Aventura,1,4.1
 Harry Potter and the Prisoner of Azkaban,GBR,2004,141,4,0,Fantasia,0,4.1
 Garfield,USA,2004,80,3,0,Comédia,0,2.5
-Garfield 2,USA,2006,82,3.5,0,Aventura,0,2.4
 O Diário da Princesa 2,USA,2004,113,4,0,Romance,0,3.4
 Hotel Rwanda,USA,2004,121,NA,0,História,0,3.8
 Barbie: A Princesa e a Plebéia,CAN,2004,85,2.5,0,Fantasia,1,3.9
 Os Incríveis,USA,2004,115,5,0,Ação,1,4.1
 Mulan II,USA,2004,79,NA,0,Ação,1,2.7
 Bob Esponja - O Filme,USA,2004,87,5,0,Aventura,1,3.9
+As Branquelas,USA,2004,109,5,0,Comédia,0,3.4
 Constantine,USA,2005,121,4.5,0,Ação,0,3.4
 Barbie: Fairytopia,CAN,2005,70,3,0,Fantasia,1,3.4
 Revenge of the Sith,USA,2005,140,5,0,Sci-fi,0,3.9
 Batman Begins,USA,2005,140,4.5,0,Ação,0,3.8
+Madagascar,USA,2005,86,3.5,0,Aventura,1,3.5
 Herbie Fully Loaded,USA,2005,100,NA,0,Aventura,0,2.5
 Charlie and the Chocolate Factory,USA,2005,115,4,0,Fantasia,0,3.2
 Barbie and the Magic of Pegasus,CAN,2005,85,3,0,Fantasia,1,3.6
 O Galinho Chicken Little,USA,2005,81,3.5,0,Comédia,1,2.8
 Harry Potter and the Goblet of Fire,GBR,2005,157,NA,0,Fantasia,0,3.8
 As Crônicas de Nárnia,GBR,2005,143,3.5,0,Fantasia,0,3.5
+Brokeback Mountain,USA,2005,134,5,0,Romance,0,4.1
 V de Vingança,GBR,2005,132,4.5,0,Thriller,0,3.9
 High School Musical,USA,2006,98,3.5,0,Musical,0,3.2
 Carros,USA,2006,117,4,0,Aventura,1,3.7
-The Addams Family,USA,1991,100,5,0,Comédia,0,3.7
-Carros 2,USA,2011,106,3,0,Comédia,1,2.8
+Garfield 2,USA,2006,82,3.5,0,Aventura,0,2.4
 Barbie Fairytopia: Mermaidia,USA,2006,75,4,0,Aventura,1,3.6
 Era do Gelo 2,USA,2006,91,2,0,Aventura,1,3.1
 The Barbie Diaries,CAN,2006,70,2.5,0,Fantasia,1,3.1
@@ -174,10 +175,13 @@ The Da Vinci Code,USA,2006,149,4,0,Mistério,0,3.1
 Casa Monstro,USA,2006,91,5,0,Fantasia,1,3.4
 The Devil Wears Prada,USA,2006,109,4,0,Drama,0,3.8
 Click,USA,2006,107,3,0,Comédia,0,2.9
-Little Man,USA,2006,98,NA,0,Comédia,0,2.1
+Little Man,USA,2006,98,1,0,Comédia,0,2.1
 Barbie in the 12 Dancing Princesses,CAN,2006,82,3,0,Fantasia,1,3.9
 Por Água Abaixo,GBR,2006,84,4,0,Comédia,1,3.2
+Os Sem Floresta,USA,2006,83,4,0,Comédia,1,3.2
 Happy Feet,AUS,2006,108,NA,0,Comédia,1,3
+A Menina e o Porquinho,USA,2006,97,2,0,Fantasia,0,2.8
+Irmão Urso 2,USA,2006,73,2.5,0,Aventura,1,2.8
 Uma Noite no Museu,USA,2006,108,3.5,0,Fantasia,0,3.3
 Norbit,USA,2007,102,NA,0,Comédia,0,2.1
 Barbie Fairytopia: Magic of the Rainbow,USA,2007,75,3,0,Fantasia,1,3.3
@@ -189,7 +193,6 @@ Hairspray,USA,2007,117,5,0,Comédia,0,3.5
 The Simpsons Movie,USA,2007,87,4,0,Comédia,1,3.5
 High School Musical 2,USA,2007,108,5,0,Musical,0,3.2
 Halloween,USA,2007,110,3.5,0,Terror,0,2.7
-Halloween II,USA,2009,105,2,0,Terror,0,2.3
 Barbie as the Island Princess,USA,2007,85,2.5,0,Fantasia,1,3.5
 Bee Movie,USA,2007,91,1,0,Comédia,1,2.9
 Encantada,USA,2007,107,4,0,Fantasia,0,3.5
@@ -204,16 +207,15 @@ Barbie and the Diamond Castle,CAN,2008,78,5,0,Fantasia,0,3.8
 Tinker Bell,USA,2008,78,3.5,0,Fantasia,1,3.3
 Beverly Hills Chihuahua,USA,2008,91,NA,0,Comédia,0,2.4
 High School Musical 3: Senior Year,USA,2008,111,4,0,Musical,0,3.1
-Madagascar,USA,2005,86,3.5,0,Aventura,1,3.5
-Tarzan,USA,1999,88,NA,0,Aventura,1,3.7
 Madagascar: Escape 2 Africa,USA,2008,89,3,0,Aventura,1,3.1
 Barbie in ‘A Christmas Carol’,CAN,2008,76,4,0,Fantasia,1,3.4
 iCarly: iGo to Japan,USA,2008,99,5,0,Comédia,0,3.1
 Bolt,USA,2008,98,2.5,0,Aventura,1,3.1
 Twilight,USA,2008,122,2,0,Romance,0,2.9
 Bedtime Stories,USA,2008,99,NA,0,Fantasia,0,2.8
+Slumdog Millionaire,GBR,2008,120,4.5,0,Drama,0,3.9
 Coraline,USA,2009,100,5,0,Terror,1,4.2
-Pinocchio,USA,1940,88,3,0,Fantasia,1,3.5
+Halloween II,USA,2009,105,2,0,Terror,0,2.3
 Barbie Presents: Thumbelina,CAN,2009,75,2.5,0,Fantasia,1,2.9
 Monsters vs Aliens,USA,2009,94,2,0,Sci-fi,1,2.8
 Hannah Montana: The Movie,USA,2009,102,2.5,0,Musical,0,3.3
@@ -225,8 +227,9 @@ Era do Gelo 3,USA,2009,94,3,0,Aventura,1,3.1
 Harry Potter and the Half-Blood Prince,GBR,2009,153,NA,0,Fantasia,0,3.7
 Tinker Bell and the Lost Treasure,USA,2009,81,3,0,Fantasia,1,3.1
 Jennifer’s Body,USA,2009,102,3.5,0,Terror,0,3.4
-Scooby-Doo! The Mystery Begins,USA,2009,82,NA,0,Mistério,0,2.2
+Scooby-Doo! The Mystery Begins,USA,2009,82,2.5,0,Mistério,0,2.2
 Barbie and the Three Musketeers,CAN,2009,81,5,0,Fantasia,1,3.7
+Orphan,CAN,2009,122,3,0,Terror,0,3.3
 Tá Chovendo Hamburguer,USA,2009,90,3,0,Comédia,1,3.4
 Os Fantasmas de Scrooge,USA,2009,94,5,0,Terror,1,3.1
 A Princesa e o Sapo,USA,2009,98,5,0,Fantasia,1,3.9
@@ -234,6 +237,7 @@ Avatar,USA,2009,162,NA,0,Fantasia,0,3.6
 Alvin e os Esquilos 2,USA,2009,88,2,0,Fantasia,0,2.3
 Barbie in A Mermaid Tale,USA,2010,75,5,0,Fantasia,1,3.7
 Percy Jackson e o Ladrão de Raios,USA,2010,118,3,0,Aventura,0,2.6
+Toy Story 3,USA,2010,103,4,0,Comédia,1,4
 Alice in Wonderland,USA,2010,108,3.5,0,Fantasia,0,3.1
 Como Treinar Seu Dragão,USA,2010,98,4.5,0,Fantasia,1,4
 Diário de Um Banana,USA,2010,92,3.5,0,Comédia,0,3.2
@@ -251,6 +255,8 @@ Harry Potter and the Deathly Hallows: Part 1,GBR,2010,146,NA,0,Fantasia,0,3.7
 Enrolados,USA,2010,100,5,0,Fantasia,1,4
 TRON: Legacy,USA,2010,125,NA,0,Ação,0,3.2
 As Viagens de Gulliver,USA,2010,85,3,0,Aventura,0,2.1
+Bir Zamanlar Anadolu'da,TUR,2011,163,2.5,0,Drama,0,4.1
+Drive,USA,2011,100,3.5,0,Thriller,0,3.9
 Beverly Hills Chihuahua 2,USA,2011,84,2,0,Comédia,0,2.3
 Barbie: A Fairy Secret,USA,2011,72,5,0,Fantasia,1,3.6
 Best Player,USA,2011,89,NA,0,Comédia,0,2.4
@@ -268,6 +274,8 @@ Puss in Boots,USA,2011,90,3.5,0,Fantasia,1,3.1
 Johnny Bravo Goes to Bollywood,IND,2011,72,NA,0,Comédia,1,3.2
 The Cabin in the Woods,USA,2011,95,3,0,Terror,0,3.4
 Alvin e os Esquilos 3,USA,2011,87,1,0,Fantasia,0,2.3
+Carros 2,USA,2011,106,3,0,Comédia,1,2.8
+Rise of the Guardians,USA,2012,97,2,0,Fantasia,1,3.5
 Radio Rebel,USA,2012,90,3,0,Comédia,0,2.2
 Barbie in A Mermaid Tale 2,CAN,2012,74,3,0,Fantasia,1,3.3
 Os Vingadores,USA,2012,143,2.5,0,Ação,0,3.7
@@ -314,9 +322,6 @@ Maleficent,USA,2014,97,3.5,0,Fantasia,0,3.2
 Lucy,FRA,2014,89,1,0,Ação,0,2.8
 O Jogo da Imitação,USA,2014,113,5,0,Drama,0,3.8
 John WIck,USA,2014,101,5,0,Ação,0,3.8
-John Wick: Chapter 2,USA,2017,122,5,0,Ação,0,3.7
-John Wick: Chapter 3 – Parabellum,USA,2019,131,5,0,Ação,0,3.7
-John Wick: Chapter 4,USA,2023,170,5,0,Ação,0,3.9
 Gone Girl,USA,2014,149,4.5,0,Drama,0,4.1
 Interstellar,GBR,2014,169,5,0,Sci-fi,0,4.4
 Uma Noite no Museu 3,GBR,2014,98,2.5,0,Comédia,0,2.8
@@ -326,6 +331,7 @@ Os Vingadores: A Era de Ultron,USA,2015,141,0.5,0,Ação,0,3.1
 Divertida Mente,USA,2015,95,5,0,Drama,1,3.8
 Minions,USA,2015,91,3.5,0,Comédia,1,2.8
 Deathgasm,NZL,2015,86,4,0,Comédia,0,3.2
+Que Horas Ela Volta?,BRA,2015,112,5,0,Drama,0,4.1
 Star Wars: The Force Awakens,USA,2015,136,3.5,0,Sci-fi,0,3.3
 Kung Fu Panda 3,USA,2016,95,NA,0,Aventura,1,3.3
 Os Dez Mandamentos: O Filme,BRA,2016,120,0.5,0,Drama,0,2.5
@@ -349,7 +355,9 @@ Beauty and the Beast,USA,2017,129,3.5,0,Romance,0,3.1
 Genderbende,NLD,2017,55,5,0,Documentário,0,NA
 The Death of Stalin,GBR,2017,107,2.5,0,História,0,3.8
 Star Wars: The Last Jedi,USA,2017,152,3,0,Sci-fi,0,3
+John Wick: Chapter 2,USA,2017,122,5,0,Ação,0,3.7
 Hereditary,USA,2018,128,4.5,0,Terror,0,4
+Familia sumergida,ARG,2018,91,2.5,0,Drama,0,3.3
 Solo: A Star Wars Story,USA,2018,135,2,0,Sci-fi,0,2.9
 Os Incríveis 2,USA,2018,118,4,0,Ação,1,3.4
 Skyscraper,CAN,2018,102,3,0,Ação,0,2.3
@@ -359,6 +367,7 @@ Ralph Breaks the Internet,GBR,2018,112,3.5,0,Comédia,1,2.9
 Fantastic Beasts: The Crimes of Grindelwald,GBR,2018,134,1.5,0,Fantasia,0,2.6
 Spider-Man: Into the Spider-Verse,USA,2018,117,5,0,Aventura,1,4.4
 Como Treinar o Seu Dragão 3,USA,2018,104,4,0,Aventura,1,3.7
+The Nun,USA,2018,96,2.5,0,Terror,0,2.2
 Fyre,USA,2019,98,3.5,0,Documentário,0,3.3
 Steven Universe: The Movie,USA,2019,82,4,0,Fantasia,1,3.7
 Joker,USA,2019,122,4,0,Crime,0,3.8
@@ -366,8 +375,11 @@ O Poço,ESP,2019,95,3,0,Thriller,0,3.3
 Sound of Metal,USA,2019,120,4,0,Drama,0,4.2
 El Camino: A Breaking Bad Movie,USA,2019,123,4.5,0,Drama,0,3.6
 Frozen II,USA,2019,103,3,0,Aventura,1,3.1
+The Lighthouse,USA,2019,109,5,0,Thriller,0,4
 Jumanji: The Next Level,USA,2019,123,3,0,Aventura,0,2.9
 Little Women,USA,2019,135,5,0,História,0,4.2
+기생충,KOR,2019,133,4.5,0,Thriller,0,4.6
+John Wick: Chapter 3 – Parabellum,USA,2019,131,5,0,Ação,0,3.7
 Star Wars: The Rise of Skywalker,USA,2019,142,0.5,0,Ação,0,2.3
 Enola Holmes,USA,2020,123,3.5,0,Mistério,0,3.1
 Heaven Reaches Down to Earth,ZAF,2020,10,4,1,Drama,0,3.4
@@ -376,19 +388,28 @@ Cruella,USA,2021,134,4,0,Comédia,0,3.5
 Bo Burnham: Inside,USA,2021,87,5,0,Comédia,0,4.2
 Luca,USA,2021,95,4.5,0,Aventura,1,3.7
 Black Widow,USA,2021,134,2.5,0,Ação,0,2.9
+Judas and the Black Messiah,USA,2021,126,5,0,História,0,4
 "Woodstock 99: Peace, Love, and Rage",USA,2021,110,4.5,0,Documentário,0,3.4
 Encanto,USA,2021,102,4,0,Comédia,1,3.5
 The Matrix Resurrections,USA,2021,147,1,0,Ação,0,2.7
 The Batman,USA,2022,177,5,0,Crime,0,4
 Metal Lords,USA,2022,97,3,0,Comédia,0,2.7
-Skinamarink ,CAN,2022,100,2.5,0,Terror,0,2.9
+Skinamarink,CAN,2022,100,2.5,0,Terror,0,2.9
 The Woman King,CAN,2022,135,4,0,História,0,3.7
 Enola Holmes 2,USA,2022,131,4,0,Mistério,0,3.3
 Avatar: The Way of Water,USA,2022,192,4,0,Aventura,0,3.6
+Puss in Boots: The Last Wish,USA,2022,103,4,0,Aventura,1,4.1
+Vanskabte land,ISL,2022,143,4.5,0,Drama,0,3.8
+John Wick: Chapter 4,USA,2023,170,5,0,Ação,0,3.9
 Dungeons & Dragons: Honor Among Thieves,CAN,2023,134,4,0,Fantasia,0,3.5
 Spider-Man: Across the Spider-Verse,USA,2023,140,4,0,Aventura,1,4.4
+Nimona,GBR,2023,99,5,0,Fantasia,1,3.9
 Barbie,USA,2023,114,3,0,Comédia,0,3.8
 Oppenheimer,USA,2023,181,2.5,0,História,0,4.2
+"Red, White & Royal Blue",USA,2023,121,4,0,Romance,0,3.2
 Saltburn,GBR,2023,131,3.5,0,Drama,0,3.4
+La sociedad de la nieve,URY,2023,144,4.5,0,Drama,0,4.1
+I Saw The TV Glow,USA,2024,100,4,0,Drama,0,3.5
 Divertida Mente 2,USA,2024,97,4,0,Comédia,0,3.7
-Slumdog Millionaire,GBR,2008,120,4.5,0,Drama,0,3.9
+The Substance,GBR,2024,141,4.5,0,Terror,0,4
+The Wild Robot,USA,2024,102,3.5,0,Sci-fi,1,4.3
