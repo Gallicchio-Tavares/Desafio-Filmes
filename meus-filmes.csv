@@ -5,6 +5,7 @@ The Great Train Robbery,USA,1903,12,4,1,Western,0,3.5
 The ‘?’ Motorist,GBR,1906,3,5,1,Fantasia,0,3.5
 Das Cabinet des Dr. Caligari,GER,1920,78,5,0,Crime,0,4.1
 Nosferatu,GER,1922,95,3.5,0,Terror,0,3.9
+Sherlock Jr.,USA,1924,45,5,1,Comédia,0,4.4
 Человек с киноаппаратом,URSS,1929,68,4.5,0,Documentário,0,4.3
 Un Chien Andalou,FRA,1929,16,3,1,Terror,0,3.9
 Modern Times,USA,1936,87,5,0,Comédia,0,4.3
@@ -148,6 +149,7 @@ Garfield,USA,2004,80,3,0,Comédia,0,2.5
 O Diário da Princesa 2,USA,2004,113,4,0,Romance,0,3.4
 Hotel Rwanda,USA,2004,121,NA,0,História,0,3.8
 Barbie: A Princesa e a Plebéia,CAN,2004,85,2.5,0,Fantasia,1,3.9
+O Espanta Tubarões,USA,2004,90,2,0,Ação,1,2.9
 Os Incríveis,USA,2004,115,5,0,Ação,1,4.1
 Mulan II,USA,2004,79,NA,0,Ação,1,2.7
 Bob Esponja - O Filme,USA,2004,87,5,0,Aventura,1,3.9
@@ -164,6 +166,7 @@ O Galinho Chicken Little,USA,2005,81,3.5,0,Comédia,1,2.8
 Harry Potter and the Goblet of Fire,GBR,2005,157,NA,0,Fantasia,0,3.8
 As Crônicas de Nárnia,GBR,2005,143,3.5,0,Fantasia,0,3.5
 Brokeback Mountain,USA,2005,134,5,0,Romance,0,4.1
+A Noiva Cadáver,USA,2005,77,5,0,Fantasia,1,3.8
 V de Vingança,GBR,2005,132,4.5,0,Thriller,0,3.9
 High School Musical,USA,2006,98,3.5,0,Musical,0,3.2
 Carros,USA,2006,117,4,0,Aventura,1,3.7
@@ -274,6 +277,7 @@ Puss in Boots,USA,2011,90,3.5,0,Fantasia,1,3.1
 Johnny Bravo Goes to Bollywood,IND,2011,72,NA,0,Comédia,1,3.2
 The Cabin in the Woods,USA,2011,95,3,0,Terror,0,3.4
 Alvin e os Esquilos 3,USA,2011,87,1,0,Fantasia,0,2.3
+The Smurfs,USA,2011,103,3,0,Aventura,1,2.3
 Carros 2,USA,2011,106,3,0,Comédia,1,2.8
 Rise of the Guardians,USA,2012,97,2,0,Fantasia,1,3.5
 Radio Rebel,USA,2012,90,3,0,Comédia,0,2.2
@@ -284,6 +288,8 @@ Madagascar 3,USA,2012,93,3,0,Aventura,1,3
 Valente,USA,2012,93,5,0,Fantasia,1,3.4
 Era do Gelo 4,USA,2012,88,3,0,Aventura,1,2.7
 V/H/S,USA,2012,116,2,0,Terror,0,2.8
+Frankenweenie,USA,2012,87,3,0,Comédia,1,3.4
+ParaNorman,USA,2012,90,3.5,0,Comédia,1,3.6
 The Dark Knight Rises,USA,2012,165,2.5,0,Thriller,0,3.8
 Diário de um Banana 3: Dias de Cão,USA,2012,94,3.5,0,Comédia,0,3.1
 Tinker Bell: O Segredo das Fadas,USA,2012,75,4,0,Fantasia,1,3.5
@@ -309,6 +315,7 @@ Prisoners,USA,2013,153,4.5,0,Thriller,0,4.3
 Monster High: 13 Wishes,USA,2013,73,5,0,Fantasia,1,3.8
 Frozen,USA,2013,102,4,0,Fantasia,1,3.4
 Até que a Sorte nos Separe 2,BRA,2013,102,2,0,Comédia,0,2.7
+The Smurfs 2,USA,2013,105,1.5,0,Comédia,1,2.0
 Whiplash,USA,2014,107,5,0,Drama,0,4.4
 The Babadook,AUS,2014,94,3.5,0,Terror,0,3.4
 The Lego Movie,USA,2014,100,5,0,Aventura,1,3.8
@@ -321,10 +328,12 @@ Como Treinar Seu Dragão 2,USA,2014,102,4,0,Comédia,1,3.8
 Maleficent,USA,2014,97,3.5,0,Fantasia,0,3.2
 Lucy,FRA,2014,89,1,0,Ação,0,2.8
 O Jogo da Imitação,USA,2014,113,5,0,Drama,0,3.8
-John WIck,USA,2014,101,5,0,Ação,0,3.8
+John Wick,USA,2014,101,5,0,Ação,0,3.8
 Gone Girl,USA,2014,149,4.5,0,Drama,0,4.1
 Interstellar,GBR,2014,169,5,0,Sci-fi,0,4.4
+Festa no Céu,USA,2014,95,5,0,Comédia,1,3.6
 Uma Noite no Museu 3,GBR,2014,98,2.5,0,Comédia,0,2.8
+A Teoria de Tudo,GBR,2014,123,3.5,0,Romance,0,3.6
 Cinderella,GBR,2015,105,4,0,Romance,0,3.2
 Insurgent,CAN,2015,119,1,0,Ação,0,2.4
 Os Vingadores: A Era de Ultron,USA,2015,141,0.5,0,Ação,0,3.1
@@ -340,6 +349,7 @@ Alice Through the Looking Glass,GBR,2016,113,2,0,Fantasia,0,2.7
 Procurando Dory,USA,2016,97,3.5,0,Aventura,1,3.3
 The Secret Life of Pets,USA,2016,86,2,0,Aventura,1,2.8
 Sadako vs. Kayako,JPN,2016,98,3,0,Terror,0,2.6
+The 5th Wave,USA,2016,112,1,0,Ação,0,2.2
 Era do Gelo 5,USA,2016,95,1,0,Comédia,1,2.2
 Meine Brüder und Schwestern im Norden,PRK,2016,109,5,0,Documentário,0,3.9
 Moonlight,USA,2016,111,4.5,0,Drama,0,4.2
@@ -356,6 +366,7 @@ Genderbende,NLD,2017,55,5,0,Documentário,0,NA
 The Death of Stalin,GBR,2017,107,2.5,0,História,0,3.8
 Star Wars: The Last Jedi,USA,2017,152,3,0,Sci-fi,0,3
 John Wick: Chapter 2,USA,2017,122,5,0,Ação,0,3.7
+Meu Malvado Favorito 3,USA,2017,90,1.5,0,Ação,1,2.6
 Hereditary,USA,2018,128,4.5,0,Terror,0,4
 Familia sumergida,ARG,2018,91,2.5,0,Drama,0,3.3
 Solo: A Star Wars Story,USA,2018,135,2,0,Sci-fi,0,2.9
@@ -392,6 +403,7 @@ Judas and the Black Messiah,USA,2021,126,5,0,História,0,4
 "Woodstock 99: Peace, Love, and Rage",USA,2021,110,4.5,0,Documentário,0,3.4
 Encanto,USA,2021,102,4,0,Comédia,1,3.5
 The Matrix Resurrections,USA,2021,147,1,0,Ação,0,2.7
+Le censeur des rêves,FRA,2021,18,4,1,Terror,0,3.7
 The Batman,USA,2022,177,5,0,Crime,0,4
 Metal Lords,USA,2022,97,3,0,Comédia,0,2.7
 Skinamarink,CAN,2022,100,2.5,0,Terror,0,2.9
@@ -409,7 +421,9 @@ Oppenheimer,USA,2023,181,2.5,0,História,0,4.2
 "Red, White & Royal Blue",USA,2023,121,4,0,Romance,0,3.2
 Saltburn,GBR,2023,131,3.5,0,Drama,0,3.4
 La sociedad de la nieve,URY,2023,144,4.5,0,Drama,0,4.1
+The Zone of Interest,POL,2023,105,2.5,0,Drama,0,3.9
 I Saw The TV Glow,USA,2024,100,4,0,Drama,0,3.5
 Divertida Mente 2,USA,2024,97,4,0,Comédia,0,3.7
+Abigail,USA,2024,109,3,0,Terror,0,3.1
 The Substance,GBR,2024,141,4.5,0,Terror,0,4
 The Wild Robot,USA,2024,102,3.5,0,Sci-fi,1,4.3
