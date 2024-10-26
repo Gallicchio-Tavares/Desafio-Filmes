@@ -41,8 +41,9 @@ Jaws,USA,1975,124,5,0,Aventura,0,4
 Monty Python and the Holy Grail,GBR,1975,91,5,0,Comédia,0,4.1
 Taxi Driver,USA,1976,114,3,0,Drama,0,4.2
 Carrie,USA,1976,98,4,0,Terror,0,3.8
-Star Wars,USA,1977,121,5,0,Aventura,0,4.2
+Star Wars,USA,1977,121,4.5,0,Aventura,0,4.2
 Bernardo e Bianca,USA,1977,78,4,0,Aventura,1,3.4
+The Ascent,URSS,1977,111,5,0,Guerra,0,4.4
 Escape from Alcatraz,USA,1979,113,4,0,Thriller,0,3.8
 Life of Brian,GBR,1979,94,5,0,Comédia,0,4
 Сталкер,URSS,1979,162,4.5,0,Sci-fi,0,4.4
@@ -57,7 +58,7 @@ Back to the Future,USA,1985,116,5,0,Sci-fi,0,4.2
 The Name of the Rose,FRA,1986,130,4,0,Mistério,0,3.7
 Coming to America,USA,1988,117,NA,0,Comédia,0,3.5
 Indiana Jones and the Last Crusade,USA,1989,127,5,0,Aventura,0,4.1
-Dead Poets Society,USA,1989,128,5,0,Drama,0,4.3
+Dead Poets Society,USA,1989,128,4,0,Drama,0,4.3
 The Little Mermaid,USA,1989,83,5,0,Fantasia,1,3.7
 Undergångens arkitektur,SWE,1989,119,NA,0,Documentário,0,3.8
 Back to the Future Part II,USA,1989,108,5,0,Sci-fi,0,3.9
@@ -79,8 +80,9 @@ The Mask,USA,1994,101,3,0,Comédia,0,3.3
 A Goofy Movie,USA,1995,78,5,0,Aventura,1,3.6
 Pocahontas,USA,1995,81,3,0,Romance,1,3.2
 Se7en,USA,1995,127,5,0,Crime,0,4.3
-Toy Story,USA,1995,81,5,0,Comédia,1,4.1
+Toy Story,USA,1995,81,4.5,0,Comédia,1,4.1
 Jumanji,USA,1995,104,3.5,0,Fantasia,0,3.6
+Terra Estrangeira,BRA,1995,110,5,0,Drama,0,3.9
 Trainspotting,GBR,1996,94,4.5,0,Drama,0,4.2
 O Corcunda de Notre Dame,USA,1996,91,5,0,Drama,1,3.7
 Matilda,USA,1996,98,5,0,Comédia,0,3.7
@@ -112,7 +114,7 @@ Shrek,USA,2001,90,5,0,Aventura,1,4.1
 Legally Blonde,USA,2001,96,4,0,Romance,0,3.8
 The Princess Diaries,USA,2001,115,4,0,Comédia,0,3.7
 Barbie in the Nutcracker,USA,2001,77,5,0,Romance,1,3.4
-"Monsters, Inc. ",USA,2001,92,5,0,Comédia,0,4.1
+"Monsters, Inc. ",USA,2001,92,4.5,0,Comédia,0,4.1
 Donnie Darko,USA,2001,114,5,0,Mistério,0,4
 Harry Potter and the Philosopher’s Stone,GBR,2001,152,3.5,0,Fantasia,0,3.8
 O Corcunda de Notre Dame 2,USA,2002,68,NA,0,Comédia,1,2
@@ -150,7 +152,7 @@ O Diário da Princesa 2,USA,2004,113,4,0,Romance,0,3.4
 Hotel Rwanda,USA,2004,121,NA,0,História,0,3.8
 Barbie: A Princesa e a Plebéia,CAN,2004,85,2.5,0,Fantasia,1,3.9
 O Espanta Tubarões,USA,2004,90,2,0,Ação,1,2.9
-Os Incríveis,USA,2004,115,5,0,Ação,1,4.1
+Os Incríveis,USA,2004,115,4.5,0,Ação,1,4.1
 Mulan II,USA,2004,79,NA,0,Ação,1,2.7
 Bob Esponja - O Filme,USA,2004,87,5,0,Aventura,1,3.9
 As Branquelas,USA,2004,109,5,0,Comédia,0,3.4
@@ -301,6 +303,7 @@ Wreck-It Ralph,USA,2012,101,4,0,Aventura,1,3.6
 A Origem dos Guardiões,USA,2012,97,2,0,Fantasia,1,3.5
 Django Unchained,USA,2012,165,5,0,Western,0,4.3
 Barbie in the Pink Shoes,CAN,2013,75,2.5,0,Fantasia,1,3.2
+52 Tuesdays,AUS,2013,114,3,0,Drama,0,3.2
 The Croods,USA,2013,96,3,0,Aventura,1,3.1
 Homem de Ferro 3,USA,2013,130,1,0,Ação,0,3
 The Great Gatsby,USA,2013,143,4,0,Romance,0,3.4
@@ -310,6 +313,7 @@ Meu Malvado Favorito 2,USA,2013,98,4,0,Comédia,1,3.2
 Minha Mãe é uma Peça,BRA,2013,85,4.5,0,Comédia,0,3.7
 Gente Grande 2,USA,2013,101,1.5,0,Comédia,0,2.6
 Percy Jackson: Sea of Monsters,USA,2013,106,1.5,0,Fantasia,0,2.1
+Teen Beach Movie,USA,2013,95,3.5,0,Musical,0,3.3
 Aviões,USA,2013,91,1,0,Aventura,1,2.1
 Prisoners,USA,2013,153,4.5,0,Thriller,0,4.3
 Monster High: 13 Wishes,USA,2013,73,5,0,Fantasia,1,3.8
@@ -389,9 +393,11 @@ Frozen II,USA,2019,103,3,0,Aventura,1,3.1
 The Lighthouse,USA,2019,109,5,0,Thriller,0,4
 Jumanji: The Next Level,USA,2019,123,3,0,Aventura,0,2.9
 Little Women,USA,2019,135,5,0,História,0,4.2
-기생충,KOR,2019,133,4.5,0,Thriller,0,4.6
+Parasite,KOR,2019,133,4.5,0,Thriller,0,4.6
 John Wick: Chapter 3 – Parabellum,USA,2019,131,5,0,Ação,0,3.7
 Star Wars: The Rise of Skywalker,USA,2019,142,0.5,0,Ação,0,2.3
+Democracia em Vertigem,BRA,2019,121,3.5,0,Documentário,0,3.7
+"Extremely Wicked, Shockingly Evil and Vile",USA,2019,111,2,0,Crime,0,3.1
 Enola Holmes,USA,2020,123,3.5,0,Mistério,0,3.1
 Heaven Reaches Down to Earth,ZAF,2020,10,4,1,Drama,0,3.4
 Soul,USA,2020,101,4,0,Comédia,1,3.9
