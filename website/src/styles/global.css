@@ -2,10 +2,10 @@
   --bg: #ffffff;
   --bg-alt: #f5f5f5;
   --text: #1C1C1C;
-  --primary: #7F27FF;
-  --secondary: #9F70FD;
-  --accent: #FF8911;
-  --highlight: #FDBF60;
+  --primary: #FA812F;    /* laranja queimado */
+  --secondary: #FFB55A;  /* laranja claro/dourado */
+  --accent: #FF8911;     /* destaque forte */
+  --highlight: #FDBF60;  /* destaque suave */
   --muted: #666;
   --font: 'Inter', sans-serif;
 }
@@ -14,12 +14,13 @@
   --bg: #161618;
   --bg-alt: #1C1C1C;
   --text: #ffffff;
-  --primary: #9F70FD;
-  --secondary: #7F27FF;
+  --primary: #FFB55A;
+  --secondary: #FA812F;
   --accent: #FDBF60;
   --highlight: #FF8911;
   --muted: #aaa;
 }
+
 
 body {
   margin: 0;

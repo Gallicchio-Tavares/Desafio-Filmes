@@ -1,7 +1,8 @@
-// src/pages/Home.jsx
 import React from "react";
 import Navbar from "../components/Navbar";
 import "../styles/Home.css";
+import headerImg from "../assets/desafio-filmes.png";
+import Footer from "../components/Footer";
 
 const Home = () => {
   return (
@@ -9,9 +10,7 @@ const Home = () => {
       <Navbar />
 
       <header className="header">
-        <h1 className="title">Desafio Um Mês de Filme</h1>
-        <h2 className="subtitle">Edição 2025</h2>
-        <p className="date-range">26/07 a 24/08 (período de férias)</p>
+      <img src={headerImg} alt="Desafio" className="header-img" />
       </header>
 
       <section className="section rules">
@@ -46,6 +45,7 @@ const Home = () => {
           <li>Quem não completar, perde tudo.</li>
         </ul>
       </section>
+      <Footer></Footer>
     </div>
   );
 };

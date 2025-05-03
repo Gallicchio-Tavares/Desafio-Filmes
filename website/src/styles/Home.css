@@ -5,7 +5,7 @@
 }
 
 .header {
-  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  background: #ffca65;
   color: #fff;
   padding: 3.5rem 2rem;
   text-align: center;
@@ -15,25 +15,20 @@
   animation: popIn 0.8s ease-out;
 }
 
-.title {
-  font-size: 3.4rem;
-  font-weight: 900;
-  margin-bottom: 0.3rem;
-  color: #fff;
+.header-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
-.subtitle {
-  font-size: 1.6rem;
-  font-weight: 500;
-  color: rgba(255, 255, 255, 0.9);
-}
 
-.date-range {
+/* .date-range {
   font-size: 1rem;
   font-style: italic;
   color: #ffe7d0;
   margin-top: 0.5rem;
-}
+} */
 
 .section {
   background-color: var(--bg-alt);

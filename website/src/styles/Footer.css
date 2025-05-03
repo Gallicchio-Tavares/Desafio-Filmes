@@ -1,0 +1,114 @@
+.footer {
+    background-color: var(--bg-alt);
+    color: var(--text);
+    font-family: var(--font);
+    padding: 2rem 1rem;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer h3 {
+    color: var(--primary);
+    margin-bottom: 1rem;
+  }
+  
+  .footer p,
+  .footer li,
+  .footer a {
+    color: var(--text);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    color: var(--accent);
+  }
+  
+  .footer-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .footer-form input {
+    padding: 0.5rem;
+    border: 1px solid var(--muted);
+    border-radius: 4px;
+    background-color: var(--bg);
+    color: var(--text);
+  }
+  
+  .footer-form button {
+    background-color: var(--primary);
+    color: var(--bg);
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .footer-form button:hover {
+    background-color: var(--accent);
+  }
+  
+  .footer-socials {
+    display: flex;
+    gap: 1rem;
+    font-size: 1.5rem;
+  }
+  
+  .footer-socials a {
+    color: var(--highlight);
+    transition: transform 0.3s ease;
+  }
+  
+  .footer-socials a:hover {
+    color: var(--accent);
+    transform: scale(1.2);
+  }
+  
+  .footer-image-wrapper {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 2rem;
+    background-color: #1c1c1c;
+  }
+  
+  .footer-bg-image {
+    display: block;
+    width: 100%;
+    height: auto;
+  
+    /* Fade retangular nas bordas */
+    mask-image: 
+      linear-gradient(to bottom, transparent 0%, black 20%, black 80%, transparent 100%),
+      linear-gradient(to right, transparent 0%, black 20%, black 80%, transparent 100%);
+    -webkit-mask-image: 
+      linear-gradient(to bottom, transparent 0%, black 20%, black 80%, transparent 100%),
+      linear-gradient(to right, transparent 0%, black 20%, black 80%, transparent 100%);
+    
+    mask-composite: intersect;
+    -webkit-mask-composite: destination-in;
+  }
+  
+  
+  .footer-bottom {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+  

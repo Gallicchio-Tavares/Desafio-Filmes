@@ -15,8 +15,8 @@
 
 .nav-link {
   padding: 0.5rem 1rem;
-  background-color: var(--secondary);
-  color: white;
+  background-color: var(--primary);
+  color: var(--bg);
   font-weight: 600;
   border-radius: 30px;
   text-transform: uppercase;
