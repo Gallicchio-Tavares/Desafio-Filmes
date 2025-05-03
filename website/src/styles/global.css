@@ -1,16 +1,4 @@
 :root {
-  --bg: #ffffff;
-  --bg-alt: #f5f5f5;
-  --text: #1C1C1C;
-  --primary: #FA812F;    /* laranja queimado */
-  --secondary: #FFB55A;  /* laranja claro/dourado */
-  --accent: #FF8911;     /* destaque forte */
-  --highlight: #FDBF60;  /* destaque suave */
-  --muted: #666;
-  --font: 'Inter', sans-serif;
-}
-
-[data-theme="dark"] {
   --bg: #161618;
   --bg-alt: #1C1C1C;
   --text: #ffffff;
@@ -19,8 +7,8 @@
   --accent: #FDBF60;
   --highlight: #FF8911;
   --muted: #aaa;
+  --font: 'Inter', sans-serif;
 }
-
 
 body {
   margin: 0;
