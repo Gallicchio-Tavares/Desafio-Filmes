@@ -1,0 +1,41 @@
+.faq {
+    background-color: var(--bg-alt);
+    border-left: 5px solid var(--primary);
+    padding: 1.8rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    animation: fadeInUp 0.6s ease-out;
+  }
+  
+.title{
+    color: var(--bg)
+}
+
+  .faq h3 {
+    font-size: 1.6rem;
+    color: var(--primary);
+    margin-bottom: 1rem;
+  }
+  
+  .faq p {
+    font-size: 1rem;
+    color: var(--text);
+    line-height: 1.6;
+  }
+  
+  .faq a {
+    color: var(--accent);
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .faq a:hover {
+    color: var(--highlight);
+  }
+  
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  

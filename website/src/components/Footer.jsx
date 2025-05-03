@@ -1,4 +1,5 @@
 import { FaGithub } from "react-icons/fa";
+import { Link } from "react-router-dom";
 import '../styles/Footer.css';
 import montypyhton from "../assets/monty-python-holy-grail.jpg";
 
@@ -15,23 +16,25 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="footer-content">
-        {/* Columns */}
-        <div>
-          <h3>Participar</h3>
-          <p>Gostou e quer participar do desafio? Entre em contato conosco</p>
-          <form className="footer-form">
-            <input type="email" placeholder="Email" />
-            <button type="submit">Subscribe</button>
-          </form>
+      <div>
+        <h3>Participar</h3>
+        <p>Gostou e quer participar do desafio? Entre em contato comigo:</p>
+        <div className="contact-buttons">
+            <a href="https://discord.com/users/umapessoahumana" target="_blank" rel="noopener noreferrer" className="contact-btn discord">
+                Me chama no Discord
+            </a>
+            <a href="https://wa.me/5521972685484?text=Olá,%20quero%20participar%20do%20Desafio%20Filmes%202025!" target="_blank" rel="noopener noreferrer" className="contact-btn whatsapp">
+                Fala comigo no WhatsApp
+            </a>
         </div>
+      </div>
+
 
         <div>
           <h3>Ajuda</h3>
           <ul>
-            <li><a href="#">FAQ</a></li>
-            <li><a href="#">Terms & Conditions</a></li>
-            <li><a href="#">Support</a></li>
-            <li><a href="#">Privacy</a></li>
+            <li><Link to="/faq">FAQ</Link></li>
+            <li><a href="/Termos-participacao.pdf" target="_blank" rel="noopener noreferrer">Termos e Condições</a></li>
           </ul>
         </div>
 

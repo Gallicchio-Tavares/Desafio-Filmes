@@ -112,3 +112,54 @@
     color: var(--muted);
   }
   
+
+  /* parte do PARTICIPE */
+
+  .footer-contact {
+    margin-top: 2rem;
+  }
+  
+  .contact-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .contact-btn {
+    display: inline-block;
+    padding: 0.75rem 1.25rem;
+    background-color: var(--bg-alt);  /* cor do fundo */
+    color: var(--text);               /* cor do texto */
+    border: 1px solid var(--muted);   /* borda suave */
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 500;
+    text-align: center;
+    transition: background-color 0.2s, transform 0.2s;
+    cursor: pointer;
+  }
+  
+  .contact-btn:hover {
+    background-color: var(--accent);
+    transform: translateY(-2px);
+    color: var(--bg);
+  }
+  
+  .discord {
+    background-color: #5865F2;  /* cor do Discord */
+    border-color: #4f5d90;      /* borda em tom mais escuro */
+  }
+  
+  .discord:hover {
+    background-color: #4b54b0;  /* escurece um pouco no hover */
+  }
+  
+  .whatsapp {
+    background-color: #25D366;  /* cor do WhatsApp */
+    border-color: #128C7E;      /* borda verde-escuro */
+  }
+  
+  .whatsapp:hover {
+    background-color: #128C7E;  /* escurece um pouco no hover */
+  }
+  
