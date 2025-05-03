@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  background-color: rgba(250, 129, 47, 0.1);
+  padding: 0.8rem 1.2rem;
+  border-radius: 50px;
+  box-shadow: 0 4px 10px rgba(250, 129, 47, 0.2);
+  backdrop-filter: blur(4px);
+  position: sticky;
+  top: 1rem;
+  z-index: 100;
+}
+
+.nav-link {
+  padding: 0.5rem 1rem;
+  background-color: var(--secondary);
+  color: white;
+  font-weight: 600;
+  border-radius: 30px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.85rem;
+  transition: all 0.25s ease-in-out;
+  text-decoration: none;
+  box-shadow: 0 2px 5px rgba(250, 129, 47, 0.3);
+}
+
+.nav-link:hover {
+  background-color: var(--highlight);
+  color: white;
+  transform: translateY(-2px) scale(1.05);
+  box-shadow: 0 4px 12px rgba(250, 64, 50, 0.4);
+}

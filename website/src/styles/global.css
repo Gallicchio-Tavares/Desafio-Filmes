@@ -1,0 +1,44 @@
+:root {
+  --bg: #ffffff;
+  --bg-alt: #f5f5f5;
+  --text: #1C1C1C;
+  --primary: #7F27FF;
+  --secondary: #9F70FD;
+  --accent: #FF8911;
+  --highlight: #FDBF60;
+  --muted: #666;
+  --font: 'Inter', sans-serif;
+}
+
+[data-theme="dark"] {
+  --bg: #161618;
+  --bg-alt: #1C1C1C;
+  --text: #ffffff;
+  --primary: #9F70FD;
+  --secondary: #7F27FF;
+  --accent: #FDBF60;
+  --highlight: #FF8911;
+  --muted: #aaa;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  background-color: var(--bg);
+  color: var(--text);
+  transition: all 0.3s ease-in-out;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--accent-light);
+}
+
+ul {
+  padding-left: 1.2rem;
+}
