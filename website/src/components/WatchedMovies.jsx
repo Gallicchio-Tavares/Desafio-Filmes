@@ -52,7 +52,7 @@ const WatchedMovies = () => {
                   <img src={selectedMovie.posterSrc} alt={selectedMovie.title} />
                 )}
               </div>
-
+              
               <div className="details-content">
                 <h2>{selectedMovie.title} <span>({selectedMovie.year})</span></h2>
                 <div className="details-metadata">
@@ -77,10 +77,6 @@ const WatchedMovies = () => {
                   </div>
                 )}
               </div>
-{/* 
-              <div>
-
-              </div> */}
             </div>
           ) : (
             <div className="no-selection">
