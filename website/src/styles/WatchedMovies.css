@@ -1,109 +1,362 @@
 .watched-section {
-    background-color: var(--bg-alt);
-    color: #fff;
-    padding: 2rem;
-    border-radius: 12px;
-    margin-bottom: 2rem;
+  background-color: var(--bg-alt);
+  color: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
+
+.watched-banner {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
+
+.banner-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  filter: brightness(0.5);
+}
+
+.banner-content {
+  position: absolute;
+  top: 50%;
+  left: 2rem;
+  transform: translateY(-50%);
+  color: white;
+}
+
+.banner-content h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.banner-content p {
+  font-size: 1rem;
+  opacity: 0.8;
+}
+
+/* Carrossel de filmes */
+.films-carousel-container {
+  margin: 2rem 0;
+}
+
+.films-carousel-container h3 {
+  padding: 0.5rem;
+  margin: 0 0 1rem 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  font-size: 1.2rem;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.films-carousel {
+  width: 100%;
+  overflow-x: hidden;
+  position: relative;
+  height: 300px;
+  margin-bottom: 2rem;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  padding: 0.5rem 0;
+  mask-image: linear-gradient(to right, transparent 0%, black 5%, black 95%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 5%, black 95%, transparent 100%);
+}
+
+.carousel-inner {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  white-space: nowrap;
+  transition: transform 0.3s ease;
+}
+
+.carousel-item {
+  flex: 0 0 auto;
+  margin: 0 0.5rem;
+  height: 90%;
+}
+
+.carousel-poster {
+  height: 100%;
+  width: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease;
+}
+
+.carousel-poster:hover {
+  transform: scale(1.05);
+}
+
+/* Novo layout lado a lado */
+.side-by-side-layout {
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+/* Painel de detalhes do filme (esquerda) */
+.movie-details-panel {
+  flex: 1;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  padding: 1.5rem;
+  min-height: 60vh;
+}
+
+/* Layout dos detalhes */
+.details-layout {
+  display: flex;
+  gap: 1.5rem;
+}
+
+/* Tamanho reduzido da capa no painel de detalhes */
+.details-poster {
+  flex: 0 0 140px; /* Reduzido de 180px para 140px */
+}
+
+.details-poster img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+}
+
+.details-content {
+  flex: 1;
+}
+
+.details-content h2 {
+  margin-top: 0;
+  font-size: 1.5rem; /* Reduzido de 1.8rem */
+  margin-bottom: 0.75rem;
+}
+
+.details-content h2 span {
+  font-weight: normal;
+  opacity: 0.8;
+  font-size: 1.3rem; /* Reduzido de 1.6rem */
+}
+
+.details-metadata {
+  margin-bottom: 1rem;
+}
+
+.details-metadata p {
+  margin: 0.35rem 0;
+  font-size: 0.95rem;
+}
+
+.category-tag {
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 0.5rem 1rem;
+  border-radius: 50px;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+.details-plot {
+  margin: 1rem 0;
+}
+
+.details-plot h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.details-genres {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-top: 0.75rem;
+}
+
+.genre-tag {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 0.3rem 0.8rem;
+  border-radius: 50px;
+  font-size: 0.8rem;
+}
+
+.details-rating {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.imdb-badge {
+  background-color: #f5c518;
+  color: black;
+  font-weight: bold;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+.rating-value {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.no-selection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  opacity: 0.7;
+}
+
+/* Grade de filmes assistidos (direita) */
+.movie-grid {
+  flex: 1;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  padding: 1rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.movie-grid h3 {
+  padding: 0.5rem;
+  margin: 0 0 1rem 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  font-size: 1.2rem;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.posters-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.75rem;
+  overflow-y: auto;
+  max-height: 65vh;
+  padding-right: 0.5rem;
+}
+
+.poster-container {
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  aspect-ratio: 2/3;
+  transition: transform 0.2s, box-shadow 0.2s;
+  border: 2px solid transparent;
+}
+
+.poster-container:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+.poster-container.selected {
+  border-color: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
+}
+
+.poster-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.poster-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 0.5rem;
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+/* Responsividade */
+@media (max-width: 1200px) {
+  .posters-grid {
+    grid-template-columns: repeat(3, 1fr);
   }
   
-  .watched-banner {
-    position: relative;
-    border-radius: 12px;
-    overflow: hidden;
-    margin-bottom: 2rem;
+  .films-carousel {
+    height: 250px;
+  }
+}
+
+@media (max-width: 992px) {
+  .posters-grid {
+    grid-template-columns: repeat(2, 1fr);
   }
   
-  .banner-img {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-    filter: brightness(0.5);
-        /* Fade retangular nas bordas */
-        mask-image: 
-        linear-gradient(to bottom, transparent 0%, black 20%, black 80%, transparent 100%),
-        linear-gradient(to right, transparent 0%, black 20%, black 80%, transparent 100%);
-      -webkit-mask-image: 
-        linear-gradient(to bottom, transparent 0%, black 20%, black 80%, transparent 100%),
-        linear-gradient(to right, transparent 0%, black 20%, black 80%, transparent 100%);
-      
-      mask-composite: intersect;
-      -webkit-mask-composite: destination-in;
+  .films-carousel {
+    height: 220px;
   }
   
-  .banner-content {
-    position: absolute;
-    top: 50%;
-    left: 2rem;
-    transform: translateY(-50%);
-    color: white;
+  .details-layout {
+    flex-direction: column;
   }
   
-  .banner-content h2 {
-    font-size: 2rem;
-    font-weight: bold;
-    margin-bottom: 0.5rem;
+  .details-poster {
+    align-self: center;
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .side-by-side-layout {
+    flex-direction: column;
   }
   
-  .banner-content p {
-    font-size: 1rem;
-    opacity: 0.8;
+  .details-layout {
+    flex-direction: row;
   }
   
-  .first-movie {
-    width: 15%;
-    height: auto;
-    border-radius: 6px;
-    box-shadow: 0 0 12px rgba(255, 255, 255, 0.2);
+  .details-poster {
+    margin-bottom: 0;
+  }
+  
+  .movie-details-panel {
+    margin-bottom: 1.5rem;
+  }
+  
+  .films-carousel {
+    height: 180px;
+  }
+}
+
+@media (max-width: 576px) {
+  .details-layout {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .details-poster {
     margin-bottom: 1rem;
   }
   
-  .poster-wrapper {
-    aspect-ratio: 2 / 3;
-    width: 100%;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  .details-content {
+    text-align: center;
   }
   
-  .film-cover {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    border-radius: 3px;
-  }  
-  
-  .poster-wrapper:hover {
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+  .posters-grid {
+    grid-template-columns: repeat(2, 1fr);
   }
   
+  .films-carousel {
+    height: 150px;
+  }
+}
 
-  /* WatchedMovies.css */
-  .film-strip {
-    height: auto;
-    width: auto;
-    display: grid;
-    gap: 1rem;
-    justify-content: center;
-    padding: 1.5rem 0;
-    grid-auto-rows: 120px;
+@media (max-width: 400px) {
+  .posters-grid {
+    grid-template-columns: repeat(1, 1fr);
   }
-  
-  @media (min-width: 1200px) {
-    .film-strip {
-      grid-template-columns: repeat(10, 80px);
-    }
-  }
-  
-  @media (min-width: 768px) and (max-width: 1199px) {
-    .film-strip {
-      grid-template-columns: repeat(8, 70px);
-    }
-  }
-  
-  @media (max-width: 767px) {
-    .film-strip {
-      grid-template-columns: repeat(5, 60px);
-      grid-auto-rows: 100px;
-    }
-  }
+}
