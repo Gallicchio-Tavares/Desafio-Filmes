@@ -1,69 +1,116 @@
 // src/components/WatchedMovies.jsx
-import React, { useEffect, useState } from 'react';
-import headerImage from '../assets/stats-header-2024.jpg';
+import React, { useEffect, useState, useRef } from 'react';
 import '../styles/WatchedMovies.css';
-
-// Load all film images using Vite's import.meta.glob
-const images = import.meta.glob('../assets/films/*.jpg', {
-  eager: true,
-  import: 'default',
-});
+import moviesData from '../data/moviesData.json';
 
 const WatchedMovies = () => {
-  const [filmImages, setFilmImages] = useState([]);
+  const [movies, setMovies] = useState([]);
+  const [selectedMovie, setSelectedMovie] = useState(null);
 
+  // Preparar caminho para imagens de pôster
   useEffect(() => {
-    // Sort based on filename number
-    const sortedImages = Object.entries(images)
-      .sort((a, b) => {
-        const getNumber = (str) => parseInt(str.match(/(\d+)\.jpg$/)?.[1] || '0', 10);
-        return getNumber(a[0]) - getNumber(b[0]);
-      })
-      .map(([_, src]) => src);
+    // Importar todas as imagens de filmes usando Vite's import.meta.glob
+    const posterImages = import.meta.glob('../assets/films/*.jpg', {
+      eager: true,
+      import: 'default',
+    });
 
-    setFilmImages(sortedImages);
+    // Mapear os dados do JSON combinando com os arquivos de imagem reais
+    const moviesWithPosters = moviesData.map(movie => {
+      const posterPath = Object.keys(posterImages).find(path => 
+        path.includes(`/${movie.id}.jpg`) || path.endsWith(movie.poster)
+      );
+
+      return {
+        ...movie,
+        posterSrc: posterPath ? posterImages[posterPath] : null
+      };
+    });
+
+    setMovies(moviesWithPosters);
+    // Selecionar o primeiro filme por padrão se houver filmes
+    if (moviesWithPosters.length > 0) {
+      setSelectedMovie(moviesWithPosters[0]);
+    }
   }, []);
 
-  const getFilmCount = () => {
-    const width = window.innerWidth;
-    let count;
-
-    if (width >= 1200) count = 20;
-    else if (width >= 768) count = 16;
-    else count = 10;
-  
-    return count % 2 === 0 ? count : count - 1;
+  const handleSelectMovie = (movie) => {
+    if (selectedMovie?.id === movie.id) {
+      setSelectedMovie(null);
+    } else {
+      setSelectedMovie(movie);
+    }
   };
-  
-  const [filmCount, setFilmCount] = useState(getFilmCount());
-  
-  useEffect(() => {
-    const handleResize = () => setFilmCount(getFilmCount());
-    window.addEventListener('resize', handleResize);
-    return () => window.removeEventListener('resize', handleResize);
-  }, []);
-  
-
 
   return (
     <section className="watched-section">
-      <div className="watched-banner">
-        <img src={headerImage} alt="Stats Header" className="banner-img" />
-        <div className="banner-content">
-          {filmImages[0] && (
-            <img src={filmImages[0]} alt="First Movie" className="first-movie" />
+        <div className="movie-details-panel">
+          {selectedMovie ? (
+            <div className="details-layout">
+              <div className="details-poster">
+                {selectedMovie.posterSrc && (
+                  <img src={selectedMovie.posterSrc} alt={selectedMovie.title} />
+                )}
+              </div>
+              
+              <div className="details-content">
+                <h2>{selectedMovie.title} <span>({selectedMovie.year})</span></h2>
+                <div className="details-metadata">
+                  <p><strong>Diretor:</strong> {selectedMovie.director}</p>
+                  <p><strong>País:</strong> {selectedMovie.country}</p>
+                  <p><strong>Duração:</strong> {selectedMovie.runtime} minutos</p>
+                </div>
+                {selectedMovie.genre && (
+                  <div className="details-genres">
+                    {Array.isArray(selectedMovie.genre) 
+                      ? selectedMovie.genre.map(g => (
+                          <span key={g} className="genre-tag">{g}</span>
+                        ))
+                      : <span className="genre-tag">{selectedMovie.genre}</span>
+                    }
+                  </div>
+                )}
+                {selectedMovie.imdbRating && (
+                  <div className="details-rating">
+                    <span className="imdb-badge">IMDb</span>
+                    <span className="rating-value">{selectedMovie.imdbRating}</span>
+                  </div>
+                )}
+              </div>
+            </div>
+          ) : (
+            <div className="no-selection">
+              <p>Selecione um filme da lista para ver mais detalhes</p>
+            </div>
           )}
-          <h2>Desafio 1 Mês de Filme - 2024</h2>
-          <p>Desafio de 2024 de assistir um filme todo dia durante um mês!</p>
         </div>
-      </div>
-      <div className="film-strip">
-        {filmImages.slice(1, filmCount+1).map((img, idx) => (
-          <div className="poster-wrapper" key={idx}>
-            <img src={img} alt={`Filme ${idx + 1}`} className="film-cover" />
+        
+        <div className="movie-grid">
+          <h3>Filmes Assistidos</h3>
+          <div className={`posters-grid ${selectedMovie ? 'dim-others' : ''}`}>
+            {movies.map((movie) => (
+              <div 
+                key={movie.id}
+                className={`poster-container ${selectedMovie?.id === movie.id ? 'selected' : ''}`}
+                onClick={() => handleSelectMovie(movie)}
+                aria-label={`Selecionar filme ${movie.title}`}
+              >
+                {movie.posterSrc ? (
+                  <img 
+                    src={movie.posterSrc} 
+                    alt={`Poster do filme ${movie.title}`} 
+                    className="poster-image" 
+                    loading="lazy"
+                  />
+                ) : (
+                  <div className="poster-placeholder">
+                    <span>{movie.title}</span>
+                  </div>
+                )}
+              </div>
+            ))}
           </div>
-        ))}
-      </div>
+        </div>
     </section>
   );
 };

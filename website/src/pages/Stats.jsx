@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import WatchedMovies from "../components/WatchedMovies";
 import "../styles/Stats.css";
 
 const Stats = () => {
@@ -58,8 +57,6 @@ const Stats = () => {
           </span>
         </div>
       </header>
-
-      <WatchedMovies />
 
       <section className="section generos">
         <h3 className="sc-title">Gêneros mais vistos</h3>
