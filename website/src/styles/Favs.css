@@ -79,9 +79,9 @@
   
   /* Responsividade */
   @media (max-width: 768px) {
-    .filmes-grid {
+    /* .filmes-grid {
       grid-template-columns: repeat(2, 1fr);
-    }
+    } */
     
     .participante-favoritos {
       padding: 1rem;
@@ -94,7 +94,7 @@
     }
     
     .filme-card {
-      max-width: 200px;
+      max-width: 180px;
       margin: 0 auto;
     }
     

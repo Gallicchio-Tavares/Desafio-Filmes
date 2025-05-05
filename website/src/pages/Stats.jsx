@@ -126,7 +126,7 @@ const Stats = () => {
   // seçao filmes favoritos
   // Adicione isso no início do seu componente Stats
   const favoritos = {
-    voce: {
+    eu: {
       nome: "Uma Pessoa Humana", // Substitua pelo seu nome
       corPrimaria: "#A78BFA", // Roxo pastel
       corSecundaria: "#C4B5FD", // Roxo mais claro
@@ -297,17 +297,16 @@ const Stats = () => {
         <h3 className="sc-title">Filmes favoritos da edição</h3>
         
         <div className="favoritos-container">
-          {/* Seus favoritos */}
           <div 
             className="participante-favoritos"
             style={{
-              '--cor-primaria': favoritos.voce.corPrimaria,
-              '--cor-secundaria': favoritos.voce.corSecundaria
+              '--cor-primaria': favoritos.eu.corPrimaria,
+              '--cor-secundaria': favoritos.eu.corSecundaria
             }}
           >
-            <h4 className="participante-nome">{favoritos.voce.nome}</h4>
+            <h4 className="participante-nome">{favoritos.eu.nome}</h4>
             <div className="filmes-grid">
-              {favoritos.voce.filmes.map(filme => (
+              {favoritos.eu.filmes.map(filme => (
                 <div key={filme.id} className="filme-card">
                   <img
                     src={posters[`../assets/films/${filme.id}.jpg`].default}
@@ -323,7 +322,6 @@ const Stats = () => {
             </div>
           </div>
 
-          {/* Favoritos do amigo */}
           <div 
             className="participante-favoritos"
             style={{
