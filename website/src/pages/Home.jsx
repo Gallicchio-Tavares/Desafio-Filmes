@@ -38,6 +38,7 @@ const Home = () => {
       <section className="section rules">
         <h3>Como funciona</h3>
         <ul>
+          <li>O desafio ocorrerá a partir do dia 26/07 até 24/08.</li>
           <li>Assista <strong>1 filme por dia</strong> sem pular nem acumular.</li>
           <li>O filme precisa ser <strong>inédito</strong> pra você e ter <strong>pelo menos 60 minutos</strong>.</li>
           <li>Não pode começar um filme num dia e terminar no outro.</li>
