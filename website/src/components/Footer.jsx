@@ -55,7 +55,7 @@ export default function Footer() {
 
 
       <div className="footer-bottom">
-        <p>© {new Date().getFullYear()} Desafio Filmes. Feito por Uma Pessoa Humana.</p>
+        <p>© {new Date().getFullYear()} Desafio Filmes. Feito por Uma Pessoa Humana e Mathamen.</p>
       </div>
     </footer>
   );

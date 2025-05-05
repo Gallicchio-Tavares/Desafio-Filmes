@@ -1,41 +1,236 @@
+/* Estilos base para o FAQ */
 .faq {
-    background-color: var(--bg-alt);
-    border-left: 5px solid var(--primary);
-    padding: 1.8rem;
-    border-radius: 10px;
-    margin-bottom: 2rem;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-    animation: fadeInUp 0.6s ease-out;
-  }
-  
-.title{
-    color: var(--bg)
+  background-color: var(--bg-alt);
+  border-left: 5px solid var(--primary);
+  padding: 1.8rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  animation: fadeInUp 0.6s ease-out;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+.faq:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  color: var(--bg);
+  text-align: center;
+  margin-bottom: 0.5rem;
+  font-size: 2.4rem;
+}
+
+.faq-intro {
+  color: var(--text);
+  font-size: 1.1rem;
+  text-align: center;
+  margin-bottom: 2.5rem;
+  opacity: 0.8;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.faq h3 {
+  font-size: 1.6rem;
+  color: var(--primary);
+  margin-bottom: 1rem;
+}
+
+.faq p {
+  font-size: 1rem;
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.faq a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.3s ease;
+  font-weight: 500;
+  padding: 0 3px;
+}
+
+.faq a:hover {
+  color: var(--highlight);
+  text-decoration: underline;
+}
+
+/* Estilos para o sistema de abas de categorias */
+.faq-category-tabs {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 3rem;
+  padding: 0.5rem;
+  background-color: rgba(0, 0, 0, 0.15);
+  border-radius: 16px;
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.category-tab {
+  background-color: transparent;
+  color: var(--text);
+  border: none;
+  padding: 0.8rem 1.5rem;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  font-weight: 500;
+  position: relative;
+  overflow: hidden;
+}
+
+.category-tab:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.category-tab.active {
+  background-color: var(--primary);
+  color: var(--bg);
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(var(--primary-rgb), 0.3);
+  transform: translateY(-2px);
+}
+
+.category-tab:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(var(--primary-rgb), 0.3);
+}
+
+/* Efeito de ripple para os botões */
+.category-tab::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 5px;
+  height: 5px;
+  background: rgba(255, 255, 255, 0.5);
+  opacity: 0;
+  border-radius: 100%;
+  transform: scale(1, 1) translate(-50%, -50%);
+  transform-origin: 50% 50%;
+}
+
+.category-tab:active::after {
+  animation: ripple 0.6s ease-out;
+}
+
+@keyframes ripple {
+  0% { transform: scale(0, 0); opacity: 0.5; }
+  100% { transform: scale(30, 30); opacity: 0; }
+}
+
+/* Estilos para as categorias */
+.faq-category {
+  display: none;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.4s ease, transform 0.4s ease;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.faq-category.active {
+  display: block;
+  opacity: 1;
+  transform: translateY(0);
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+/* Estilos para listas dentro do FAQ */
+.faq-list {
+  list-style-type: disc;
+  margin-top: 1rem;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.faq-list li {
+  margin-bottom: 0.7rem;
+  line-height: 1.5;
+  color: var(--text);
+}
+
+/* Animações */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .faq-category-tabs {
+    gap: 0.5rem;
+    padding: 0.4rem;
+  }
+  
+  .category-tab {
+    padding: 0.7rem 1.2rem;
+    font-size: 0.95rem;
+  }
+  
   .faq h3 {
-    font-size: 1.6rem;
-    color: var(--primary);
-    margin-bottom: 1rem;
+    font-size: 1.4rem;
   }
   
-  .faq p {
-    font-size: 1rem;
-    color: var(--text);
-    line-height: 1.6;
+  .faq {
+    padding: 1.5rem;
   }
   
-  .faq a {
-    color: var(--accent);
-    text-decoration: none;
-    transition: color 0.3s ease;
+  .title {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .category-tab {
+    padding: 0.6rem 1rem;
+    font-size: 0.85rem;
   }
   
-  .faq a:hover {
-    color: var(--highlight);
+  .faq-intro {
+    font-size: 0.95rem;
+    margin-bottom: 2rem;
   }
   
-  @keyframes fadeInUp {
-    from { opacity: 0; transform: translateY(15px); }
-    to { opacity: 1; transform: translateY(0); }
+  .faq h3 {
+    font-size: 1.3rem;
   }
   
+  .faq {
+    padding: 1.2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .faq-list {
+    margin-left: 1.5rem;
+  }
+}
+
+/* Estilo para destacar perguntas específicas */
+.faq.highlighted {
+  border-left-color: var(--accent);
+  background-color: rgba(var(--accent-rgb), 0.05);
+}
+
+/* Efeito de transição para hover nas perguntas */
+.faq {
+  transition: border-left-color 0.3s ease, background-color 0.3s ease;
+}
+
+.faq:hover {
+  border-left-color: var(--highlight);
+}
