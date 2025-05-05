@@ -6,6 +6,7 @@ import movies from "../data/moviesData.json";
 import "../styles/StatsHighlights.css";
 import "../styles/Stats.css";
 import "../styles/Decadas.css"
+import "../styles/Favs.css";
 
 const Stats = () => {
   const posters = import.meta.glob('../assets/films/*.jpg', { eager: true });
@@ -121,6 +122,23 @@ const Stats = () => {
   
   const dadosDecadas = agruparPorDecada();
   const maxDecadas = Math.max(...dadosDecadas.map(d => d.count));
+
+  // seçao filmes favoritos
+  // Adicione isso no início do seu componente Stats
+  const favoritos = {
+    voce: {
+      nome: "Uma Pessoa Humana", // Substitua pelo seu nome
+      corPrimaria: "#A78BFA", // Roxo pastel
+      corSecundaria: "#C4B5FD", // Roxo mais claro
+      filmes: [23, 16, 5].map(id => movies.find(m => m.id === id))
+    },
+    amigo: {
+      nome: "mathamen", // Substitua pelo nome do seu amigo
+      corPrimaria: "#6EE7B7", // Verde pastel
+      corSecundaria: "#A7F3D0", // Verde mais claro
+      filmes: [7, 57, 45].map(id => movies.find(m => m.id === id))
+    }
+  };
 
   return (
     <div className="container">
@@ -275,13 +293,62 @@ const Stats = () => {
         </div>
       </section>
 
-      <section className="section mapa">
-        <h3 className="sc-title">Mapa mundial dos filmes</h3>
-        {/* <img src={mapa} alt="Mapa dos países dos filmes" className="grafico" /> */}
-      </section>
-
       <section className="section favoritos">
         <h3 className="sc-title">Filmes favoritos da edição</h3>
+        
+        <div className="favoritos-container">
+          {/* Seus favoritos */}
+          <div 
+            className="participante-favoritos"
+            style={{
+              '--cor-primaria': favoritos.voce.corPrimaria,
+              '--cor-secundaria': favoritos.voce.corSecundaria
+            }}
+          >
+            <h4 className="participante-nome">{favoritos.voce.nome}</h4>
+            <div className="filmes-grid">
+              {favoritos.voce.filmes.map(filme => (
+                <div key={filme.id} className="filme-card">
+                  <img
+                    src={posters[`../assets/films/${filme.id}.jpg`].default}
+                    alt={filme.title}
+                    className="filme-poster"
+                    loading="lazy"
+                  />
+                  <div className="filme-overlay">
+                    <span>{filme.title}</span>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* Favoritos do amigo */}
+          <div 
+            className="participante-favoritos"
+            style={{
+              '--cor-primaria': favoritos.amigo.corPrimaria,
+              '--cor-secundaria': favoritos.amigo.corSecundaria
+            }}
+          >
+            <h4 className="participante-nome">{favoritos.amigo.nome}</h4>
+            <div className="filmes-grid">
+              {favoritos.amigo.filmes.map(filme => (
+                <div key={filme.id} className="filme-card">
+                  <img
+                    src={posters[`../assets/films/${filme.id}.jpg`].default}
+                    alt={filme.title}
+                    className="filme-poster"
+                    loading="lazy"
+                  />
+                  <div className="filme-overlay">
+                    <span>{filme.title}</span>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
       </section>
 
       <Footer />

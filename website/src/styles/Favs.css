@@ -1,0 +1,128 @@
+
+  .favoritos-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 1.5rem;
+  }
+  
+  /* Estilo de cada participante */
+  .participante-favoritos {
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 12px;
+    padding: 1.5rem;
+    border-left: 4px solid var(--cor-primaria);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  }
+  
+  .participante-nome {
+    font-family: var(--font);
+    color: var(--cor-primaria);
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--cor-secundaria);
+  }
+  
+  /* Grid de filmes */
+  .filmes-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+  }
+  
+  .filme-card {
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    aspect-ratio: 2/3;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .filme-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
+  }
+  
+  .filme-poster {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .filme-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
+    padding: 1rem;
+    color: white;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .filme-card:hover .filme-overlay {
+    opacity: 1;
+  }
+  
+  .filme-overlay span {
+    font-size: 0.9rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  /* Responsividade */
+  @media (max-width: 768px) {
+    .filmes-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .participante-favoritos {
+      padding: 1rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .filmes-grid {
+      grid-template-columns: 1fr;
+    }
+    
+    .filme-card {
+      max-width: 200px;
+      margin: 0 auto;
+    }
+    
+    .favoritos-container {
+      gap: 1.5rem;
+    }
+  }
+
+  /* Adicione ao CSS existente */
+.participante-favoritos {
+  position: relative;
+  overflow: hidden;
+}
+
+.participante-favoritos::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--cor-primaria), var(--cor-secundaria));
+}
+
+.filme-card {
+  perspective: 1000px;
+}
+
+.filme-card:hover {
+  transform: translateY(-5px) rotateX(5deg);
+}
