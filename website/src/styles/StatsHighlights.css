@@ -23,6 +23,7 @@
   grid-template-rows: repeat(2, auto);    /* 2 linhas */
   max-width: 1200px;
   margin: 0 auto;
+  margin-top: 1rem;
 }
 
 .stats-card {

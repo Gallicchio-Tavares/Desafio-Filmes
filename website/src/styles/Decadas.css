@@ -1,0 +1,86 @@
+  .decadas-chart {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 1rem;
+    padding: 0 1rem;
+  }
+  
+  .decada-bar-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    gap: 1rem;
+  }
+  
+  .decada-label {
+    width: 80px;
+    text-align: right;
+    font-size: 0.9rem;
+    color: var(--muted);
+    font-family: var(--font);
+  }
+  
+  .decada-bar-bg {
+    flex: 1;
+    height: 30px;
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 4px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .decada-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--secondary));
+    transition: width 0.5s ease;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 10px;
+  }
+  
+  .decada-count {
+    color: var(--bg);
+    font-weight: 600;
+    font-size: 0.85rem;
+    font-family: var(--font);
+    text-shadow: 0 0 1px rgba(255, 255, 255, 0.3);
+  }
+  
+  /* Responsividade */
+  @media (max-width: 768px) {
+    .section.decadas {
+      padding: 1.5rem;
+    }
+    
+    .decada-bar-bg {
+      height: 26px;
+    }
+    
+    .decada-label {
+      width: 70px;
+      font-size: 0.85rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .decada-bar-container {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+    
+    .decada-label {
+      width: 100%;
+      text-align: left;
+      padding-right: 0;
+    }
+    
+    .decada-bar-bg {
+      width: 100%;
+    }
+    
+    .decada-count {
+      font-size: 0.8rem;
+    }
+  }

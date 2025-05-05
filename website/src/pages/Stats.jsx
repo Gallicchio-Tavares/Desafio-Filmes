@@ -5,6 +5,7 @@ import WatchedMovies from "../components/WatchedMovies";
 import movies from "../data/moviesData.json";
 import "../styles/StatsHighlights.css";
 import "../styles/Stats.css";
+import "../styles/Decadas.css"
 
 const Stats = () => {
   const posters = import.meta.glob('../assets/films/*.jpg', { eager: true });
@@ -86,6 +87,40 @@ const Stats = () => {
   
   const maxCountry = Math.max(...countries.map(c => c.count));
   const maxLanguage = Math.max(...languages.map(l => l.count));
+
+  // parte do grafico de distribuicao por decada:
+  const agruparPorDecada = () => {
+    const decadas = {};
+    
+    movies.forEach(movie => {
+      const decada = Math.floor(movie.year / 10) * 10;
+      const decadaKey = `${decada}s`;
+      
+      if (!decadas[decadaKey]) {
+        decadas[decadaKey] = {
+          count: 0,
+          startYear: decada,
+          filmes: []
+        };
+      }
+      
+      decadas[decadaKey].count++;
+      decadas[decadaKey].filmes.push(movie.title);
+    });
+  
+    // Converte para array e ordena
+    return Object.entries(decadas)
+      .map(([decada, data]) => ({
+        decada,
+        count: data.count,
+        startYear: data.startYear,
+        filmes: data.filmes
+      }))
+      .sort((a, b) => a.startYear - b.startYear);
+  };
+  
+  const dadosDecadas = agruparPorDecada();
+  const maxDecadas = Math.max(...dadosDecadas.map(d => d.count));
 
   return (
     <div className="container">
@@ -215,6 +250,25 @@ const Stats = () => {
                     <span className="stats-empate"> • {filmes.length} empatados</span>
                   )}
                 </p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section className="section decadas">
+        <h3 className="sc-title">Filmes assistidos por década</h3>
+        <div className="decadas-chart">
+          {dadosDecadas.map(({ decada, count }) => (
+            <div key={decada} className="decada-bar-container">
+              <div className="decada-label">{decada}</div>
+              <div className="decada-bar-bg">
+                <div 
+                  className={`decada-bar-fill ${count === maxDecadas ? 'highest' : ''}`}
+                  style={{ width: `${(count / maxDecadas) * 100}%` }}
+                >
+                  <span className="decada-count">{count}</span>
+                </div>
               </div>
             </div>
           ))}
