@@ -1,0 +1,150 @@
+.stats-section {
+  padding: 4rem 2rem;
+  background-color: #121212;
+  color: #ffffff;
+  text-align: center;
+}
+
+.stats-title {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.stats-movie{
+  color: var(--muted);
+  font-family: 'Inter', sans-serif;
+}
+
+/* Grid principal: 3 colunas × 2 linhas */
+.stats-grid {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(3, 1fr);  /* 3 colunas */
+  grid-template-rows: repeat(2, auto);    /* 2 linhas */
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.stats-card {
+  background-color: var(--bg-alt);
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  transition: transform 0.2s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.stats-card:hover {
+  transform: translateY(-4px);
+}
+
+.stats-poster {
+  width: 100%;
+  max-width: 180px;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  aspect-ratio: 2/3;
+  object-fit: cover;
+}
+
+.stats-subtitle {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  color: #f5c518;
+}
+
+.stats-movie {
+  font-size: 0.95rem;
+  color: #bbbbbb;
+}
+
+/* Responsividade */
+@media (max-width: 1024px) {
+  .stats-grid {
+    gap: 1.5rem;
+    grid-template-columns: repeat(3, 1fr); /* Mantém 3 colunas */
+  }
+  
+  .stats-poster {
+    max-width: 160px;
+  }
+}
+
+@media (max-width: 768px) {
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr); /* Reduz para 2 colunas */
+    grid-template-rows: repeat(3, auto);   /* Ajusta para 3 linhas */
+    max-width: 800px;
+  }
+  
+  .stats-section {
+    padding: 3rem 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .stats-grid {
+    grid-template-columns: 1fr; /* 1 coluna em mobile */
+    grid-template-rows: repeat(6, auto);
+    max-width: 400px;
+  }
+  
+  .stats-card {
+    flex-direction: row;
+    text-align: left;
+    gap: 1.5rem;
+    align-items: center;
+  }
+  
+  .stats-poster {
+    max-width: 100px;
+    margin-bottom: 0;
+  }
+  
+  .stats-highlight-info {
+    font-size: 0.9rem;
+    padding: 0.2rem 0.5rem;
+  }
+}
+
+.stats-info-container {
+  width: 100%;
+}
+
+.stats-highlight-info {
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  padding: 0.3rem 0.6rem;
+  background: rgba(245, 197, 24, 0.1); /* Fundo amarelo suave (cor do IMDb) */
+  border-radius: 4px;
+  display: inline-block;
+  color: #f5c518; /* Cor do IMDb */
+  font-weight: 500;
+}
+
+.stats-empate {
+  font-size: 0.8rem;
+  opacity: 0.8;
+  margin-left: 0.3rem;
+}
+
+.stats-movie span[title] {
+  border-bottom: 1px dotted #aaa;
+  cursor: help;
+}
+
+/* Melhoria para mostrar todos os filmes empatados em hover */
+.stats-card:hover .stats-movie span[title]:after {
+  content: attr(title);
+  position: absolute;
+  background: rgba(0,0,0,0.9);
+  padding: 0.5rem;
+  border-radius: 4px;
+  z-index: 10;
+  width: max-content;
+  max-width: 200px;
+  transform: translateY(1.5rem);
+}
