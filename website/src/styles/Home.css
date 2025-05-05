@@ -71,3 +71,57 @@ ul, ol {
   from { opacity: 0; transform: scale(0.95); }
   to { opacity: 1; transform: scale(1); }
 }
+
+
+/* header */
+
+.hero-content {
+  flex: 1;
+  padding: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 2;
+}
+
+.hero-tagline {
+  font-size: 1.5rem;
+  color: var(--primary);
+  margin: 1rem 0 0;
+  max-width: 600px;
+}
+
+.hero-stats {
+  display: flex;
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-number {
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--secondary);
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+/* Responsividade */
+@media (max-width: 1024px) {
+  
+  .hero-content {
+    padding: 2rem;
+    order: 2;
+  }
+  
+  .hero-stats {
+    flex-wrap: wrap;
+  }
+}

@@ -3,14 +3,36 @@ import Navbar from "../components/Navbar";
 import "../styles/Home.css";
 import headerImg from "../assets/desafio-filmes.png";
 import Footer from "../components/Footer";
+import CountdownTimer from "../components/CountdownTimer";
 
 const Home = () => {
+  
   return (
     <div className="container">
       <Navbar />
 
-      <header className="header">
+      <header>
       <img src={headerImg} alt="Desafio" className="header-img" />
+      <div className="hero-content">
+          <p className="hero-tagline">30 dias. 30 filmes. Uma jornada cinematográfica única.</p>
+           
+          <div className="hero-stats">
+            <div className="stat-item">
+              <span className="stat-number">+100</span>
+              <span className="stat-label">Horas assistidas</span>
+            </div>
+            <div className="stat-item">
+              <span className="stat-number">50+</span>
+              <span className="stat-label">Filmes Vistos</span>
+            </div>
+            <div className="stat-item">
+              <span className="stat-number">100%</span>
+              <span className="stat-label">Amor por Cinema</span>
+            </div>
+          </div>
+
+          <CountdownTimer />
+        </div>
       </header>
 
       <section className="section rules">
