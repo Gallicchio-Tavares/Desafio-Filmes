@@ -93,14 +93,17 @@ const WatchedMovies = () => {
                 key={movie.id}
                 className={`poster-container ${selectedMovie?.id === movie.id ? 'selected' : ''}`}
                 onClick={() => handleSelectMovie(movie)}
-                aria-label={`Selecionar filme ${movie.title}`}
               >
                 {movie.posterSrc ? (
                   <img 
                     src={movie.posterSrc} 
-                    alt={`Poster do filme ${movie.title}`} 
-                    className="poster-image" 
+                    alt={`Poster do filme ${movie.title}`}
+                    className="poster-image"
                     loading="lazy"
+                    onError={(e) => {
+                      e.target.src = '/placeholder.jpg';
+                      e.target.className = 'poster-placeholder';
+                    }}
                   />
                 ) : (
                   <div className="poster-placeholder">
