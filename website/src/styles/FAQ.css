@@ -22,17 +22,6 @@
   font-size: 2.4rem;
 }
 
-.faq-intro {
-  color: var(--text);
-  font-size: 1.1rem;
-  text-align: center;
-  margin-bottom: 2.5rem;
-  opacity: 0.8;
-  max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .faq h3 {
   font-size: 1.6rem;
   color: var(--primary);
@@ -42,7 +31,11 @@
 .faq p {
   font-size: 1rem;
   color: var(--text);
-  line-height: 1.6;
+  text-align: justify;
+  text-justify: inter-word; /* Melhora a distribuição do espaço entre palavras */
+  /* hyphens: auto; */
+  line-height: 1.6; /* Espaçamento entre linhas para melhor legibilidade */
+  margin-bottom: 1rem;
 }
 
 .faq a {
@@ -199,11 +192,6 @@
   .category-tab {
     padding: 0.6rem 1rem;
     font-size: 0.85rem;
-  }
-  
-  .faq-intro {
-    font-size: 0.95rem;
-    margin-bottom: 2rem;
   }
   
   .faq h3 {

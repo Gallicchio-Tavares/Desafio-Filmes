@@ -16,7 +16,6 @@ const FAQ = () => {
       
       <header className="header">
         <h1 className="title">FAQ - Perguntas Frequentes</h1>
-        <p className="faq-intro">Encontre respostas para as dúvidas mais comuns sobre o Desafio Filmes 2025</p>
       </header>
 
       <div className="faq-category-tabs">
@@ -51,70 +50,53 @@ const FAQ = () => {
         <section className="section faq">
           <h3>O que é o Desafio Filmes 2025?</h3>
           <p>
-            O Desafio Filmes 2025 é uma competição onde o objetivo é assistir a
-            30 filmes durante 30 dias, seguindo categorias específicas de filmes.
-            É uma forma divertida de explorar cinema de maneira organizada enquanto 
-            compete com amigos.
+            O Desafio Filmes 2025 é um projeto onde o objetivo é assistir a
+            30 filmes durante 1 mês (30 dias), seguindo algumas categorias específicas de filmes
+            para os participantes explorarem filmes que eles tipicamente não assistiriam.
+            É uma forma divertida de explorar a sétima arte enquanto competimos com amigos, 
+            com o prêmio como incentivo.
           </p>
         </section>
 
         <section className="section faq">
-          <h3>Quando acontece o Desafio Filmes 2025?</h3>
+          <h3>De onde surgiu a ideia?</h3>
           <p>
-            O desafio ocorrerá de 26 de julho a 24 de agosto de 2025. São exatamente 
-            30 dias para assistir 30 filmes.
+            Antes, era um projeto pessoal meu de conseguir assistir um filme todo dia durante um mês, 
+            porque eu nunca tive o costume de consumir muito esse tipo de conteúdo. Mas eu decidi 
+            apresentar a ideia pro meu amigo e a gente decidiu fazer disso um desafio valendo grana. A edição de 2024
+            foi só entre a gente, mas esse ano decidimos expandir pra quem quisesse participar. <i>Obs:
+            eu ganhei, ele me pagou o Disco Elysium que tava 25 reais na Steam na época.</i>
           </p>
         </section>
 
         <section className="section faq">
           <h3>Como eu participo?</h3>
           <p>
-            Basta seguir as regras do desafio e completar as 8 categorias de filmes. 
-            Você pode se inscrever através dos links de contato no nosso site até 
-            o dia 20 de julho de 2025.
-          </p>
-        </section>
-
-        <section className="section faq">
-          <h3>Posso participar sozinho?</h3>
-          <p>
-            Sim, você pode participar sozinho e acompanhar seu progresso. Porém, 
-            para concorrer à premiação, é necessário entrar no grupo oficial e 
-            contribuir com o valor estipulado.
+            Primeiro, você precisa comunicar o seu interesse em participar do desafio, seja pelo WhatsApp
+            ou pelo Discord. Daí, quando estiver próximo da data, nós vamos criar o grupo do desafio no
+            WhatsApp com todos os participantes. Você vai precisar contribuir com R$30,00 para entrar no desafio, que vai
+            compor o montante que será distribuído entre os vencedores ao cabo dos 30 dias de desafio.
           </p>
         </section>
         
         <section className="section faq">
           <h3>Como posso entrar em contato?</h3>
           <p>
-            Para mais informações, entre em contato conosco através do nosso 
+            Entre em contato conosco através do meu 
             <a href="https://discord.com/users/umapessoahumana"> Discord</a> ou 
-            <a href="https://wa.me/5521972685484?text=Olá,%20quero%20participar%20do%20Desafio%20Filmes%202025!"> WhatsApp</a>.
+            <a href="https://wa.me/5521972685484?text=Olá,%20quero%20participar%20do%20Desafio%20Filmes%202025!"> WhatsApp</a>. Os 
+            links também estão disponíveis no rodapé do site, junto com as minhas demais redes sociais.
           </p>
         </section>
       </div>
 
       {/* Regras */}
       <div className={`faq-category ${activeCategory === "regras" ? "active" : ""}`}>
-        <section className="section faq">
-          <h3>Quais são as regras básicas do desafio?</h3>
-          <p>
-            As regras básicas são:
-            <ul className="faq-list">
-              <li>Assista 1 filme por dia durante 30 dias consecutivos</li>
-              <li>O filme deve ser inédito para você</li>
-              <li>O filme precisa ter pelo menos 60 minutos de duração</li>
-              <li>Não é permitido acumular filmes ou assistir em dias diferentes</li>
-              <li>Não é permitido começar um filme em um dia e terminar no outro</li>
-            </ul>
-          </p>
-        </section>
 
         <section className="section faq">
-          <h3>Posso assistir filmes mais de uma vez?</h3>
+          <h3>Posso assistir mais de um filme em um dia só?</h3>
           <p>
-            Não. Cada filme assistido deve ser inédito para o participante e não pode ser repetido
-            durante o desafio.
+            Poder você pode, mas isso não vai contar pro desafio.
           </p>
         </section>
 
@@ -129,42 +111,33 @@ const FAQ = () => {
         <section className="section faq">
           <h3>O que acontece se eu perder um dia?</h3>
           <p>
-            Infelizmente, não há compensação para filmes não assistidos. Se você não 
+            Não há compensação para filmes não assistidos. Se você não 
             assistir a um filme em determinado dia, não poderá compensar assistindo a 
-            dois filmes no dia seguinte. Você continuará no desafio, mas não poderá mais 
-            concorrer à premiação final.
+            dois filmes no dia seguinte. Você pode continuar no desafio se quiser, mas não poderá mais 
+            concorrer à premiação final.<br></br><br></br>O único caso extremo aceito é se faltar luz ou qualquer conexão com a internet 
+            o dia inteiro, te impossibilitando de assistir a um filme ou a logar ele. Mas, se isso acontecer, 
+            você vai precisar comprovar que realmente foi impossibilitado (ex: print da concessionária de
+            luz ou internet. Eles têm apps/redes com histórico de falta de luz/internet).
           </p>
         </section>
         
         <section className="section faq">
           <h3>Como comprovar que assisti ao filme?</h3>
           <p>
-            Diariamente, você deve registrar o filme assistido no nosso grupo oficial. 
-            Recomendamos que também registre em plataformas como Letterboxd para melhor 
-            acompanhamento. Caso haja dúvidas, podemos pedir uma breve descrição ou análise 
-            do filme.
+            Diariamente, você deve registrar o filme assistido na plataforma Letterboxd. Ela é ideal para
+            esse desafio porque não tem como falsificar um log. Se você não registrou nada, por exemplo, no dia 5 e
+            logar qualquer coisa no dia 6 e mudar a data para o dia 5, ainda vai aparecer nas Atividades que 
+            você incluiu o filme no dia 6. Além disso, você vai precisar escrever, mesmo que um pouco,
+            sobre o que você viu e o que achou do filme. Então, não tem como mentir.
+            <br /><br />
+            Também, uma vez no desafio, você não vai poder desaparecer do grupo de mensagens. Dê sinais de vida
+            lá mostrando que você está ativo no desafio.
           </p>
         </section>
       </div>
 
       {/* Categorias */}
       <div className={`faq-category ${activeCategory === "categorias" ? "active" : ""}`}>
-        <section className="section faq">
-          <h3>Quais são as categorias do desafio?</h3>
-          <p>
-            O Desafio Filmes 2025 inclui 8 categorias especiais:
-            <ul className="faq-list">
-              <li>Filmes de 7 países diferentes (excluindo Brasil e países extintos)</li>
-              <li>2 filmes brasileiros (excluindo os mais conhecidos)</li>
-              <li>1 filme com 100 anos ou mais (até 1925)</li>
-              <li>1 filme do desafio passado que você ainda não assistiu</li>
-              <li>1 filme de um país que não existe mais</li>
-              <li>1 filme dirigido por uma mulher</li>
-              <li>1 filme de terror</li>
-              <li>1 filme com 3 horas ou mais de duração</li>
-            </ul>
-          </p>
-        </section>
         
         <section className="section faq">
           <h3>Um filme pode contar para mais de uma categoria?</h3>
@@ -178,9 +151,9 @@ const FAQ = () => {
           <h3>O que é considerado "um país que não existe mais"?</h3>
           <p>
             São países que existiram oficialmente, mas que atualmente não existem com 
-            a mesma formação política, como a União Soviética, Iugoslávia, Tchecoslováquia, 
-            entre outros. O filme deve ter sido produzido quando o país ainda existia 
-            oficialmente.
+            a mesma formação política. O filme deve ter sido <b>produzido no país</b> quando ele ainda existia 
+            oficialmente. Alguns exemplos que produziram filmes são: União Soviética, Iugoslávia, Tchecoslováquia, Pérsia, 
+            Ceilão, Índias Orientais Holandesas e Alemanha Oriental.
           </p>
         </section>
         
@@ -194,11 +167,19 @@ const FAQ = () => {
         </section>
         
         <section className="section faq">
-          <h3>Posso sugerir categorias para edições futuras?</h3>
+          <h3>Como eu posso procurar um filme para assistir?</h3>
           <p>
-            Sim! Recebemos sugestões de categorias para próximas edições. Envie suas 
-            ideias através do nosso Discord ou WhatsApp. As melhores sugestões poderão 
-            ser incorporadas em desafios futuros.
+            Use essas opções infalíveis em 99% das vezes, em ordem:
+            <ol>
+                <li>Se você tiver algum streaming, ver se o filme está nele</li> 
+                <li>Ver se o filme está em algum streaming gratuito (YouTube, PlutoTV, Plex, JustWatch. Mais comum pra filmes muito antigos)</li>
+                <li>Ver se o filme possui torrent (recomendação: usar o Stremio)</li>
+                <li>Procurar Drive do filme. A melhor maneira é entrar no grupo de Telegram do
+                  Clube do Drive, procurar o filme lá ou pedir o Drive caso ele ainda não esteja que
+                  alguém vai arrumar pra você.</li> 
+            </ol>
+            
+            Obs: pra filme brasileiro, é melhor pular o 3 e ir direto pro 4, porque a maioria dos torrents não vão ter seed nesses casos
           </p>
         </section>
       </div>
@@ -217,15 +198,18 @@ const FAQ = () => {
           <h3>Quando a premiação é distribuída?</h3>
           <p>
             A premiação será distribuída no dia 25 de agosto de 2025, após a verificação dos registros 
-            de todos os participantes. Certifique-se de que todos os filmes foram registrados corretamente.
+            de todos os participantes.
           </p>
         </section>
-        
+
         <section className="section faq">
-          <h3>O que acontece com o dinheiro dos participantes que não completarem o desafio?</h3>
+          <h3>Como o dinheiro será administrado?</h3>
           <p>
-            O valor dos participantes que não completarem o desafio será redistribuído entre os vencedores 
-            que completarem o desafio inteiro.
+            O dinheiro será administrado por mim, que estou organizando o desafio. Eu criei uma conta
+            exclusiva para o desafio e eu vou divulgar todo o valor arrecadado. Quando o grupo de 
+            mensagens for criado, eu vou passar a chave Pix (desafio.filmes.oficial@gmail.com) para
+            que todos enviem o valor.
+
           </p>
         </section>
         
