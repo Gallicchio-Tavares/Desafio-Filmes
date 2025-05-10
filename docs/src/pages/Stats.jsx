@@ -294,60 +294,68 @@ const Stats = () => {
       </section>
 
       <section className="section favoritos">
-        <h3 className="sc-title">Filmes favoritos da edição</h3>
-        
-        <div className="favoritos-container">
-          <div 
-            className="participante-favoritos"
-            style={{
-              '--cor-primaria': favoritos.eu.corPrimaria,
-              '--cor-secundaria': favoritos.eu.corSecundaria
-            }}
-          >
-            <h4 className="participante-nome">{favoritos.eu.nome}</h4>
-            <div className="filmes-grid">
-              {favoritos.eu.filmes.map(filme => (
-                <div key={filme.id} className="filme-card">
-                  <img
-                    src={posters[`../assets/films/${filme.id}.jpg`].default}
-                    alt={filme.title}
-                    className="filme-poster"
-                    loading="lazy"
-                  />
-                  <div className="filme-overlay">
-                    <span>{filme.title}</span>
-                  </div>
-                </div>
-              ))}
+  <h3 className="sc-title">Filmes favoritos da edição</h3>
+  
+  <div className="favoritos-container">
+    <div 
+      className="participante-favoritos"
+      style={{
+        '--cor-primaria': favoritos.eu.corPrimaria,
+        '--cor-secundaria': favoritos.eu.corSecundaria
+      }}
+    >
+      <h4 className="participante-nome">{favoritos.eu.nome}</h4>
+      <div className="filmes-grid">
+        {favoritos.eu.filmes.map(filme => (
+          <div key={filme.id} className="filme-card">
+            <img
+              src={posters[`../assets/films/${filme.id}.jpg`].default}
+              alt={filme.title}
+              className="filme-poster"
+              loading="lazy"
+              onError={(e) => {
+                e.target.onerror = null;
+                e.target.src = '/placeholder.jpg'; // Adicione um fallback
+              }}
+            />
+            <div className="filme-overlay">
+              <span>{filme.title}</span>
             </div>
           </div>
+        ))}
+      </div>
+    </div>
 
-          <div 
-            className="participante-favoritos"
-            style={{
-              '--cor-primaria': favoritos.amigo.corPrimaria,
-              '--cor-secundaria': favoritos.amigo.corSecundaria
-            }}
-          >
-            <h4 className="participante-nome">{favoritos.amigo.nome}</h4>
-            <div className="filmes-grid">
-              {favoritos.amigo.filmes.map(filme => (
-                <div key={filme.id} className="filme-card">
-                  <img
-                    src={posters[`../assets/films/${filme.id}.jpg`].default}
-                    alt={filme.title}
-                    className="filme-poster"
-                    loading="lazy"
-                  />
-                  <div className="filme-overlay">
-                    <span>{filme.title}</span>
-                  </div>
-                </div>
-              ))}
+    <div 
+      className="participante-favoritos"
+      style={{
+        '--cor-primaria': favoritos.amigo.corPrimaria,
+        '--cor-secundaria': favoritos.amigo.corSecundaria
+      }}
+    >
+      <h4 className="participante-nome">{favoritos.amigo.nome}</h4>
+      <div className="filmes-grid">
+        {favoritos.amigo.filmes.map(filme => (
+          <div key={filme.id} className="filme-card">
+            <img
+              src={posters[`../assets/films/${filme.id}.jpg`].default}
+              alt={filme.title}
+              className="filme-poster"
+              loading="lazy"
+              onError={(e) => {
+                e.target.onerror = null;
+                e.target.src = '/placeholder.jpg'; // Adicione um fallback
+              }}
+            />
+            <div className="filme-overlay">
+              <span>{filme.title}</span>
             </div>
           </div>
-        </div>
-      </section>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
 
       <Footer />
     </div>

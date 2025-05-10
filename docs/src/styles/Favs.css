@@ -90,12 +90,15 @@
   
   @media (max-width: 480px) {
     .filmes-grid {
-      grid-template-columns: 1fr;
+      grid-template-columns: repeat(3, 1fr); /* Mantém 3 colunas */
+      overflow-x: auto; /* Permite scroll horizontal se necessário */
+      padding-bottom: 10px; /* Espaço para scroll */
     }
     
     .filme-card {
-      max-width: 180px;
+      max-width: none;
       margin: 0 auto;
+      min-width: 120px;
     }
     
     .favoritos-container {
