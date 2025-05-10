@@ -6,11 +6,11 @@ import FAQ from "./pages/FAQ";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/Desafio-Filmes/">
       <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/faq" element={<FAQ />} />
-          <Route path="/stats" element={<Stats />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/faq" element={<FAQ />} />
+        <Route path="/stats" element={<Stats />} />
       </Routes>
     </Router>
   );
