@@ -168,8 +168,7 @@ const FAQ = () => {
         
         <section className="section faq">
           <h3>Como eu posso procurar um filme para assistir?</h3>
-          <p>
-            Use essas opções infalíveis em 99% das vezes, em ordem:
+          <p>Use essas opções infalíveis em 99% das vezes, em ordem:</p>
             <ol>
                 <li>Se você tiver algum streaming, ver se o filme está nele</li> 
                 <li>Ver se o filme está em algum streaming gratuito (YouTube, PlutoTV, Plex, JustWatch. Mais comum pra filmes muito antigos)</li>
@@ -178,9 +177,7 @@ const FAQ = () => {
                   Clube do Drive, procurar o filme lá ou pedir o Drive caso ele ainda não esteja que
                   alguém vai arrumar pra você.</li> 
             </ol>
-            
-            Obs: pra filme brasileiro, é melhor pular o 3 e ir direto pro 4, porque a maioria dos torrents não vão ter seed nesses casos
-          </p>
+            <p>Obs: pra filme brasileiro, é melhor pular o 3 e ir direto pro 4, porque a maioria dos torrents não vão ter seed nesses casos</p>
         </section>
       </div>
 
