@@ -4,6 +4,7 @@ import "../styles/Home.css";
 import headerImg from "../assets/desafio-filmes.png";
 import Footer from "../components/Footer";
 import CountdownTimer from "../components/CountdownTimer";
+import ITSOVER from "../components/ITSOVER";
 
 const Home = () => {
   
@@ -31,7 +32,8 @@ const Home = () => {
             </div>
           </div>
 
-          <CountdownTimer />
+          {/* <CountdownTimer /> */}
+          <ITSOVER />
         </div>
       </header>
 

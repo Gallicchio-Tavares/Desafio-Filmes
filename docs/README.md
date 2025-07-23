@@ -1,12 +1,36 @@
-# React + Vite
+# Desafio Filmes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Como rodar o site localmente
 
-Currently, two official plugins are available:
+Primeiro, vá para a pasta correta se você ainda não está nela
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+cd docs
+```
 
-## Expanding the ESLint configuration
+Instale os pacotes necessários
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+```
+
+Rode a aplicação em desenvolvimento
+
+```bash
+npm run dev
+```
+
+## Como fazer deploy do site
+
+```bash
+npm run build
+npm run deploy
+```
+
+Você também pode criar um `alias` para rodar esses comandos de uma vez:
+
+```bash
+nano ~/.bashrc
+alias RECEBA="npm run build && npm run deploy" # adicione no final do arquivo que for aberto
+RECEBA # vai fazer tudo subir 
+```
