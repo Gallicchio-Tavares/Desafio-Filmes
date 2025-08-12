@@ -11,6 +11,7 @@ const FAQ = () => {
   };
 
   return (
+    <>
     <div className="container">
       <Navbar />
       
@@ -212,8 +213,9 @@ const FAQ = () => {
         
       </div>
 
-      <Footer />
     </div>
+    <Footer />
+    </>
   );
 };
 

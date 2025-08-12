@@ -10,7 +10,8 @@
     "genre": ["Animação", "Fantasia", "Musical"],
     "poster": "/films/1.jpg",
     "imdbRating": 7.9,
-    "category": "Infantis"
+    "category": "Infantis",
+    "language": "Inglês"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     "genre": ["Terror", "Drama"],
     "poster": "/films/2.jpg",
     "imdbRating": 5.8,
-    "category": "Dramas LGBTQ+"
+    "category": "Dramas LGBTQ+",
+    "language": "Inglês"
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     "genre": ["Biografia", "Drama", "Thriller"],
     "poster": "/films/3.jpg",
     "imdbRating": 7.4,
-    "category": "Filmes baseados em fatos reais"
+    "category": "Filmes baseados em fatos reais",
+    "language": "Inglês"
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     "genre": ["Drama", "Guerra"],
     "poster": "/films/4.jpg",
     "imdbRating": 7.1,
-    "category": "Dramas familiares"
+    "category": "Dramas familiares",
+    "language": "Inglês"
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
     "genre": ["Drama"],
     "poster": "/films/5.jpg",
     "imdbRating": 7.8,
-    "category": "Filmes brasileiros"
+    "category": "Filmes brasileiros",
+    "language": "Português"
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
     "genre": ["Mistério", "Thriller"],
     "poster": "/films/6.jpg",
     "imdbRating": 8.4,
-    "category": "Thrillers psicológicos"
+    "category": "Thrillers psicológicos",
+    "language": "Inglês"
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     "genre": ["Comédia", "Drama", "Guerra"],
     "poster": "/films/7.jpg",
     "imdbRating": 7.3,
-    "category": "Comédias dramáticas"
+    "category": "Comédias dramáticas",
+    "language": "Inglês"
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
     "genre": ["Terror", "Drama"],
     "poster": "/films/8.jpg",
     "imdbRating": 7.6,
-    "category": "Filmes de terror clássicos"
+    "category": "Filmes de terror clássicos",
+    "language": "Francês"
   },
   {
     "id": 9,
@@ -114,7 +122,8 @@
     "genre": ["Terror", "Mistério", "Thriller"],
     "poster": "/films/9.jpg",
     "imdbRating": 7.8,
-    "category": "Terror social"
+    "category": "Terror social",
+    "language": "Inglês"
   },
   {
     "id": 10,
@@ -127,7 +136,8 @@
     "genre": ["Drama", "Romance"],
     "poster": "/films/10.jpg",
     "imdbRating": 7.7,
-    "category": "Dramas românticos"
+    "category": "Dramas românticos",
+    "language": "Inglês"
   },
   {
     "id": 11,
@@ -140,7 +150,8 @@
     "genre": ["Ação", "Aventura", "Comédia"],
     "poster": "/films/11.jpg",
     "imdbRating": 6.5,
-    "category": "Filmes baseados em jogos"
+    "category": "Filmes baseados em jogos",
+    "language": "Inglês"
   },
   {
     "id": 12,
@@ -153,7 +164,8 @@
     "genre": ["Drama"],
     "poster": "/films/12.jpg",
     "imdbRating": 8.0,
-    "category": "Cinema arte"
+    "category": "Cinema arte",
+    "language": "Sueco"
   },
   {
     "id": 13,
@@ -166,7 +178,8 @@
     "genre": ["Ação", "Aventura", "Sci-Fi"],
     "poster": "/films/13.jpg",
     "imdbRating": 6.7,
-    "category": "Filmes cult"
+    "category": "Filmes cult",
+    "language": "Inglês"
   },
   {
     "id": 14,
@@ -179,7 +192,8 @@
     "genre": ["Drama"],
     "poster": "/films/14.jpg",
     "imdbRating": 8.0,
-    "category": "Filmes brasileiros"
+    "category": "Filmes brasileiros",
+    "language": "Português"
   },
   {
     "id": 15,
@@ -192,7 +206,8 @@
     "genre": ["Comédia", "Drama", "Romance"],
     "poster": "/films/15.jpg",
     "imdbRating": 7.6,
-    "category": "Comédias românticas"
+    "category": "Comédias românticas",
+    "language": "Inglês"
   },
   {
     "id": 16,
@@ -205,7 +220,8 @@
     "genre": ["Drama", "Sci-Fi"],
     "poster": "/films/16.jpg",
     "imdbRating": 8.2,
-    "category": "Cinema arte"
+    "category": "Cinema arte",
+    "language": "Russo"
   },
   {
     "id": 17,
@@ -218,7 +234,8 @@
     "genre": ["Ação", "Terror", "Sci-Fi"],
     "poster": "/films/17.jpg",
     "imdbRating": 7.2,
-    "category": "Ficção científica"
+    "category": "Ficção científica",
+    "language": "Inglês"
   },
   {
     "id": 18,
@@ -231,7 +248,8 @@
     "genre": ["Terror", "Thriller"],
     "poster": "/films/18.jpg",
     "imdbRating": 7.3,
-    "category": "Filmes recentes"
+    "category": "Filmes recentes",
+    "language": "Inglês"
   },
   {
     "id": 19,
@@ -244,7 +262,8 @@
     "genre": ["Ação", "Crime", "Thriller"],
     "poster": "/films/19.jpg",
     "imdbRating": 8.2,
-    "category": "Filmes de ação cult"
+    "category": "Filmes de ação cult",
+    "language": "Inglês"
   },
   {
     "id": 20,
@@ -257,7 +276,8 @@
     "genre": ["Ação", "Crime", "Thriller"],
     "poster": "/films/20.jpg",
     "imdbRating": 8.0,
-    "category": "Filmes de ação cult"
+    "category": "Filmes de ação cult",
+    "language": "Inglês"
   },
   {
     "id": 23,
@@ -270,7 +290,8 @@
     "genre": ["Biografia", "Drama", "História"],
     "poster": "/films/23.jpg",
     "imdbRating": 7.4,
-    "category": "Filmes baseados em fatos reais"
+    "category": "Filmes baseados em fatos reais",
+    "language": "Inglês"
   },
   {
     "id": 22,
@@ -283,7 +304,8 @@
     "genre": ["Drama"],
     "poster": "/films/22.jpg",
     "imdbRating": 7.6,
-    "category": "Filmes brasileiros"
+    "category": "Filmes brasileiros",
+    "language": "Português"
   },
   {
     "id": 21,
@@ -296,7 +318,8 @@
     "genre": ["Comédia", "Drama", "Romance"],
     "poster": "/films/21.jpg",
     "imdbRating": 7.3,
-    "category": "Comédias dramáticas"
+    "category": "Comédias dramáticas",
+    "language": "Inglês"
   },
   {
     "id": 24,
@@ -309,7 +332,8 @@
     "genre": ["Crime", "Drama"],
     "poster": "/films/24.jpg",
     "imdbRating": 7.8,
-    "category": "Cinema arte"
+    "category": "Cinema arte",
+    "language": "Turco"
   },
   {
     "id": 25,
@@ -322,7 +346,8 @@
     "genre": ["Ação", "Aventura", "Thriller"],
     "poster": "/films/25.jpg",
     "imdbRating": 5.7,
-    "category": "Filmes de ação"
+    "category": "Filmes de ação",
+    "language": "Inglês"
   },
   {
     "id": 26,
@@ -335,7 +360,8 @@
     "genre": ["Animação", "Ação", "Aventura"],
     "poster": "/films/26.jpg",
     "imdbRating": 7.6,
-    "category": "Animação para todas as idades"
+    "category": "Animação para todas as idades",
+    "language": "Inglês"
   },
   {
     "id": 27,
@@ -348,7 +374,8 @@
     "genre": ["Animação", "Aventura", "Comédia"],
     "poster": "/films/27.jpg",
     "imdbRating": 7.8,
-    "category": "Animação para todas as idades"
+    "category": "Animação para todas as idades",
+    "language": "Inglês"
   },
   {
     "id": 28,
@@ -361,7 +388,8 @@
     "genre": ["Crime", "Drama"],
     "poster": "/films/28.jpg",
     "imdbRating": 8.3,
-    "category": "Clássicos do crime"
+    "category": "Clássicos do crime",
+    "language": "Inglês"
   },
   {
     "id": 29,
@@ -374,7 +402,8 @@
     "genre": ["Drama", "Romance"],
     "poster": "/films/29.jpg",
     "imdbRating": 7.3,
-    "category": "Dramas românticos"
+    "category": "Dramas românticos",
+    "language": "Inglês"
   },
   {
     "id": 30,
@@ -387,7 +416,8 @@
     "genre": ["Drama"],
     "poster": "/films/30.jpg",
     "imdbRating": 7.4,
-    "category": "Cinema africano"
+    "category": "Cinema africano",
+    "language": "Francês"
   },
   {
     "id": 31,
@@ -400,7 +430,8 @@
     "genre": ["Biografia", "Drama"],
     "poster": "/films/31.jpg",
     "imdbRating": 7.9,
-    "category": "Filmes baseados em fatos reais"
+    "category": "Filmes baseados em fatos reais",
+    "language": "Inglês"
   },
   {
     "id": 32,
@@ -413,7 +444,8 @@
     "genre": ["Comédia", "Drama", "Romance"],
     "poster": "/films/32.jpg",
     "imdbRating": 6.8,
-    "category": "Comédias LGBTQ+"
+    "category": "Comédias LGBTQ+",
+    "language": "Inglês"
   },
   {
     "id": 33,
@@ -426,7 +458,8 @@
     "genre": ["Ação", "Crime", "Drama"],
     "poster": "/films/33.jpg",
     "imdbRating": 7.7,
-    "category": "Thrillers de crime"
+    "category": "Thrillers de crime",
+    "language": "Inglês"
   },
   {
     "id": 34,
@@ -439,7 +472,8 @@
     "genre": ["Comédia", "Drama", "Guerra"],
     "poster": "/films/34.jpg",
     "imdbRating": 7.6,
-    "category": "Segunda Guerra Mundial"
+    "category": "Segunda Guerra Mundial",
+    "language": "Tcheco"
   },
   {
     "id": 36,
@@ -452,7 +486,8 @@
     "genre": ["Comédia", "Fantasia"],
     "poster": "/films/36.jpg",
     "imdbRating": 7.7,
-    "category": "Cinema experimental"
+    "category": "Cinema experimental",
+    "language": "Tcheco"
   },
   {
     "id": 35,
@@ -465,7 +500,8 @@
     "genre": ["Drama", "Romance", "Sci-Fi"],
     "poster": "/films/35.jpg",
     "imdbRating": 8.0,
-    "category": "Ficção científica romântica"
+    "category": "Ficção científica romântica",
+    "language": "Inglês"
   },
   {
     "id": 37,
@@ -478,7 +514,8 @@
     "genre": ["Ação", "Aventura", "Thriller"],
     "poster": "/films/37.jpg",
     "imdbRating": 8.0,
-    "category": "Filmes de James Bond"
+    "category": "Filmes de James Bond",
+    "language": "Inglês"
   },
   {
     "id": 38,
@@ -491,7 +528,8 @@
     "genre": ["Ação", "Aventura", "Thriller"],
     "poster": "/films/38.jpg",
     "imdbRating": 6.5,
-    "category": "Filmes de James Bond"
+    "category": "Filmes de James Bond",
+    "language": "Inglês"
   },
   {
     "id": 42,
@@ -504,7 +542,8 @@
     "genre": ["Drama"],
     "poster": "/films/42.jpg",
     "imdbRating": 6.4,
-    "category": "Cinema latino-americano"
+    "category": "Cinema latino-americano",
+    "language": "Espanhol"
   },
   {
     "id": 43,
@@ -517,7 +556,8 @@
     "genre": ["Comédia", "Crime"],
     "poster": "/films/43.jpg",
     "imdbRating": 6.0,
-    "category": "Cinema cult"
+    "category": "Cinema cult",
+    "language": "Inglês"
   },
   {
     "id": 44,
@@ -530,7 +570,8 @@
     "genre": ["Ação", "Comédia", "Crime"],
     "poster": "/films/44.jpg",
     "imdbRating": 7.0,
-    "category": "Comédias meta"
+    "category": "Comédias meta",
+    "language": "Inglês"
   },
   {
     "id": 45,
@@ -543,7 +584,8 @@
     "genre": ["Aventura", "Comédia", "Drama"],
     "poster": "/films/45.jpg",
     "imdbRating": 8.1,
-    "category": "Filmes Wes Anderson"
+    "category": "Filmes Wes Anderson",
+    "language": "Inglês"
   },
   {
     "id": 46,
@@ -556,7 +598,8 @@
     "genre": ["Drama"],
     "poster": "/films/46.jpg",
     "imdbRating": 7.4,
-    "category": "Dramas LGBTQ+"
+    "category": "Dramas LGBTQ+",
+    "language": "Inglês"
   },
   {
     "id": 39,
@@ -569,7 +612,8 @@
     "genre": ["Ação", "Aventura", "Thriller"],
     "poster": "/films/39.jpg",
     "imdbRating": 7.8,
-    "category": "Filmes de James Bond"
+    "category": "Filmes de James Bond",
+    "language": "Inglês"
   },
   {
     "id": 47,
@@ -582,7 +626,8 @@
     "genre": ["Drama"],
     "poster": "/films/47.jpg",
     "imdbRating": 7.1,
-    "category": "Cinema nórdico"
+    "category": "Cinema nórdico",
+    "language": "Dinamarquês"
   },
   {
     "id": 48,
@@ -595,7 +640,8 @@
     "genre": ["Biografia", "Crime", "Drama"],
     "poster": "/films/48.jpg",
     "imdbRating": 8.7,
-    "category": "Clássicos do crime"
+    "category": "Clássicos do crime",
+    "language": "Inglês"
   },
   {
     "id": 40,
@@ -608,7 +654,8 @@
     "genre": ["Ação", "Aventura", "Thriller"],
     "poster": "/films/40.jpg",
     "imdbRating": 6.8,
-    "category": "Filmes de James Bond"
+    "category": "Filmes de James Bond",
+    "language": "Inglês"
   },
   {
     "id": 41,
@@ -621,7 +668,8 @@
     "genre": ["Ação", "Aventura", "Thriller"],
     "poster": "/films/41.jpg",
     "imdbRating": 7.3,
-    "category": "Filmes de James Bond"
+    "category": "Filmes de James Bond",
+    "language": "Inglês"
   },
   {
     "id": 49,
@@ -634,7 +682,8 @@
     "genre": ["Terror", "Mistério", "Thriller"],
     "poster": "/films/49.jpg",
     "imdbRating": 8.1,
-    "category": "Cinema mudo"
+    "category": "Cinema mudo",
+    "language": "Sem língua falada"
   },
   {
     "id": 57,
@@ -647,7 +696,8 @@
     "genre": ["Aventura", "Comédia", "Fantasia"],
     "poster": "/films/57.jpg",
     "imdbRating": 8.2,
-    "category": "Comédias cult"
+    "category": "Comédias cult",
+    "language": "Inglês"
   },
   {
     "id": 50,
@@ -660,7 +710,8 @@
     "genre": ["Comédia", "Drama", "Thriller"],
     "poster": "/films/50.jpg",
     "imdbRating": 8.5,
-    "category": "Filmes sul-coreanos"
+    "category": "Filmes sul-coreanos",
+    "language": "Coreano"
   },
   {
     "id": 51,
@@ -673,7 +724,8 @@
     "genre": ["Drama", "Mistério", "Sci-Fi"],
     "poster": "/films/51.jpg",
     "imdbRating": 8.0,
-    "category": "Filmes cult"
+    "category": "Filmes cult",
+    "language": "Inglês"
   },
   {
     "id": 52,
@@ -686,7 +738,8 @@
     "genre": ["Crime", "Drama"],
     "poster": "/films/52.jpg",
     "imdbRating": 7.8,
-    "category": "Neo-noir"
+    "category": "Neo-noir",
+    "language": "Inglês"
   },
   {
     "id": 53,
@@ -699,7 +752,8 @@
     "genre": ["Drama", "Western"],
     "poster": "/films/53.jpg",
     "imdbRating": 8.4,
-    "category": "Westerns revisionistas"
+    "category": "Westerns revisionistas",
+    "language": "Inglês"
   },
   {
     "id": 54,
@@ -712,7 +766,8 @@
     "genre": ["Ação", "Aventura", "Fantasia"],
     "poster": "/films/54.jpg",
     "imdbRating": 6.1,
-    "category": "Filmes baseados em jogos"
+    "category": "Filmes baseados em jogos",
+    "language": "Inglês"
   },
   {
     "id": 55,
@@ -725,7 +780,8 @@
     "genre": ["Drama", "Sci-Fi"],
     "poster": "/films/55.jpg",
     "imdbRating": 8.1,
-    "category": "Cinema arte"
+    "category": "Cinema arte",
+    "language": "Russo"
   },
   {
     "id": 56,
@@ -738,6 +794,7 @@
     "genre": ["Drama", "Fantasia", "Terror"],
     "poster": "/films/56.jpg",
     "imdbRating": 7.4,
-    "category": "Terror psicológico"
+    "category": "Terror psicológico",
+    "language": "Inglês"
   }
 ]

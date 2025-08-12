@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nome": "UmaPessoaHumana",
+    "favoritos": [23, 16, 5]
+  },
+  {
+    "id": 2,
+    "nome": "mathamen",
+    "favoritos": [7, 57, 45]
+  }
+]
