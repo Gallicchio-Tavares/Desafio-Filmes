@@ -1,14 +1,24 @@
 :root {
+  /* Paleta original */
   --bg: #161618;
   --bg-alt: #1C1C1C;
   --text: #ffffff;
-  --primary: #FFB55A;
-  --secondary: #FA812F;
-  --accent: #FDBF60;
-  --highlight: #FF8911;
+  --primary: #FFB55A;    /* amarelo quente */
+  --secondary: #FA812F;  /* laranja vibrante */
+  --accent: #FDBF60;     /* laranja claro */
+  --highlight: #FF8911;  /* laranja forte */
   --muted: #aaa;
   --font: 'Inter', sans-serif;
+
+  /* Azuis */
+  --blue-darkest: #021526;  /* azul bem escuro */
+  --blue-dark: #03346E;     /* azul escuro */
+  --blue-light: #6EACDA;    /* azul claro */
+
+  /* Bege amarelado */
+  --beige-yellow: #E2E2B6;
 }
+
 
 body {
   margin: 0;
@@ -30,4 +40,12 @@ a:hover {
 
 ul {
   padding-left: 1.2rem;
+}
+
+.container {
+  padding: 2rem;
+  max-width: 100%;
+  margin: 0;
+  width: 100vw;
+  box-sizing: border-box; 
 }

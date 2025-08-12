@@ -1,5 +1,5 @@
 .footer {
-    background-color: var(--bg-alt);
+    background: rgba(17, 17, 17, 0.9);
     color: var(--text);
     font-family: var(--font);
     padding: 2rem 1rem;
@@ -10,7 +10,7 @@
   .footer-content {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
     gap: 2rem;
     max-width: 1200px;
     margin: 0 auto;
@@ -79,25 +79,13 @@
     transform: scale(1.2);
   }
   
-  .footer-image-wrapper {
-    width: 100%;
-    overflow: hidden;
-    margin-top: 2rem;
-  }
-  
-  .footer-bg-image {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-  
+
   .footer-bottom {
     text-align: center;
     margin-top: 2rem;
     font-size: 0.85rem;
     color: var(--muted);
   }
-  
 
   /* parte do PARTICIPE */
 

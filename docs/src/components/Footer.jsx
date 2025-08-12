@@ -28,16 +28,6 @@ export default function Footer() {
             </a>
         </div>
       </div>
-
-
-        <div>
-          <h3>Ajuda</h3>
-          <ul>
-            <li><Link to="/faq">FAQ</Link></li>
-            <li><a href="/Termos-participacao.pdf" target="_blank" rel="noopener noreferrer">Termos e Condições</a></li>
-          </ul>
-        </div>
-
         <div>
           <h3>Redes Sociais</h3>
           <div className="footer-socials">
@@ -48,11 +38,6 @@ export default function Footer() {
           </div>
         </div>
       </div>
-
-      <div className="footer-image-wrapper">
-        <img src={montypyhton} alt="Monty Python" className="footer-bg-image" />
-      </div>
-
 
       <div className="footer-bottom">
         <p>© {new Date().getFullYear()} Desafio Filmes. Feito por Uma Pessoa Humana e Mathamen.</p>
