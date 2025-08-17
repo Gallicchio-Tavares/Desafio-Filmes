@@ -1,5 +1,9 @@
 /* Estilos base para o FAQ */
-.faq {
+.titulo-regras{
+  margin-bottom: 2rem;
+}
+
+.regras {
   background-color: var(--bg-alt);
   border-left: 5px solid var(--primary);
   padding: 1.8rem;
@@ -10,25 +14,25 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.faq:hover {
+.regras:hover {
   transform: translateY(-3px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
 }
 
 .title {
-  color: var(--bg);
+  color: #fff;
   text-align: center;
   margin-bottom: 0.5rem;
   font-size: 2.4rem;
 }
 
-.faq h3 {
+.regras h3 {
   font-size: 1.6rem;
   color: var(--primary);
   margin-bottom: 1rem;
 }
 
-.faq p {
+.regras p {
   font-size: 1rem;
   color: var(--text);
   text-align: justify;
@@ -38,7 +42,7 @@
   margin-bottom: 1rem;
 }
 
-.faq a {
+.regras a {
   color: var(--accent);
   text-decoration: none;
   transition: color 0.3s ease;
@@ -46,13 +50,13 @@
   padding: 0 3px;
 }
 
-.faq a:hover {
+.regras a:hover {
   color: var(--highlight);
   text-decoration: underline;
 }
 
 /* Estilos para o sistema de abas de categorias */
-.faq-category-tabs {
+.regras-category-tabs {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -122,7 +126,7 @@
 }
 
 /* Estilos para as categorias */
-.faq-category {
+.regras-category {
   display: none;
   opacity: 0;
   transform: translateY(10px);
@@ -131,7 +135,7 @@
   margin: 0 auto;
 }
 
-.faq-category.active {
+.regras-category.active {
   display: block;
   opacity: 1;
   transform: translateY(0);
@@ -139,14 +143,14 @@
 }
 
 /* Estilos para listas dentro do FAQ */
-.faq-list {
+.regras-list {
   list-style-type: disc;
   margin-top: 1rem;
   margin-left: 2rem;
   margin-bottom: 1rem;
 }
 
-.faq-list li {
+.regras-list li {
   margin-bottom: 0.7rem;
   line-height: 1.5;
   color: var(--text);
@@ -165,7 +169,7 @@
 
 /* Responsividade */
 @media (max-width: 768px) {
-  .faq-category-tabs {
+  .regras-category-tabs {
     gap: 0.5rem;
     padding: 0.4rem;
   }
@@ -175,11 +179,11 @@
     font-size: 0.95rem;
   }
   
-  .faq h3 {
+  .regras h3 {
     font-size: 1.4rem;
   }
   
-  .faq {
+  .regras {
     padding: 1.5rem;
   }
   
@@ -194,31 +198,31 @@
     font-size: 0.85rem;
   }
   
-  .faq h3 {
+  .regras h3 {
     font-size: 1.3rem;
   }
   
-  .faq {
+  .regras {
     padding: 1.2rem;
     margin-bottom: 1.5rem;
   }
   
-  .faq-list {
+  .regras-list {
     margin-left: 1.5rem;
   }
 }
 
 /* Estilo para destacar perguntas específicas */
-.faq.highlighted {
+.regras.highlighted {
   border-left-color: var(--accent);
   background-color: rgba(var(--accent-rgb), 0.05);
 }
 
 /* Efeito de transição para hover nas perguntas */
-.faq {
+.regras {
   transition: border-left-color 0.3s ease, background-color 0.3s ease;
 }
 
-.faq:hover {
+.regras:hover {
   border-left-color: var(--highlight);
 }

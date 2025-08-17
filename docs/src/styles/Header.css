@@ -142,3 +142,29 @@ nav a:hover {
   from { opacity: 0; }
   to { opacity: 1; }
 }
+
+/* Ajustes para telas muito pequenas (menos de 360px) */
+@media (max-width: 384px) {
+  .nav-link {
+    font-size: 0.7em;
+    padding: 5px;
+  }
+  
+  nav li {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  .inner h1 {
+    font-size: 2.5em;
+  }
+  
+  .inner p {
+    font-size: 1em;
+  }
+
+  .logo img {
+  height: 25px; /* ajuste conforme necessário */
+  width: auto;
+}
+}

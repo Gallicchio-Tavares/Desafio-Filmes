@@ -15,11 +15,11 @@ const FAQ = () => {
     <div className="container">
       <Navbar />
       
-      <header className="header">
-        <h1 className="title">FAQ - Perguntas Frequentes</h1>
+      <header className="titulo-regras">
+        <h1 className="title">Regras do Desafio</h1>
       </header>
 
-      <div className="faq-category-tabs">
+      <div className="regras-category-tabs">
         <button 
           className={`category-tab ${activeCategory === "geral" ? "active" : ""}`} 
           onClick={() => handleCategoryChange("geral")}
@@ -27,50 +27,24 @@ const FAQ = () => {
           Geral
         </button>
         <button 
-          className={`category-tab ${activeCategory === "regras" ? "active" : ""}`}
-          onClick={() => handleCategoryChange("regras")}
-        >
-          Regras
-        </button>
-        <button 
-          className={`category-tab ${activeCategory === "categorias" ? "active" : ""}`}
-          onClick={() => handleCategoryChange("categorias")}
-        >
-          Categorias
-        </button>
-        <button 
           className={`category-tab ${activeCategory === "premiacao" ? "active" : ""}`}
           onClick={() => handleCategoryChange("premiacao")}
         >
           Premiação
         </button>
+        <button 
+          className={`category-tab ${activeCategory === "faq" ? "active" : ""}`}
+          onClick={() => handleCategoryChange("faq")}
+        >
+          FAQ
+        </button>
       </div>
 
-      {/* Perguntas gerais */}
-      <div className={`faq-category ${activeCategory === "geral" ? "active" : ""}`}>
-        <section className="section faq">
-          <h3>O que é o Desafio Filmes 2025?</h3>
-          <p>
-            O Desafio Filmes 2025 é um projeto onde o objetivo é assistir a
-            30 filmes durante 1 mês (30 dias), seguindo algumas categorias específicas de filmes
-            para os participantes explorarem filmes que eles tipicamente não assistiriam.
-            É uma forma divertida de explorar a sétima arte enquanto competimos com amigos, 
-            com o prêmio como incentivo.
-          </p>
-        </section>
+      {/* Regras gerais */}
+      <div className={`regras-category ${activeCategory === "geral" ? "active" : ""}`}>
+        {/* Nas regras gerais, precisa ter informação  */}
 
-        <section className="section faq">
-          <h3>De onde surgiu a ideia?</h3>
-          <p>
-            Antes, era um projeto pessoal meu de conseguir assistir um filme todo dia durante um mês, 
-            porque eu nunca tive o costume de consumir muito esse tipo de conteúdo. Mas eu decidi 
-            apresentar a ideia pro meu amigo e a gente decidiu fazer disso um desafio valendo grana. A edição de 2024
-            foi só entre a gente, mas esse ano decidimos expandir pra quem quisesse participar. <i>Obs:
-            eu ganhei, ele me pagou o Disco Elysium que tava 25 reais na Steam na época.</i>
-          </p>
-        </section>
-
-        <section className="section faq">
+        <section className="section regras">
           <h3>Como eu participo?</h3>
           <p>
             Primeiro, você precisa comunicar o seu interesse em participar do desafio, seja pelo WhatsApp
@@ -80,28 +54,7 @@ const FAQ = () => {
           </p>
         </section>
         
-        <section className="section faq">
-          <h3>Como posso entrar em contato?</h3>
-          <p>
-            Entre em contato conosco através do meu 
-            <a href="https://discord.com/users/umapessoahumana"> Discord</a> ou 
-            <a href="https://wa.me/5521972685484?text=Olá,%20quero%20participar%20do%20Desafio%20Filmes%202025!"> WhatsApp</a>. Os 
-            links também estão disponíveis no rodapé do site, junto com as minhas demais redes sociais.
-          </p>
-        </section>
-      </div>
-
-      {/* Regras */}
-      <div className={`faq-category ${activeCategory === "regras" ? "active" : ""}`}>
-
-        <section className="section faq">
-          <h3>Posso assistir mais de um filme em um dia só?</h3>
-          <p>
-            Poder você pode, mas isso não vai contar pro desafio.
-          </p>
-        </section>
-
-        <section className="section faq">
+        <section className="section regras">
           <h3>Séries e documentários contam no desafio?</h3>
           <p>
             Não. Apenas filmes longa-metragem são válidos para o desafio. Séries, 
@@ -109,7 +62,7 @@ const FAQ = () => {
           </p>
         </section>
         
-        <section className="section faq">
+        <section className="section regras">
           <h3>O que acontece se eu perder um dia?</h3>
           <p>
             Não há compensação para filmes não assistidos. Se você não 
@@ -122,7 +75,7 @@ const FAQ = () => {
           </p>
         </section>
         
-        <section className="section faq">
+        <section className="section regras">
           <h3>Como comprovar que assisti ao filme?</h3>
           <p>
             Diariamente, você deve registrar o filme assistido na plataforma Letterboxd. Ela é ideal para
@@ -135,30 +88,16 @@ const FAQ = () => {
             lá mostrando que você está ativo no desafio.
           </p>
         </section>
-      </div>
 
-      {/* Categorias */}
-      <div className={`faq-category ${activeCategory === "categorias" ? "active" : ""}`}>
-        
-        <section className="section faq">
+        <section className="section regras">
           <h3>Um filme pode contar para mais de uma categoria?</h3>
           <p>
             Não. Cada filme só pode ser contabilizado para uma única categoria do desafio, 
             então escolha estrategicamente como classificá-los.
           </p>
         </section>
-        
-        <section className="section faq">
-          <h3>O que é considerado "um país que não existe mais"?</h3>
-          <p>
-            São países que existiram oficialmente, mas que atualmente não existem com 
-            a mesma formação política. O filme deve ter sido <b>produzido no país</b> quando ele ainda existia 
-            oficialmente. Alguns exemplos que produziram filmes são: União Soviética, Iugoslávia, Tchecoslováquia, Pérsia, 
-            Ceilão, Índias Orientais Holandesas e Alemanha Oriental.
-          </p>
-        </section>
-        
-        <section className="section faq">
+
+        <section className="section regras">
           <h3>Onde posso encontrar filmes do desafio passado?</h3>
           <p>
             Você pode encontrar a lista completa de filmes do desafio anterior na página 
@@ -166,33 +105,19 @@ const FAQ = () => {
             assistidos pelos participantes na edição anterior.
           </p>
         </section>
-        
-        <section className="section faq">
-          <h3>Como eu posso procurar um filme para assistir?</h3>
-          <p>Use essas opções infalíveis em 99% das vezes, em ordem:</p>
-            <ol>
-                <li>Se você tiver algum streaming, ver se o filme está nele</li> 
-                <li>Ver se o filme está em algum streaming gratuito (YouTube, PlutoTV, Plex, JustWatch. Mais comum pra filmes muito antigos)</li>
-                <li>Ver se o filme possui torrent (recomendação: usar o Stremio)</li>
-                <li>Procurar Drive do filme. A melhor maneira é entrar no grupo de Telegram do
-                  Clube do Drive, procurar o filme lá ou pedir o Drive caso ele ainda não esteja que
-                  alguém vai arrumar pra você.</li> 
-            </ol>
-            <p>Obs: pra filme brasileiro, é melhor pular o 3 e ir direto pro 4, porque a maioria dos torrents não vão ter seed nesses casos</p>
-        </section>
       </div>
 
       {/* Premiação */}
-      <div className={`faq-category ${activeCategory === "premiacao" ? "active" : ""}`}>
-        <section className="section faq">
+      <div className={`regras-category ${activeCategory === "premiacao" ? "active" : ""}`}>
+        <section className="section regras">
           <h3>Qual é a premiação?</h3>
           <p>
             Todos os participantes entram com R$30. Quem completar o desafio inteiro (30 filmes e 
-            todas as 8 categorias) divide o prêmio igualmente. Quem não completar, perde sua contribuição.
+            todas as 8 Edição 2025) divide o prêmio igualmente. Quem não completar, perde sua contribuição.
           </p>
         </section>
         
-        <section className="section faq">
+        <section className="section regras">
           <h3>Quando a premiação é distribuída?</h3>
           <p>
             A premiação será distribuída no dia 25 de agosto de 2025, após a verificação dos registros 
@@ -200,7 +125,7 @@ const FAQ = () => {
           </p>
         </section>
 
-        <section className="section faq">
+        <section className="section regras">
           <h3>Como o dinheiro será administrado?</h3>
           <p>
             O dinheiro será administrado por mim, que estou organizando o desafio. Eu criei uma conta
@@ -210,9 +135,48 @@ const FAQ = () => {
 
           </p>
         </section>
-        
       </div>
 
+      {/* FAQ */}
+      <div className={`regras-category ${activeCategory === "faq" ? "active" : ""}`}>
+        <section className="section regras">
+          <h3>Posso assistir mais de um filme em um dia só?</h3>
+          <p>
+            Poder você pode, mas isso não vai contar pro desafio.
+          </p>
+        </section>
+
+        <section className="section regras">
+          <h3>Como posso entrar em contato?</h3>
+          <p>
+            Entre em contato conosco através do meu <a href="https://discord.com/users/umapessoahumana">Discord</a> ou <a href="https://wa.me/5521972685484?text=Olá,%20quero%20participar%20do%20Desafio%20Filmes%202025!">WhatsApp</a>. Os 
+            links também estão disponíveis no rodapé do site, junto com as minhas demais redes sociais.
+          </p>
+        </section>
+
+        <section className="section regras">
+          <h3>Como eu posso procurar um filme para assistir?</h3>
+          <p>Use essas opções infalíveis em 99% das vezes:</p>
+            <ol>
+                <li>Se você tiver algum streaming, ver se o filme está nele</li> 
+                <li>Ver se o filme está em algum streaming gratuito (YouTube, PlutoTV, Plex, JustWatch. Mais comum pra filmes muito antigos)</li>
+                <li>Ver se o filme possui torrent (recomendação: usar o Stremio)</li>
+                <li>Procurar Drive do filme. A melhor maneira é entrar no grupo de Telegram do
+                  Clube do Drive, procurar o filme lá ou pedir o Drive caso ele ainda não esteja que
+                  alguém vai arrumar pra você.</li> 
+            </ol>
+        </section>
+
+        <section className="section regras">
+          <h3>O que é considerado "um país que não existe mais"?</h3>
+          <p>
+            São países que existiram oficialmente, mas que atualmente não existem com 
+            a mesma formação política. O filme deve ter sido <b>produzido no país</b> quando ele ainda existia 
+            oficialmente. Alguns exemplos que produziram filmes são: União Soviética, Iugoslávia, Tchecoslováquia, Pérsia, 
+            Ceilão, Índias Orientais Holandesas e Alemanha Oriental.
+          </p>
+        </section>
+      </div>
     </div>
     <Footer />
     </>
