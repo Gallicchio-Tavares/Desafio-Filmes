@@ -1,6 +1,5 @@
-import "../styles/Stats.css";
+import "../styles/Paises.css";
 import React from "react";
-
 
 const Paises = ({ movies }) => {
   // Contar países
@@ -12,9 +11,7 @@ const Paises = ({ movies }) => {
 
   // Contar idiomas
   const languageCounts = movies.reduce((acc, movie) => {
-
     const language = movie.language || movie.languages || "Desconhecido";
-    // Se language for array, conta cada idioma: (por enquanto n tem array, mas vou por quando tiver tempo)
     if (Array.isArray(language)) {
       language.forEach(lang => {
         acc[lang] = (acc[lang] || 0) + 1;
@@ -25,14 +22,17 @@ const Paises = ({ movies }) => {
     return acc;
   }, {});
 
-  // Transformar objetos em arrays ordenados
+  // Transformar e ordenar países (top 12)
   const countries = Object.entries(countryCounts)
     .map(([name, count]) => ({ name, count }))
-    .sort((a, b) => b.count - a.count);
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 12);
 
+  // Transformar e ordenar idiomas (top 12)
   const languages = Object.entries(languageCounts)
     .map(([name, count]) => ({ name, count }))
-    .sort((a, b) => b.count - a.count);
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 12);
 
   // Máximos para normalizar barras
   const maxCountry = countries.length > 0 ? countries[0].count : 1;
@@ -43,35 +43,43 @@ const Paises = ({ movies }) => {
       <h3 className="sc-title">Distribuição por país</h3>
       <div className="bar-charts-wrapper">
         <div className="bar-chart">
-          <h4>Países</h4>
-          {countries.map((item) => (
-            <div key={item.name} className="bar-wrapper-2">
-              <span className="bar-label">{item.name}</span>
-              <div className="bar-bg">
-                <div
-                  className="bar-fill"
-                  style={{ width: `${(item.count / maxCountry) * 100}%` }}
-                ></div>
+          <h4 className="chart-subtitle">Países</h4>
+          {countries.length > 0 ? (
+            countries.map((item) => (
+              <div key={item.name} className="pais-bar-container">
+                <div className="pais-label">{item.name}</div>
+                <div className="pais-bar-bg">
+                  <div
+                    className="pais-bar-fill"
+                    style={{ width: `${(item.count / maxCountry) * 100}%` }}
+                  ></div>
+                </div>
+                <span className="pais-count">{item.count}</span>
               </div>
-              <span className="bar-count">{item.count}</span>
-            </div>
-          ))}
+            ))
+          ) : (
+            <p className="no-data">Nenhum país encontrado</p>
+          )}
         </div>
 
         <div className="bar-chart">
-          <h4>Idiomas</h4>
-          {languages.map((item) => (
-            <div key={item.name} className="bar-wrapper-2">
-              <span className="bar-label">{item.name}</span>
-              <div className="bar-bg">
-                <div
-                  className="bar-fill"
-                  style={{ width: `${(item.count / maxLanguage) * 100}%` }}
-                ></div>
+          <h4 className="chart-subtitle">Idiomas</h4>
+          {languages.length > 0 ? (
+            languages.map((item) => (
+              <div key={item.name} className="pais-bar-container">
+                <div className="pais-label">{item.name}</div>
+                <div className="pais-bar-bg">
+                  <div
+                    className="pais-bar-fill"
+                    style={{ width: `${(item.count / maxLanguage) * 100}%` }}
+                  ></div>
+                </div>
+                <span className="pais-count">{item.count}</span>
               </div>
-              <span className="bar-count">{item.count}</span>
-            </div>
-          ))}
+            ))
+          ) : (
+            <p className="no-data">Nenhum idioma encontrado</p>
+          )}
         </div>
       </div>
     </section>

@@ -59,12 +59,14 @@ const WatchedMovies = ({ moviesData }) => {
                     : <span className="genre-tag">{selectedMovie.genre}</span>}
                 </div>
               )}
-              {selectedMovie.imdbRating && (
-                <div className="details-rating">
-                  <span className="imdb-badge">IMDb</span>
-                  <span className="rating-value">{selectedMovie.imdbRating}</span>
-                </div>
-              )}
+            {selectedMovie.vote_average && (
+              <div className="details-rating">
+                <span className="imdb-badge">IMDb</span>
+                <span className="rating-value">
+                  {Math.round(selectedMovie.vote_average * 10) / 10}
+                </span>
+              </div>
+            )}
             </div>
           </div>
         ) : (

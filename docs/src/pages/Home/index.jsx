@@ -13,7 +13,7 @@ const Home = () => {
     <>
       <Header/>
       <div className="container">
-        <ITSOVER />
+        {/* <ITSOVER /> */}
         <section className="section rules">
           <h3>Como funciona</h3>
           <ul>

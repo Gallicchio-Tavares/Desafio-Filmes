@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "nome": "UmaPessoaHumana",
+    "favoritos": [309, 138, 119]
+  },
+  {
+    "id": 2,
+    "nome": "mathamen",
+    "favoritos": [29, 181, 12]
+  },
+  {
+    "id": 3,
+    "nome": "xeremel",
+    "favoritos": [213, 69, 282]
+  },
+  {
+    "id": 4,
+    "nome": "Carol__Rosa",
+    "favoritos": [30, 216, 87]
+  },
+  {
+    "id": 5,
+    "nome": "EdzinhoHowlett",
+    "favoritos": [197, 125, 36]
+  },
+  {
+    "id": 6,
+    "nome": "ok1na",
+    "favoritos": [302, 125, 48]
+  },
+  {
+    "id": 7,
+    "nome": "joaov0805",
+    "favoritos": [55, 179, 235]
+  },
+  {
+    "id": 8,
+    "nome": "belovacomis",
+    "favoritos": [175, 195, 276]
+  },
+  {
+    "id": 9,
+    "nome": "Belle_Is",
+    "favoritos": [57, 193, 143]
+  },
+  {
+    "id": 10,
+    "nome": "Brad_Pittson69",
+    "favoritos": [79, 149, 139]
+  }
+]

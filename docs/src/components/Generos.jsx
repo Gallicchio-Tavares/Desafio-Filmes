@@ -1,5 +1,4 @@
-import React from "react";
-import "../styles/Stats.css";
+import "../styles/Generos.css";
 
 const Generos = ({ movies }) => {
   const genreCounts = movies.reduce((acc, movie) => {
@@ -14,24 +13,24 @@ const Generos = ({ movies }) => {
   const genreArray = Object.entries(genreCounts)
     .map(([name, count]) => ({ name, count }))
     .sort((a, b) => b.count - a.count)
-    .slice(0, 10);
+    .slice(0, 12); // Aumentei para 12 para manter padrão
 
   const maxCount = genreArray.length > 0 ? genreArray[0].count : 1;
 
   return (
     <section className="section generos">
       <h3 className="sc-title">Gêneros mais vistos</h3>
-      <div className="genre-bars">
+      <div className="generos-chart">
         {genreArray.map(genre => (
-          <div key={genre.name} className="bar-wrapper">
-            <span className="genre-name">{genre.name}</span>
-            <div className="bar-bg">
+          <div key={genre.name} className="genero-bar-container">
+            <div className="genero-label">{genre.name}</div>
+            <div className="genero-bar-bg">
               <div
-                className="bar-fill"
+                className="genero-bar-fill"
                 style={{ width: `${(genre.count / maxCount) * 100}%` }}
               />
             </div>
-            <span className="genre-count">{genre.count}</span>
+            <span className="genero-count">{genre.count}</span>
           </div>
         ))}
       </div>

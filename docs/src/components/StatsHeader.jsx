@@ -20,7 +20,7 @@ const StatsHeader = ({
         </span>
         <span>
           <h2>{horasCount}</h2>
-          <p>Minutos</p>
+          <p>Horas</p>
         </span>
         <span>
           <h2>{diretoresCount}</h2>

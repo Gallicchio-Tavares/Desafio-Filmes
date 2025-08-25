@@ -1,7 +1,6 @@
 // src/components/Decadas.jsx
 import React, { useMemo } from "react";
 import "../styles/Decadas.css";
-import "../styles/stats.css"
 
 const Decadas = ({ movies }) => {
   // Agrupa filmes por década, calcula contagem e lista títulos
@@ -48,10 +47,9 @@ const Decadas = ({ movies }) => {
               <div
                 className={`decada-bar-fill ${count === maxDecadas ? "highest" : ""}`}
                 style={{ width: `${(count / maxDecadas) * 100}%` }}
-              >
-                <span className="decada-count">{count}</span>
-              </div>
+              ></div>
             </div>
+            <span className="decada-count">{count}</span>
           </div>
         ))}
       </div>

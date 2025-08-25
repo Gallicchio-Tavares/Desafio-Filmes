@@ -35,13 +35,13 @@ const Highlights = ({ movies }) => {
     },
     {
       titulo: 'Maior nota',
-      filmes: getDestaquesComEmpates(movies, 'imdbRating', 'desc'),
-      info: f => `Nota: ${f.imdbRating}`,
+      filmes: getDestaquesComEmpates(movies, 'vote_average', 'desc'),
+      info: f => `Nota: ${f.vote_average}`,
     },
     {
       titulo: 'Menor nota',
-      filmes: getDestaquesComEmpates(movies, 'imdbRating'),
-      info: f => `Nota: ${f.imdbRating}`,
+      filmes: getDestaquesComEmpates(movies, 'vote_average'),
+      info: f => `Nota: ${f.vote_average}`,
     },
   ];
 
