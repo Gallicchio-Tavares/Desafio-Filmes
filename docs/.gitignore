@@ -25,3 +25,4 @@ dist-ssr
 
 TEMP.jsx
 api_key.json
+getTmdb.js

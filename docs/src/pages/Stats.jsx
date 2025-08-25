@@ -10,8 +10,8 @@ import Highlights from "../components/Highlights";
 import Favoritos from "../components/Favoritos";
 import Decadas from "../components/Decadas";
 
-import favoritosData from "../data/favoritos2024.json";
-import movies2024 from "../data/moviesData2024.json";
+import favoritosData from "../data/favoritos/2024.json";
+import movies2024 from "../data/filmes/2024_with_details.json"; // agr tá usando os posteres do tmdb
 
 import "../styles/StatsHighlights.css";
 import "../styles/Stats.css";

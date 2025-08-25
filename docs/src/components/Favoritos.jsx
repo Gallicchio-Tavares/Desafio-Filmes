@@ -1,5 +1,4 @@
 import React from "react";
-import postersMap from "../assets/posters";
 import "../styles/Favs.css";
 
 const pastelColors = [
@@ -19,10 +18,9 @@ const Favoritos = ({ favoritos, movies }) => {
       <div className="favoritos-container">
         {favoritos.map((participante, index) => {
           const filmes = participante.favoritos
-            .map(id => movies.find(m => m.id === id))
+            .map((id) => movies.find((m) => m.id === id))
             .filter(Boolean);
 
-          // Seleciona cores da paleta com base no índice (ciclo)
           const colors = pastelColors[index % pastelColors.length];
 
           return (
@@ -37,21 +35,24 @@ const Favoritos = ({ favoritos, movies }) => {
               <h4 className="participante-nome">{participante.nome}</h4>
               <div className="filmes-grid">
                 {filmes.map((filme) => {
-                  const posterFileName = `${filme.id}.jpg`;
-                  const posterSrc = postersMap[posterFileName] || "/placeholder.jpg";
+                  const posterSrc = filme.poster_path
+                    ? `https://image.tmdb.org/t/p/w500${filme.poster_path}`
+                    : null;
 
                   return (
                     <div key={filme.id} className="filme-card">
-                      <img
-                        src={posterSrc}
-                        alt={filme.title}
-                        className="filme-poster"
-                        loading="lazy"
-                        onError={(e) => {
-                          e.target.onerror = null;
-                          e.target.src = "/placeholder.jpg";
-                        }}
-                      />
+                      {posterSrc ? (
+                        <img
+                          src={posterSrc}
+                          alt={filme.title}
+                          className="filme-poster"
+                          loading="lazy"
+                        />
+                      ) : (
+                        <div className="poster-placeholder">
+                          <span>{filme.title}</span>
+                        </div>
+                      )}
                       <div className="filme-overlay">
                         <span>{filme.title}</span>
                       </div>

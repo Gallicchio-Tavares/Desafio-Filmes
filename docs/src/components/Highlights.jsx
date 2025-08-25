@@ -1,7 +1,7 @@
 import React from 'react';
 import "../styles/StatsHighlights.css";
 import "../styles/Stats.css";
-import postersMap from "../assets/posters";
+import { getPosterUrl } from "../utils/tmdb";
 
 const Highlights = ({ movies }) => {
   const getDestaquesComEmpates = (moviesList, key, order = 'asc') => {
@@ -50,15 +50,15 @@ const Highlights = ({ movies }) => {
       <h3 className="sc-title">Estatísticas gerais dos filmes</h3>
       <div className="stats-grid">
         {destaques.map(({ titulo, filmes, info }) => {
-          const posterFileName = `${filmes[0].id}.jpg`;
-          const posterSrc = postersMap[posterFileName];
+          const posterSrc = getPosterUrl(filmes[0].poster_path);
+          const movieTitle = filmes[0].originalTitle || filmes[0].title;
 
           return (
             <div key={titulo} className="stats-card">
               {posterSrc && (
                 <img
                   src={posterSrc}
-                  alt={filmes[0].title}
+                  alt={movieTitle}
                   className="stats-poster"
                   loading="lazy"
                 />
@@ -67,11 +67,11 @@ const Highlights = ({ movies }) => {
                 <h3 className="stats-subtitle">{titulo}</h3>
                 <p className="stats-movie">
                   {filmes.length > 1 ? (
-                    <span title={filmes.map(f => f.title).join(', ')}>
-                      {filmes[0].title} +{filmes.length - 1}
+                    <span title={filmes.map(f => f.originalTitle || f.title).join(', ')}>
+                      {movieTitle} +{filmes.length - 1}
                     </span>
                   ) : (
-                    filmes[0].title
+                    movieTitle
                   )}
                 </p>
                 <p className="stats-highlight-info">
