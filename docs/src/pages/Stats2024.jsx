@@ -18,7 +18,7 @@ import "../styles/Stats.css";
 import "../styles/Decadas.css"
 import "../styles/Favs.css";
 
-const Stats = () => {
+const Stats2024 = () => {
   const filmesCount = movies2024.length;
   const horasCount = movies2024.reduce((acc, movie) => acc + movie.runtime, 0);
   const horas = Math.floor(horasCount / 60);
@@ -64,4 +64,4 @@ const Stats = () => {
   );
 };
 
-export default Stats;
+export default Stats2024;
