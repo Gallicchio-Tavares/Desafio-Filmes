@@ -15,11 +15,11 @@ const HallDaFama = () => {
     setRevealed((prev) => ({ ...prev, [id]: !prev[id] }));
   };
 
-    const getImagem = (c) => {
+  const getImagem = (c) => {
     const fileName = `${c.id}.jpg`;
     const key = Object.keys(imagensConquistas).find(k => k.split('/').pop() === fileName);
     return key ? imagensConquistas[key] : logoPreto;
-    };
+  };
 
   return (
     <>
@@ -58,10 +58,18 @@ const HallDaFama = () => {
                             href={p.link}
                             target="_blank"
                             rel="noopener noreferrer"
+                            className="conquistador-link"
                           >
                             {p.nome}
-                          </a>{" "}
-                          — edição {p.edicao}
+                          </a>
+                          <span className="conquistador-info">
+                            {" "}— edição {p.edicao}
+                            {p.detalhes && (
+                              <span className="conquistador-detalhes">
+                                {" "}• {p.detalhes}
+                              </span>
+                            )}
+                          </span>
                         </li>
                       ))}
                     </ul>

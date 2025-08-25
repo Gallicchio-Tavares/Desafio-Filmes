@@ -1,20 +1,31 @@
 [
-        {
-      "id": 2,
-      "titulo": "Crítico de Cinema",
-      "descricao": "Escreveu críticas longas e detalhadas sobre todos os filmes que viu",
-      "imagem": "logo_preto.png",
-      "unlocked": false,
-      "conquistadoPor": []
-    },
-        {
-      "id": 4,
-      "titulo": "Desempregado",
-      "descricao": "Concluiu o desafio com a maior quantidade de horas assistidas de todos os tempos",
-      "imagem": "logo_preto.png",
-      "unlocked": false,
-      "conquistadoPor": []
-    },
+  {
+    "id": 2,
+    "titulo": "Crítico de Cinema",
+    "descricao": "Escreveu críticas longas e detalhadas sobre todos os filmes que viu",
+    "imagem": "logo_preto.png",
+    "unlocked": true,
+    "conquistadoPor": [{
+      "nome": "EdzinhoHowlett",
+      "link": "https://boxd.it/fHj1f",
+      "edicao": 2025
+    }]
+  },
+  {
+    "id": 4,
+    "titulo": "Desempregado",
+    "descricao": "Concluiu o desafio com a maior quantidade de horas assistidas de todos os tempos",
+    "imagem": "logo_preto.png",
+    "unlocked": true,
+    "conquistadoPor": [
+      {
+        "nome": "mathamen",
+        "link": "https://boxd.it/b9fXv",
+        "edicao": 2025,
+        "detalhes": "Total de 64 horas e 30 minutos assistidos"
+      }
+    ]
+  },
 
     {
       "id": 3,
@@ -32,16 +43,20 @@
       "unlocked": false,
       "conquistadoPor": []
     },
-
-
-
     {
       "id": 5,
       "titulo": "Apressadinho",
       "descricao": "Concluiu o desafio com a menor quantidade de horas assistidas de todos os tempos",
       "imagem": "logo_preto.png",
-      "unlocked": false,
-      "conquistadoPor": []
+      "unlocked": true,
+      "conquistadoPor": [
+        {
+          "nome": "EdzinhoHowlett",
+          "link": "https://boxd.it/fHj1f",
+          "edicao": 2025,
+          "detalhes": "Total de 50 horas e 20 minutos assistidos"
+        }
+      ]
     },
     {
       "id": 6,
@@ -56,8 +71,13 @@
       "titulo": "Mês do Orgulho",
       "descricao": "Assistiu a pelo menos 10 filmes com temática explicitamente LGBTQIA+",
       "imagem": "logo_preto.png",
-      "unlocked": false,
-      "conquistadoPor": []
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "belovacomis",
+          "link": "https://boxd.it/41ixh",
+          "edicao": 2025,
+          "detalhes": "10 filmes assistidos"
+        }]
     },
     {
       "id": 8,
@@ -99,8 +119,9 @@
       "unlocked": true,
       "conquistadoPor": [{
           "nome": "mathamen",
-          "link": "https://boxd.it/db2Td",
-          "edicao": 2024
+          "link": "https://boxd.it/b9fXv",
+          "edicao": 2024,
+          "detalhes": "Completou a franquia 007 (Daniel Craig)"
         }]
     },
     {
@@ -108,8 +129,15 @@
       "titulo": "Fanboy",
       "descricao": "Assistiu a pelo menos 5 filmes do mesmo diretor",
       "imagem": "logo_preto.png",
-      "unlocked": false,
-      "conquistadoPor": []
+      "unlocked": true,
+      "conquistadoPor": [
+        {
+          "nome": "mathamen",
+          "link": "https://boxd.it/b9fXv",
+          "edicao": 2025,
+        "detalhes": "5 filmes do Martin Scorsese"
+        }
+      ]
     },
     {
       "id": 14,
@@ -156,8 +184,15 @@
       "titulo": "Psicodelia ou Revolução?",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1960",
       "imagem": "logo_preto.png",
-      "unlocked": false,
-      "conquistadoPor": []
+      "unlocked": true,
+      "conquistadoPor": [
+        {
+          "nome": "UmaPessoaHumana",
+          "link": "https://boxd.it/6wVxb",
+          "edicao": 2025,
+          "detalhes": "10 filmes assistidos"
+        }
+      ]
     },
     {
       "id": 20,
@@ -196,16 +231,30 @@
       "titulo": "O Último Romântico",
       "descricao": "Assistiu a pelo menos 10 filmes de Romance",
       "imagem": "logo_preto.png",
-      "unlocked": false,
-      "conquistadoPor": []
+      "unlocked": true,
+      "conquistadoPor": [
+        {
+          "nome": "Belle_Is",
+          "link": "https://boxd.it/fHiUt",
+          "edicao": 2025,
+          "detalhes": "12 filmes assistidos"
+        }
+      ]
     },
     {
       "id": 25,
       "titulo": "Dormir é Para os Fracos",
       "descricao": "Assistiu a pelo menos 10 filmes de Terror",
       "imagem": "logo_preto.png",
-      "unlocked": false,
-      "conquistadoPor": []
+      "unlocked": true,
+      "conquistadoPor": [
+        {
+          "nome": "UmaPessoaHumana",
+          "link": "https://boxd.it/6wVxb",
+          "edicao": 2025,
+          "detalhes": "10 filmes assistidos"
+        }
+      ]
     },
     {
       "id": 26,

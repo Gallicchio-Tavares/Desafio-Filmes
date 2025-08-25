@@ -36,6 +36,12 @@
   margin-bottom: 1rem;
 }
 
+.conquistado-por {
+  margin-top: 1rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid rgba(128, 128, 128, 0.2);
+}
+
 .conquistado-por ul {
   list-style: none;
   padding-left: 0;
@@ -43,22 +49,53 @@
 }
 
 .conquistado-por li {
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.8rem;
+  line-height: 1.4;
 }
 
-.conquistado-por a {
+.conquistador-link {
   color: var(--accent);
   text-decoration: none;
   font-weight: 500;
 }
 
-.conquistado-por a:hover {
+.conquistador-link:hover {
   text-decoration: underline;
 }
 
+.conquistador-info {
+  color: var(--muted);
+  font-size: 0.9em;
+}
+
+.conquistador-detalhes {
+  color: #666;
+  font-style: italic;
+  display: inline-block;
+  margin-top: 0.2rem;
+  font-size: 0.85em;
+  line-height: 1.3;
+}
+
+/* Melhoria para mobile */
 @media (max-width: 600px) {
   .conquistas {
     grid-template-columns: 1fr;
+  }
+  
+  .conquista {
+    padding: 1.2rem;
+  }
+  
+  .conquistador-info {
+    display: block;
+    margin-top: 0.3rem;
+  }
+  
+  .conquistador-detalhes {
+    display: block;
+    margin-top: 0.2rem;
+    margin-left: 0;
   }
 }
 
@@ -74,11 +111,17 @@
 /* Conquistas bloqueadas ficam turvas/desaturadas */
 .conquista.locked .img_conquista {
   filter: grayscale(100%) blur(2px) brightness(0.3);
-  pointer-events: none; /* impede clicar só na imagem */
+  pointer-events: none;
 }
 
+.subtitulo {
+  color: var(--muted);
+  text-align: center;
+  margin-bottom: 2rem;
+}
 
-.subtitulo{
-    color: var(--muted);
-    text-align: center;
+/* Para conquistas com muitos detalhes */
+.conquista .conquistado-por li {
+  word-wrap: break-word;
+  hyphens: auto;
 }
