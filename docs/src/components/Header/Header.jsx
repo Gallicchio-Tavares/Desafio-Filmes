@@ -1,25 +1,25 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { Link } from 'react-router-dom';
-import '../styles/Header.css'; // arquivo CSS separado
+import './Header.css';
 
-import img1 from '../assets/header/12-Angry-Men.jpg';
-import img2 from '../assets/header/das_cabinet_des_dr._caligari.jpg';
-import img3 from '../assets/header/buster_keaton_2.jpg';
-import img4 from '../assets/header/buster-keaton.jpg';
-import img5 from '../assets/header/Ivan_The_Terrible_Part_I.jpg';
-import img6 from '../assets/header/la-noire-de.jpg';
-import img7 from '../assets/header/man-with-the-movie-camera.jpg';
-import img8 from '../assets/header/nosferatu.jpg';
-import img9 from '../assets/header/o_farol.jpg';
-import img10 from '../assets/header/Sunset-Boulevard.jpg';
-import img11 from '../assets/header/rio-40-graus.jpg';
-import img12 from '../assets/header/seven-samurai.jpg';
-import img13 from '../assets/header/soleil_o.jpg';
-import img14 from '../assets/header/stalker.jpg';
-import img15 from '../assets/header/the-ascent.jpg';
-import img16 from '../assets/header/The-Cremator.jpg';
-import img17 from '../assets/header/ze-do-caixao.jpg';
-import logo from '../assets/logo.png';
+import img1 from '../../assets/header/12-Angry-Men.jpg';
+import img2 from '../../assets/header/das_cabinet_des_dr._caligari.jpg';
+import img3 from '../../assets/header/buster_keaton_2.jpg';
+import img4 from '../../assets/header/buster-keaton.jpg';
+import img5 from '../../assets/header/Ivan_The_Terrible_Part_I.jpg';
+import img6 from '../../assets/header/la-noire-de.jpg';
+import img7 from '../../assets/header/man-with-the-movie-camera.jpg';
+import img8 from '../../assets/header/nosferatu.jpg';
+import img9 from '../../assets/header/o_farol.jpg';
+import img10 from '../../assets/header/Sunset-Boulevard.jpg';
+import img11 from '../../assets/header/rio-40-graus.jpg';
+import img12 from '../../assets/header/seven-samurai.jpg';
+import img13 from '../../assets/header/soleil_o.jpg';
+import img14 from '../../assets/header/stalker.jpg';
+import img15 from '../../assets/header/the-ascent.jpg';
+import img16 from '../../assets/header/The-Cremator.jpg';
+import img17 from '../../assets/header/ze-do-caixao.jpg';
+import logo from '../../assets/logo.png';
 
 export default function Header() {
   const imagensFundo = [
@@ -37,7 +37,6 @@ export default function Header() {
   const navRef = useRef(null);
 
   useEffect(() => {
-    // Escolhe imagem aleatória no mount
     const indexAleatorio = Math.floor(Math.random() * imagensFundo.length);
     setBgImage(imagensFundo[indexAleatorio]);
 

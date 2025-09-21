@@ -1,5 +1,4 @@
-import "../styles/Paises.css";
-import React from "react";
+import "./Paises.css";
 
 const Paises = ({ movies }) => {
   // Contar países

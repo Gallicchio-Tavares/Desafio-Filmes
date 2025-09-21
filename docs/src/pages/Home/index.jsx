@@ -1,8 +1,8 @@
-import Header from "../../components/Header";
+import Header from "../../components/Header/Header";
 import "./index.css";
-import Footer from "../../components/Footer";
-import CountdownTimer from "../../components/CountdownTimer";
-import ITSOVER from "../../components/ITSOVER";
+import Footer from "../../components/Footer/Footer";
+import CountdownTimer from "../../components/ElementosHome/CountdownTimer";
+import ITSOVER from "../../components/ElementosHome/ITSOVER";
 
 const Home = () => {
   
@@ -14,18 +14,12 @@ const Home = () => {
         <section className="section">
           <h3>O que é o Desafio Filmes?</h3>
           <p>
-            O Desafio Filmes é uma maratona coletiva de cinema cuja a proposta é assistir 
-            <strong> 1 filme por dia durante 1 mês</strong> (30 dias).
-            O objetivo é expandir o repertório, conhecer obras de diferentes épocas e países 
+            O Desafio Filmes é um projeto de uma maratona coletiva de cinema cuja proposta é assistir a
+            <strong> um filme por dia durante 1 mês</strong> (30 dias).
+            O objetivo é expandir o repertório com filmes que você não assistiria tipicamente, conhecer obras de diferentes épocas e países 
             e, acima de tudo, se divertir!
           </p>
-          {/* 1. Os filmes assistidos durante os 30 dias não podem se repetir
-2. Os filmes assistidos não podem já ter sido vistos pelo participante anteriormente
-3. Os filmes devem ser assistidos em sua integridade, sem deixá-los inacabados e sem longas pausas, ou seja, o participante não pode começar um filme em um dia, fazer uma pausa e voltar a assisti-lo no dia seguinte para poder terminar o filme
-4. O conteúdo assistido deve apenas ser considerado como **filme longa-metragem**, não podendo ser episódio de série nem curta ou média-metragem
-5. Não há compensação de dias para filmes não assistidos */}
         </section>
-
         <section className="section rules">
           <h3>Regras básicas</h3>
           <ol>

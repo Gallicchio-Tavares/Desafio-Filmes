@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Route, Routes, Navigate} from "react-router-do
 import Home from "./pages/Home/index.jsx";
 import FAQ from "./pages/FAQ/index.jsx";
 import HallDaFama from "./pages/HallDaFama/index.jsx";
-import StatsAnual from "./pages/StatsAnual.jsx";
+import StatsAnual from "./pages/Stats/StatsAnual.jsx";
 
 const App = () => {
   return (

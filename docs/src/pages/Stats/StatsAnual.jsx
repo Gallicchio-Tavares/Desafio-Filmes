@@ -1,28 +1,24 @@
 // src/pages/StatsAnual.jsx
 import React, { useState } from "react";
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
-import WatchedMovies from "../components/WatchedMovies";
-import StatsHeader from "../components/StatsHeader";
-import Generos from "../components/Generos";
-import Paises from "../components/Paises";
-import Highlights from "../components/Highlights";
-import Favoritos from "../components/Favoritos";
-import Decadas from "../components/Decadas";
+import Navbar from "../../components/Navbar/Navbar";
+import Footer from "../../components/Footer/Footer";
+import WatchedMovies from "../../components/ElementosStats/WatchedMovies";
+import StatsHeader from "../../components/ElementosStats/StatsHeader";
+import Generos from "../../components/ElementosStats/Generos";
+import Paises from "../../components/ElementosStats/Paises";
+import Highlights from "../../components/ElementosStats/Highlights";
+import Favoritos from "../../components/ElementosStats/Favoritos";
+import Decadas from "../../components/ElementosStats/Decadas";
 
-import favoritos2024 from "../data/favoritos/2024.json";
-import favoritos2025 from "../data/favoritos/2025.json";
-import movies2024 from "../data/filmes/2024_with_details.json";
-import movies2025 from "../data/filmes/2025_with_details.json";
+import favoritos2024 from "../../data/favoritos/2024.json";
+import favoritos2025 from "../../data/favoritos/2025.json";
+import movies2024 from "../../data/filmes/2024_with_details.json";
+import movies2025 from "../../data/filmes/2025_with_details.json";
 
-import "../styles/StatsHighlights.css";
-import "../styles/Stats.css";
-import "../styles/Decadas.css";
-import "../styles/Favs.css";
-import "../styles/StatsAnual.css";
+import "./StatsAnual.css";
 
 const StatsAnual = () => {
-  const [anoSelecionado, setAnoSelecionado] = useState(2025); // Ano atual como default
+  const [anoSelecionado, setAnoSelecionado] = useState(2025); // ano atual como padrao
 
   const dadosPorAno = {
     2024: {
@@ -37,7 +33,7 @@ const StatsAnual = () => {
 
   const { movies, favoritos } = dadosPorAno[anoSelecionado];
 
-  // Cálculos das estatísticas
+  // calculos das estatísticas
   const filmesCount = movies.length;
   const horasCount = movies.reduce((acc, movie) => acc + movie.runtime, 0);
   const horas = Math.floor(horasCount / 60);
@@ -55,8 +51,6 @@ const StatsAnual = () => {
     <>
       <div className="container">
         <Navbar />
-        
-        {/* Seletor de Ano */}
         <div className="ano-selector">
           <button 
             className={`ano-btn ${anoSelecionado === 2024 ? 'active' : ''}`}

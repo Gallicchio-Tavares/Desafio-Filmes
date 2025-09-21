@@ -1,0 +1,112 @@
+/* src/styles/StatsAnual.css */
+.ano-selector {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+  gap: 1rem;
+}
+
+.ano-btn {
+  padding: 0.8rem 2rem;
+  border: 2px solid var(--primary);
+  background: transparent;
+  color: var(--text);
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.ano-btn:hover {
+  background: rgba(250, 129, 47, 0.1);
+  transform: translateY(-2px);
+}
+
+.ano-btn.active {
+  background: var(--primary);
+  color: var(--bg);
+  box-shadow: 0 4px 12px rgba(250, 129, 47, 0.3);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .ano-selector {
+    margin: 1.5rem 0;
+    gap: 0.5rem;
+  }
+  
+  .ano-btn {
+    padding: 0.6rem 1.5rem;
+    font-size: 1rem;
+  }
+}
+
+.container {
+    padding: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
+  .section {
+    background-color: var(--bg-alt);
+    border-left: 5px solid var(--primary);
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    animation: fadeInUp 0.6s ease-out;
+  }
+  
+  .section:nth-of-type(even) {
+    border-left-color: var(--secondary);
+  }
+  
+  .section h3 {
+    font-size: 1.6rem;
+    color: var(--primary);
+    margin-bottom: 1rem;
+  }
+  
+  ul {
+    /* list-style-type: none; */
+    padding-left: 0;
+    color: var(--text);
+  }
+  
+  ul li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .grafico, .destaque-img {
+    display: block;
+    max-width: 100%;
+    margin: 1.5rem auto 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  }
+  
+  /* Animações */
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  @keyframes popIn {
+    from { opacity: 0; transform: scale(0.95); }
+    to { opacity: 1; transform: scale(1); }
+  }
+
+  .loading {
+  text-align: center;
+  padding: 3rem;
+  font-size: 1.2rem;
+  color: var(--text);
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0% { opacity: 0.6; }
+  50% { opacity: 1; }
+  100% { opacity: 0.6; }
+}

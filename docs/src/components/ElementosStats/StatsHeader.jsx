@@ -1,5 +1,4 @@
-import React from "react";
-import "../styles/Stats.css";
+import "./StatsHeader.css";
 
 const StatsHeader = ({
   ano,

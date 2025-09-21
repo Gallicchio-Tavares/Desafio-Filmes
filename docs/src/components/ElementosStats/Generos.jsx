@@ -1,4 +1,4 @@
-import "../styles/Generos.css";
+import "./Generos.css";
 
 const Generos = ({ movies }) => {
   const genreCounts = movies.reduce((acc, movie) => {

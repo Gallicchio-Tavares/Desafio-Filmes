@@ -1,7 +1,5 @@
-import React from 'react';
-import "../styles/StatsHighlights.css";
-import "../styles/Stats.css";
-import { getPosterUrl } from "../utils/tmdb";
+import "./Highlights.css";
+import { getPosterUrl } from "../../utils/tmdb";
 
 const Highlights = ({ movies }) => {
   const getDestaquesComEmpates = (moviesList, key, order = 'asc') => {

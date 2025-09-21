@@ -1,5 +1,4 @@
-import React from 'react';
-import '../styles/ITSOVER.css';
+import './ITSOVER.css';
 
 const ITSOVER = () => {
   return (

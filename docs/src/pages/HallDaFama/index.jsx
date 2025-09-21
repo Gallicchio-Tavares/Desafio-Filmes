@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Navbar from "../../components/Navbar";
-import Footer from "../../components/Footer";
+import Navbar from "../../components/Navbar/Navbar";
+import Footer from "../../components/Footer/Footer";
 import conquistasData from "../../data/conquistas.json";
 import logoPreto from "../../assets/logo_preto.png";
 import "./index.css";

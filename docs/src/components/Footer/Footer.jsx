@@ -1,7 +1,5 @@
 import { FaGithub } from "react-icons/fa";
-import { Link } from "react-router-dom";
-import '../styles/Footer.css';
-import montypyhton from "../assets/monty-python-holy-grail.jpg";
+import './Footer.css';
 
 export default function Footer() {
   const LetterboxdIcon = (props) => (

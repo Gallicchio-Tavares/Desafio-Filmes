@@ -1,6 +1,6 @@
 // src/components/Decadas.jsx
 import React, { useMemo } from "react";
-import "../styles/Decadas.css";
+import "./Decadas.css";
 
 const Decadas = ({ movies }) => {
   // Agrupa filmes por década, calcula contagem e lista títulos

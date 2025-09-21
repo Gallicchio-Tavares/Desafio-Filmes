@@ -1,5 +1,4 @@
-import React from "react";
-import "../styles/Favs.css";
+import "./Favoritos.css";
 
 const pastelColors = [
   { primary: "#A8D5BA", secondary: "#D0E8D0" },

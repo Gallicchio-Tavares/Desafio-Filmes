@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import "../styles/WatchedMovies.css";
-import { getPosterUrl } from "../utils/tmdb";
+import "./WatchedMovies.css";
+import { getPosterUrl } from "../../utils/tmdb";
 
 const WatchedMovies = ({ moviesData }) => {
   const [movies, setMovies] = useState([]);
