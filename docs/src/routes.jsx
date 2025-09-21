@@ -1,8 +1,6 @@
 import { BrowserRouter as Router, Route, Routes, Navigate} from "react-router-dom";
 import Home from "./pages/Home/index.jsx";
 import FAQ from "./pages/FAQ/index.jsx";
-import Stats2024 from "./pages/Stats2024.jsx";
-import Stats2025 from "./pages/Stats2025.jsx";
 import HallDaFama from "./pages/HallDaFama/index.jsx";
 import StatsAnual from "./pages/StatsAnual.jsx";
 

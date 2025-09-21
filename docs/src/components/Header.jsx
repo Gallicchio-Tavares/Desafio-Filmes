@@ -11,7 +11,7 @@ import img6 from '../assets/header/la-noire-de.jpg';
 import img7 from '../assets/header/man-with-the-movie-camera.jpg';
 import img8 from '../assets/header/nosferatu.jpg';
 import img9 from '../assets/header/o_farol.jpg';
-// import img10 from '../assets/header/persona.jpg';
+import img10 from '../assets/header/Sunset-Boulevard.jpg';
 import img11 from '../assets/header/rio-40-graus.jpg';
 import img12 from '../assets/header/seven-samurai.jpg';
 import img13 from '../assets/header/soleil_o.jpg';
@@ -24,7 +24,7 @@ import logo from '../assets/logo.png';
 export default function Header() {
   const imagensFundo = [
     img1, img2, img3, img4, img5, img6, img7, img8,
-    img9, img11, img12, img13, img14, img15,
+    img9,img10, img11, img12, img13, img14, img15,
     img16, img17
   ];
 
