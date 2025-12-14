@@ -5,7 +5,6 @@ import conquistasData from "../../data/conquistas.json";
 import logoPreto from "../../assets/logo_preto.png";
 import "./index.css";
 
-// Importa todas as imagens de conquistas
 const imagensConquistas = import.meta.glob('../../assets/conquistas/*.jpg', { eager: true, import: 'default' });
 
 const HallDaFama = () => {
@@ -37,8 +36,10 @@ const HallDaFama = () => {
                 key={c.id}
                 className={`conquista ${c.unlocked ? "unlocked" : "locked"}`}
                 onClick={() => c.unlocked && toggleReveal(c.id)}
-                style={{ cursor: c.unlocked ? "pointer" : "default" }}
-              >
+                style={{ 
+                  cursor: c.unlocked ? "pointer" : "default", 
+                  borderLeft: c.unlocked ? "5px solid #388E3C" : "5px solid var(--primary)"
+                }}>
                 <img
                   src={getImagem(c)}
                   alt={c.titulo}

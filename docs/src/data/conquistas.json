@@ -3,7 +3,6 @@
     "id": 2,
     "titulo": "Crítico de Cinema",
     "descricao": "Escreveu críticas longas e detalhadas sobre todos os filmes que viu",
-    "imagem": "logo_preto.png",
     "unlocked": true,
     "conquistadoPor": [{
       "nome": "EdzinhoHowlett",
@@ -15,7 +14,6 @@
     "id": 4,
     "titulo": "Desempregado",
     "descricao": "Concluiu o desafio com a maior quantidade de horas assistidas de todos os tempos",
-    "imagem": "logo_preto.png",
     "unlocked": true,
     "conquistadoPor": [
       {
@@ -23,23 +21,22 @@
         "link": "https://boxd.it/b9fXv",
         "edicao": 2025,
         "detalhes": "Total de 64 horas e 30 minutos assistidos"
-      }
-    ]
+      }]
   },
 
     {
       "id": 3,
       "titulo": "Anti-Imperialista",
       "descricao": "Não assistiu a nenhum filme feito pelos EUA",
-      "imagem": "logo_preto.png",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "nivel": "hard"
     },
     {
       "id": 1,
       "titulo": "Comunista",
       "descricao": "Assistiu a pelo menos 10 filmes de países socialistas ou de cunho revolucionário",
-      "imagem": "logo_preto.png",
+      
       "unlocked": false,
       "conquistadoPor": []
     },
@@ -47,7 +44,7 @@
       "id": 5,
       "titulo": "Apressadinho",
       "descricao": "Concluiu o desafio com a menor quantidade de horas assistidas de todos os tempos",
-      "imagem": "logo_preto.png",
+      
       "unlocked": true,
       "conquistadoPor": [
         {
@@ -62,7 +59,7 @@
       "id": 6,
       "titulo": "Nacionalista",
       "descricao": "Assistiu a pelo menos 10 filmes brasileiros",
-      "imagem": "logo_preto.png",
+      
       "unlocked": false,
       "conquistadoPor": []
     },
@@ -70,7 +67,7 @@
       "id": 7,
       "titulo": "Mês do Orgulho",
       "descricao": "Assistiu a pelo menos 10 filmes com temática explicitamente LGBTQIA+",
-      "imagem": "logo_preto.png",
+      
       "unlocked": true,
       "conquistadoPor": [{
           "nome": "belovacomis",
@@ -83,23 +80,22 @@
       "id": 8,
       "titulo": "Eu Sou um Cara Simples",
       "descricao": "Concluiu o desafio assistindo a todos os filmes de graça no YouTube",
-      "imagem": "logo_preto.png",
+      
       "unlocked": false,
       "conquistadoPor": []
     },
     {
       "id": 9,
       "titulo": "Enzo",
-      "descricao": "Concluiu o desafio assistindo apenas a filmes do século XXI",
-      "imagem": "logo_preto.png",
+      "descricao": "Assistiu apenas a filmes do século XXI",
+      
       "unlocked": false,
       "conquistadoPor": []
     },
     {
       "id": 10,
       "titulo": "Anos 2000? Nunca vi",
-      "descricao": "Concluiu o desafio assistindo apenas a filmes do século XX",
-      "imagem": "logo_preto.png",
+      "descricao": "Assistiu apenas a filmes do século XX",
       "unlocked": false,
       "conquistadoPor": []
     },
@@ -107,15 +103,13 @@
       "id": 11,
       "titulo": "Obcecado",
       "descricao": "Assistiu a pelo menos 3 filmes em um mesmo dia",
-      "imagem": "logo_preto.png",
       "unlocked": false,
       "conquistadoPor": []
     },
     {
       "id": 12,
       "titulo": "Eu Vou Até o Fim",
-      "descricao": "Assistiu todas as sequências de uma franquia",
-      "imagem": "logo_preto.png",
+      "descricao": "Assistiu a todas as sequências de uma franquia",
       "unlocked": true,
       "conquistadoPor": [{
           "nome": "mathamen",
@@ -128,7 +122,6 @@
       "id": 13,
       "titulo": "Fanboy",
       "descricao": "Assistiu a pelo menos 5 filmes do mesmo diretor",
-      "imagem": "logo_preto.png",
       "unlocked": true,
       "conquistadoPor": [
         {
@@ -140,10 +133,27 @@
       ]
     },
     {
+      "id": 28,
+      "titulo": "Maria Vai com as Outras",
+      "descricao": "Assistiu apenas a filmes do IMDB Top 250",
+      "unlocked": false,
+      "conquistadoPor": []
+    },
+    {
+      "id": 29,
+      "titulo": "O Diferentão",
+      "descricao": "Assistiu apenas a filmes com menos de 10 mil espectadores no Letterboxd",
+      "unlocked": false,
+      "conquistadoPor": []
+    },
+
+
+
+    {
       "id": 14,
       "titulo": "Pioneiro",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1910",
-      "imagem": "logo_preto.png",
+      
       "unlocked": false,
       "conquistadoPor": []
     },
@@ -151,7 +161,6 @@
       "id": 15,
       "titulo": "Rei do Cinema Mudo",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1920",
-      "imagem": "logo_preto.png",
       "unlocked": false,
       "conquistadoPor": []
     },
@@ -159,7 +168,6 @@
       "id": 16,
       "titulo": "Talkies? TALKIES!",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1930",
-      "imagem": "logo_preto.png",
       "unlocked": false,
       "conquistadoPor": []
     },
@@ -167,7 +175,6 @@
       "id": 17,
       "titulo": "Noir ou Nada",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1940",
-      "imagem": "logo_preto.png",
       "unlocked": false,
       "conquistadoPor": []
     },
@@ -175,7 +182,6 @@
       "id": 18,
       "titulo": "Rock Around the Clock",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1950",
-      "imagem": "logo_preto.png",
       "unlocked": false,
       "conquistadoPor": []
     },
@@ -183,7 +189,6 @@
       "id": 19,
       "titulo": "Psicodelia ou Revolução?",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1960",
-      "imagem": "logo_preto.png",
       "unlocked": true,
       "conquistadoPor": [
         {
@@ -198,7 +203,6 @@
       "id": 20,
       "titulo": "A Nova Hollywood",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1970",
-      "imagem": "logo_preto.png",
       "unlocked": false,
       "conquistadoPor": []
     },
@@ -206,7 +210,6 @@
       "id": 21,
       "titulo": "Era dos Excessos",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1980",
-      "imagem": "logo_preto.png",
       "unlocked": false,
       "conquistadoPor": []
     },
@@ -214,15 +217,16 @@
       "id": 22,
       "titulo": "Grunge",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1990",
-      "imagem": "logo_preto.png",
       "unlocked": false,
       "conquistadoPor": []
     },
+
+
+
     {
       "id": 23,
       "titulo": "PTSD",
       "descricao": "Assistiu a pelo menos 10 filmes de Guerra",
-      "imagem": "logo_preto.png",
       "unlocked": false,
       "conquistadoPor": []
     },
@@ -230,7 +234,6 @@
       "id": 24,
       "titulo": "O Último Romântico",
       "descricao": "Assistiu a pelo menos 10 filmes de Romance",
-      "imagem": "logo_preto.png",
       "unlocked": true,
       "conquistadoPor": [
         {
@@ -245,7 +248,6 @@
       "id": 25,
       "titulo": "Dormir é Para os Fracos",
       "descricao": "Assistiu a pelo menos 10 filmes de Terror",
-      "imagem": "logo_preto.png",
       "unlocked": true,
       "conquistadoPor": [
         {
@@ -260,7 +262,6 @@
       "id": 26,
       "titulo": "Me Segura Que Eu Vou Dançar",
       "descricao": "Assistiu a pelo menos 10 Musicais",
-      "imagem": "logo_preto.png",
       "unlocked": false,
       "conquistadoPor": []
     },
@@ -268,7 +269,13 @@
         "id": 27,
         "titulo": "Perdido no Espaço",
         "descricao": "Assistiu a pelo menos 10 filmes de Ficção Científica",
-        "imagem": "logo_preto.png",
+        "unlocked": false,
+        "conquistadoPor": []
+    },
+    {
+        "id": 30,
+        "titulo": "Cavaleiro das Planícies",
+        "descricao": "Assistiu a pelo menos 10 filmes de Faroeste",
         "unlocked": false,
         "conquistadoPor": []
     }
