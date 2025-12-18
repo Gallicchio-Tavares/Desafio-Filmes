@@ -12,6 +12,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.1.0",
     "chart.js": "^4.5.0",
     "framer-motion": "^12.9.4",
     "react": "^19.0.0",

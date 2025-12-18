@@ -8,7 +8,8 @@
       "nome": "EdzinhoHowlett",
       "link": "https://boxd.it/fHj1f",
       "edicao": 2025
-    }]
+    }],
+    "categoria": "misc"
   },
   {
     "id": 4,
@@ -21,7 +22,8 @@
         "link": "https://boxd.it/b9fXv",
         "edicao": 2025,
         "detalhes": "Total de 64 horas e 30 minutos assistidos"
-      }]
+      }],
+    "categoria": "misc"
   },
 
     {
@@ -30,7 +32,7 @@
       "descricao": "Não assistiu a nenhum filme feito pelos EUA",
       "unlocked": false,
       "conquistadoPor": [],
-      "nivel": "hard"
+      "categoria": "bhg"
     },
     {
       "id": 1,
@@ -38,7 +40,8 @@
       "descricao": "Assistiu a pelo menos 10 filmes de países socialistas ou de cunho revolucionário",
       
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "paises"
     },
     {
       "id": 5,
@@ -53,7 +56,8 @@
           "edicao": 2025,
           "detalhes": "Total de 50 horas e 20 minutos assistidos"
         }
-      ]
+      ],
+      "categoria": "misc"
     },
     {
       "id": 6,
@@ -61,7 +65,8 @@
       "descricao": "Assistiu a pelo menos 10 filmes brasileiros",
       
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "paises"
     },
     {
       "id": 7,
@@ -74,7 +79,61 @@
           "link": "https://boxd.it/41ixh",
           "edicao": 2025,
           "detalhes": "10 filmes assistidos"
-        }]
+        }],
+      "categoria": "tematicos"
+    },
+    {
+      "id": 37,
+      "titulo": "Filme de Boneco",
+      "descricao": "Assistiu a pelo menos 10 filmes de super-herói",
+      
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "tematicos"
+    },
+    {
+      "id": 38,
+      "titulo": "Nada Convencional",
+      "descricao": "Assistiu a pelo menos 10 filmes de movimentos de Nouvelle Vague",
+      
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "tematicos"
+    },
+    {
+      "id": 35,
+      "titulo": "Kaiju Eiga",
+      "descricao": "Assistiu a pelo menos 5 filmes de monstros gigantes",
+      
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "tematicos"
+    },
+    {
+      "id": 36,
+      "titulo": "Dungeons & Dragons",
+      "descricao": "Assistiu a pelo menos 5 filmes que se passam na Era Medieval",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "tematicos"
+    },
+    {
+      "id": 32,
+      "titulo": "Um Filme Dentro de um Filme",
+      "descricao": "Assistiu a pelo menos 5 filmes metalinguísticos (metanarrativos ou de metacinema)",
+      
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "tematicos"
+    },
+    {
+      "id": 34,
+      "titulo": "Eu NÃO Quero Acreditar!",
+      "descricao": "Assistiu a pelo menos 5 filmes com atuações deliberadamente não naturalistas ou distanciadas",
+      
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "tematicos"
     },
     {
       "id": 8,
@@ -82,29 +141,24 @@
       "descricao": "Concluiu o desafio assistindo a todos os filmes de graça no YouTube",
       
       "unlocked": false,
-      "conquistadoPor": []
-    },
-    {
-      "id": 9,
-      "titulo": "Enzo",
-      "descricao": "Assistiu apenas a filmes do século XXI",
-      
-      "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "bhg"
     },
     {
       "id": 10,
-      "titulo": "Anos 2000? Nunca vi",
+      "titulo": "Anos 2000? Nunca nem vi",
       "descricao": "Assistiu apenas a filmes do século XX",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "misc"
     },
     {
       "id": 11,
       "titulo": "Obcecado",
       "descricao": "Assistiu a pelo menos 3 filmes em um mesmo dia",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "misc"
     },
     {
       "id": 12,
@@ -116,7 +170,8 @@
           "link": "https://boxd.it/b9fXv",
           "edicao": 2024,
           "detalhes": "Completou a franquia 007 (Daniel Craig)"
-        }]
+        }],
+      "categoria": "misc"
     },
     {
       "id": 13,
@@ -130,22 +185,58 @@
           "edicao": 2025,
         "detalhes": "5 filmes do Martin Scorsese"
         }
-      ]
+      ],
+      "categoria": "misc"
     },
     {
       "id": 28,
       "titulo": "Maria Vai com as Outras",
-      "descricao": "Assistiu apenas a filmes do IMDB Top 250",
+      "descricao": "Assistiu a pelo menos 15 filmes com mais de 1.5 milhão de assistidas no Letterboxd",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "misc"
+    },
+    {
+      "id": 33,
+      "titulo": "O Livro Era Melhor...",
+      "descricao": "Assistiu a pelo menos 10 filmes baseados em livros que você já leu",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "misc"
     },
     {
       "id": 29,
       "titulo": "O Diferentão",
-      "descricao": "Assistiu apenas a filmes com menos de 10 mil espectadores no Letterboxd",
+      "descricao": "Assistiu a pelo menos 15 filmes com menos de 15 mil assistidas no Letterboxd",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "bhg"
     },
+    {
+      "id": 9,
+      "titulo": "Eurovision",
+      "descricao": "Assistiu a pelo menos 15 filmes europeus",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "paises"
+    },
+    {
+      "id": 31,
+      "titulo": "Rota da Seda",
+      "descricao": "Assistiu a pelo menos 15 filmes asiáticos",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "paises"
+    },
+    {
+      "id": 39,
+      "titulo": "Cinema Africano",
+      "descricao": "Assistiu a pelo menos 15 filmes africanos",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "paises"
+    },
+
 
 
 
@@ -155,35 +246,40 @@
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1910",
       
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "decadas"
     },
     {
       "id": 15,
       "titulo": "Rei do Cinema Mudo",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1920",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "decadas"
     },
     {
       "id": 16,
       "titulo": "Talkies? TALKIES!",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1930",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "decadas"
     },
     {
       "id": 17,
       "titulo": "Noir ou Nada",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1940",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "decadas"
     },
     {
       "id": 18,
       "titulo": "Rock Around the Clock",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1950",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "decadas"
     },
     {
       "id": 19,
@@ -197,28 +293,32 @@
           "edicao": 2025,
           "detalhes": "10 filmes assistidos"
         }
-      ]
+      ],
+      "categoria": "decadas"
     },
     {
       "id": 20,
       "titulo": "A Nova Hollywood",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1970",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "decadas"
     },
     {
       "id": 21,
       "titulo": "Era dos Excessos",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1980",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "decadas"
     },
     {
       "id": 22,
       "titulo": "Grunge",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1990",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "decadas"
     },
 
 
@@ -228,7 +328,8 @@
       "titulo": "PTSD",
       "descricao": "Assistiu a pelo menos 10 filmes de Guerra",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "generos"
     },
     {
       "id": 24,
@@ -242,7 +343,8 @@
           "edicao": 2025,
           "detalhes": "12 filmes assistidos"
         }
-      ]
+      ],
+      "categoria": "generos"
     },
     {
       "id": 25,
@@ -256,27 +358,31 @@
           "edicao": 2025,
           "detalhes": "10 filmes assistidos"
         }
-      ]
+      ],
+      "categoria": "generos"
     },
     {
       "id": 26,
       "titulo": "Me Segura Que Eu Vou Dançar",
       "descricao": "Assistiu a pelo menos 10 Musicais",
       "unlocked": false,
-      "conquistadoPor": []
+      "conquistadoPor": [],
+      "categoria": "generos"
     },
     {
         "id": 27,
         "titulo": "Perdido no Espaço",
         "descricao": "Assistiu a pelo menos 10 filmes de Ficção Científica",
         "unlocked": false,
-        "conquistadoPor": []
+        "conquistadoPor": [],
+      "categoria": "generos"
     },
     {
         "id": 30,
         "titulo": "Cavaleiro das Planícies",
         "descricao": "Assistiu a pelo menos 10 filmes de Faroeste",
         "unlocked": false,
-        "conquistadoPor": []
+        "conquistadoPor": [],
+      "categoria": "generos"
     }
 ]

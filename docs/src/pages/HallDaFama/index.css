@@ -125,3 +125,76 @@
   word-wrap: break-word;
   hyphens: auto;
 }
+
+/* NOVOS ESTILOS PARA CATEGORIAS - ADICIONE NO FINAL DO ARQUIVO */
+
+.categoria-section {
+  margin-bottom: 3rem;
+}
+
+.descricao-cat, .titulo-cat{
+  text-align: center;
+}
+
+.categoria-titulo {
+  color: var(--primary);
+  font-size: 1.8rem;
+  margin: 2.5rem 0 0.5rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--primary);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.categoria-titulo i {
+  font-size: 1.6rem;
+  width: 30px;
+  text-align: center;
+}
+
+.categoria-descricao {
+  color: var(--muted);
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+  margin-left: 40px; /* Para alinhar com o texto do título (ícone + espaço) */
+}
+
+/* Primeira categoria não precisa de margem extra no topo */
+.categoria-section:first-child .categoria-titulo {
+  margin-top: 1rem;
+}
+
+/* Estilo especial para categoria BGH */
+.categoria-section:nth-child(2) .categoria-titulo {
+  color: #ff4757;
+  border-bottom-color: #ff4757;
+}
+
+.categoria-section:nth-child(2) .categoria-titulo i {
+  color: #ff4757;
+}
+
+/* Responsividade */
+@media (max-width: 600px) {
+  .categoria-titulo {
+    font-size: 1.5rem;
+    margin: 2rem 0 0.5rem 0;
+    gap: 8px;
+  }
+  
+  .categoria-titulo i {
+    font-size: 1.4rem;
+    width: 25px;
+  }
+  
+  .categoria-descricao {
+    margin-left: 33px; /* Ajuste para mobile */
+    font-size: 0.95rem;
+  }
+  
+  .categoria-section:first-child .categoria-titulo {
+    margin-top: 0.5rem;
+  }
+}

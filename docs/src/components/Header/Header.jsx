@@ -7,7 +7,6 @@ import img2 from '../../assets/header/das_cabinet_des_dr._caligari.jpg';
 import img3 from '../../assets/header/buster_keaton_2.jpg';
 import img4 from '../../assets/header/buster-keaton.jpg';
 import img5 from '../../assets/header/Ivan_The_Terrible_Part_I.jpg';
-import img6 from '../../assets/header/la-noire-de.jpg';
 import img7 from '../../assets/header/man-with-the-movie-camera.jpg';
 import img8 from '../../assets/header/nosferatu.jpg';
 import img9 from '../../assets/header/o_farol.jpg';
@@ -23,7 +22,7 @@ import logo from '../../assets/logo.png';
 
 export default function Header() {
   const imagensFundo = [
-    img1, img2, img3, img4, img5, img6, img7, img8,
+    img1, img2, img3, img4, img5, img7, img8,
     img9,img10, img11, img12, img13, img14, img15,
     img16, img17
   ];
