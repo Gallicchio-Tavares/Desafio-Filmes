@@ -13,13 +13,8 @@ const CATEGORIAS = {
     // desc: "Conquistas variadas e desafiadoras",
     icon: "fas fa-star" 
   },
-  bhg: { 
-    nome: "Brabo Humilde God", 
-    desc: "Quem entrar aqui vai ter eternamente o meu respeito",
-    icon: "fas fa-crown" 
-  },
   paises: { 
-    nome: "Países & Continentes", 
+    nome: "Regionais", 
     // desc: "Conquistas baseadas em nacionalidade e região",
     icon: "fas fa-globe-americas" 
   },
@@ -64,7 +59,7 @@ const HallDaFama = () => {
   }, {});
 
   // Ordenar as categorias na ordem desejada
-  const ordemCategorias = ['misc', 'bhg', 'paises', 'tematicos', 'decadas', 'generos'];
+  const ordemCategorias = ['misc', 'tematicos', 'paises', 'decadas', 'generos'];
 
   return (
     <>
@@ -100,7 +95,7 @@ const HallDaFama = () => {
                       onClick={() => c.unlocked && toggleReveal(c.id)}
                       style={{ 
                         cursor: c.unlocked ? "pointer" : "default", 
-                        borderLeft: c.unlocked ? "5px solid #388E3C" : "5px solid var(--primary)"
+                        borderLeft: c.unlocked ? "5px solid #40A578" : "5px solid var(--secondary)"
                       }}>
                       <img
                         src={getImagem(c)}
@@ -108,7 +103,7 @@ const HallDaFama = () => {
                         loading="lazy"
                         className="img_conquista"
                       />
-                      <h3 className="titulo-cat">{c.titulo}</h3>
+                      <h3 className="titulo-cat" style={{color: c.unlocked ? "#9DDE8B" : "var(--primary)"}}>{c.titulo}</h3>
                       <p className="descricao-cat">{c.descricao}</p>
 
                       {c.unlocked && isRevealed && c.conquistadoPor.length > 0 && (

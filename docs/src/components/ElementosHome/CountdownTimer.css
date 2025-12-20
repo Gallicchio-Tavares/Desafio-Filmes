@@ -18,6 +18,7 @@
   
   .timer-display {
     display: flex;
+    justify-content: center;
     gap: 1rem;
   }
   
@@ -27,11 +28,15 @@
     align-items: center;
     min-width: 60px;
   }
+
+  .timer-title {
+    color: var(--beige-yellow);
+  }
   
   .timer-number {
     font-size: 2rem;
     font-weight: bold;
-    color: var(--highlight);
+    color: #78C841;
     font-family: 'Courier New', monospace;
   }
   

@@ -7,7 +7,6 @@
 
 .conquista {
   background-color: var(--bg-alt);
-  border-left: 5px solid var(--primary);
   padding: 1.8rem;
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
@@ -126,8 +125,6 @@
   hyphens: auto;
 }
 
-/* NOVOS ESTILOS PARA CATEGORIAS - ADICIONE NO FINAL DO ARQUIVO */
-
 .categoria-section {
   margin-bottom: 3rem;
 }
@@ -166,16 +163,6 @@
   margin-top: 1rem;
 }
 
-/* Estilo especial para categoria BGH */
-.categoria-section:nth-child(2) .categoria-titulo {
-  color: #ff4757;
-  border-bottom-color: #ff4757;
-}
-
-.categoria-section:nth-child(2) .categoria-titulo i {
-  color: #ff4757;
-}
-
 /* Responsividade */
 @media (max-width: 600px) {
   .categoria-titulo {
@@ -197,4 +184,12 @@
   .categoria-section:first-child .categoria-titulo {
     margin-top: 0.5rem;
   }
+}
+
+.capa-info {
+  font-size: 0.65rem;
+  color: var(--muted);
+  text-align: center;
+  font-style: italic;
+  opacity: 0.8;
 }

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import "./CountdownTimer.css";
 
 const CountdownTimer = () => {
@@ -12,7 +12,7 @@ const CountdownTimer = () => {
   useEffect(() => {
     const calculateTimeLeft = () => {
       const now = new Date();
-      const targetDate = new Date('2025-07-26T00:00:00');
+      const targetDate = new Date('2026-07-11T00:00:00');
       const difference = targetDate - now;
 
       if (difference > 0) {
@@ -41,7 +41,7 @@ const CountdownTimer = () => {
 
   return (
     <div className="countdown-timer">
-      <h4>Início do desafio em:</h4>
+      <h2 className="timer-title">O Desafio começa em:</h2>
       <div className="timer-display">
         <div className="timer-unit">
           <span className="timer-number">{formatNumber(timeLeft.days)}</span>

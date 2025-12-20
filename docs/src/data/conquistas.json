@@ -9,7 +9,8 @@
       "link": "https://boxd.it/fHj1f",
       "edicao": 2025
     }],
-    "categoria": "misc"
+    "categoria": "misc",
+    "capa": "Ratatouille (2007)"
   },
   {
     "id": 4,
@@ -23,26 +24,10 @@
         "edicao": 2025,
         "detalhes": "Total de 64 horas e 30 minutos assistidos"
       }],
-    "categoria": "misc"
+    "categoria": "misc",
+    "capa": "Vingadores Ultimato (2019)"
   },
 
-    {
-      "id": 3,
-      "titulo": "Anti-Imperialista",
-      "descricao": "Não assistiu a nenhum filme feito pelos EUA",
-      "unlocked": false,
-      "conquistadoPor": [],
-      "categoria": "bhg"
-    },
-    {
-      "id": 1,
-      "titulo": "Comunista",
-      "descricao": "Assistiu a pelo menos 10 filmes de países socialistas ou de cunho revolucionário",
-      
-      "unlocked": false,
-      "conquistadoPor": [],
-      "categoria": "paises"
-    },
     {
       "id": 5,
       "titulo": "Apressadinho",
@@ -57,16 +42,8 @@
           "detalhes": "Total de 50 horas e 20 minutos assistidos"
         }
       ],
-      "categoria": "misc"
-    },
-    {
-      "id": 6,
-      "titulo": "Nacionalista",
-      "descricao": "Assistiu a pelo menos 10 filmes brasileiros",
-      
-      "unlocked": false,
-      "conquistadoPor": [],
-      "categoria": "paises"
+      "categoria": "misc",
+      "capa": "Forrest Gump (1994)"
     },
     {
       "id": 7,
@@ -80,7 +57,8 @@
           "edicao": 2025,
           "detalhes": "10 filmes assistidos"
         }],
-      "categoria": "tematicos"
+      "categoria": "tematicos",
+      "capa": "But I\u2019m a Cheerleader (1999)"
     },
     {
       "id": 37,
@@ -89,7 +67,8 @@
       
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "tematicos"
+      "categoria": "tematicos",
+      "capa": "The Batman (2022)"
     },
     {
       "id": 38,
@@ -98,59 +77,56 @@
       
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "tematicos"
+      "categoria": "tematicos",
+      "capa": "As Pequenas Margaridas (1966)"
     },
     {
       "id": 35,
       "titulo": "Kaiju Eiga",
-      "descricao": "Assistiu a pelo menos 5 filmes de monstros gigantes",
+      "descricao": "Assistiu a pelo menos 3 filmes de monstros gigantes",
       
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "tematicos"
+      "categoria": "tematicos",
+      "capa": "Godzilla (1954)"
     },
     {
       "id": 36,
       "titulo": "Dungeons & Dragons",
-      "descricao": "Assistiu a pelo menos 5 filmes que se passam na Era Medieval",
+      "descricao": "Assistiu a pelo menos 3 filmes que se passam na Era Medieval",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "tematicos"
+      "categoria": "tematicos",
+      "capa": "A Paixão de Joana d'Arc (1928)"
     },
     {
       "id": 32,
       "titulo": "Um Filme Dentro de um Filme",
-      "descricao": "Assistiu a pelo menos 5 filmes metalinguísticos (metanarrativos ou de metacinema)",
+      "descricao": "Assistiu a pelo menos 3 filmes metalinguísticos (metanarrativos ou de metacinema)",
       
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "tematicos"
+      "categoria": "tematicos",
+      "capa": "Cidade dos Sonhos (2001)"
     },
     {
       "id": 34,
       "titulo": "Eu NÃO Quero Acreditar!",
-      "descricao": "Assistiu a pelo menos 5 filmes com atuações deliberadamente não naturalistas ou distanciadas",
+      "descricao": "Assistiu a pelo menos 3 filmes com atuações deliberadamente não naturalistas ou distanciadas",
       
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "tematicos"
-    },
-    {
-      "id": 8,
-      "titulo": "Eu Sou um Cara Simples",
-      "descricao": "Concluiu o desafio assistindo a todos os filmes de graça no YouTube",
-      
-      "unlocked": false,
-      "conquistadoPor": [],
-      "categoria": "bhg"
+      "categoria": "tematicos",
+      "capa": "Persona (1966)"
     },
     {
       "id": 10,
-      "titulo": "Anos 2000? Nunca nem vi",
+      "titulo": "Idoso",
       "descricao": "Assistiu apenas a filmes do século XX",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "misc"
+      "categoria": "misc",
+      "capa": "The Play House (1921)"
     },
     {
       "id": 11,
@@ -158,7 +134,8 @@
       "descricao": "Assistiu a pelo menos 3 filmes em um mesmo dia",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "misc"
+      "categoria": "misc",
+      "capa": "Whiplash (2014)"
     },
     {
       "id": 12,
@@ -171,7 +148,8 @@
           "edicao": 2024,
           "detalhes": "Completou a franquia 007 (Daniel Craig)"
         }],
-      "categoria": "misc"
+      "categoria": "misc",
+      "capa": "007 - Operação Skyfall (2012)"
     },
     {
       "id": 13,
@@ -186,7 +164,35 @@
         "detalhes": "5 filmes do Martin Scorsese"
         }
       ],
-      "categoria": "misc"
+      "categoria": "misc",
+      "capa": "O Grande Hotel Budapeste (2014)"
+    },
+        {
+      "id": 33,
+      "titulo": "O Livro Era Melhor...",
+      "descricao": "Assistiu a pelo menos 5 filmes baseados em livros que você já leu",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "misc",
+      "capa": "O Iluminado (1980)"
+    },
+    {
+      "id": 42,
+      "titulo": "Raíz",
+      "descricao": "Assistiu a pelo menos 3 filmes em DVD",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "misc",
+      "capa": "Deu a Louca na Chapeuzinho (2005)"
+    },
+    {
+      "id": 8,
+      "titulo": "Eu Sou um Cara Simples",
+      "descricao": "Concluiu o desafio assistindo a todos os filmes de graça no YouTube",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "misc",
+      "capa": "Saneamento Básico, o Filme (2007)"
     },
     {
       "id": 28,
@@ -194,49 +200,110 @@
       "descricao": "Assistiu a pelo menos 15 filmes com mais de 1.5 milhão de assistidas no Letterboxd",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "misc"
-    },
-    {
-      "id": 33,
-      "titulo": "O Livro Era Melhor...",
-      "descricao": "Assistiu a pelo menos 10 filmes baseados em livros que você já leu",
-      "unlocked": false,
-      "conquistadoPor": [],
-      "categoria": "misc"
+      "categoria": "misc",
+      "capa": "Tudo em Todo Lugar ao Mesmo Tempo (2022)"
     },
     {
       "id": 29,
       "titulo": "O Diferentão",
-      "descricao": "Assistiu a pelo menos 15 filmes com menos de 15 mil assistidas no Letterboxd",
+      "descricao": "Assistiu a pelo menos 15 filmes com menos de 20 mil assistidas no Letterboxd",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "bhg"
+      "categoria": "misc",
+      "capa": "Matou a Família e Foi ao Cinema (1969)"
+    },
+    {
+      "id": 1,
+      "titulo": "Comunista",
+      "descricao": "Assistiu a pelo menos 10 filmes de países socialistas ou de cunho revolucionário",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "paises",
+      "capa": "Eu Sou Cuba (1964)"
+    },
+    {
+      "id": 6,
+      "titulo": "Nacionalista",
+      "descricao": "Assistiu a pelo menos 10 filmes brasileiros",
+      
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "paises",
+      "capa": "Deus e o Diabo na Terra do Sol (1964)"
+    },
+    {
+      "id": 40,
+      "titulo": "Hermano",
+      "descricao": "Assistiu a pelo menos 10 filmes hispano-americanos",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "paises",
+      "capa": "Wiñaypacha (2017)"
     },
     {
       "id": 9,
       "titulo": "Eurovision",
-      "descricao": "Assistiu a pelo menos 15 filmes europeus",
-      "unlocked": false,
-      "conquistadoPor": [],
-      "categoria": "paises"
+      "descricao": "Assistiu a pelo menos 10 filmes europeus",
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "belovacomis",
+          "link": "https://boxd.it/41ixh",
+          "edicao": 2025,
+          "detalhes": "10 filmes assistidos"
+        }],
+      "categoria": "paises",
+      "capa": "Jeanne Dielman (1975)"
     },
     {
       "id": 31,
       "titulo": "Rota da Seda",
-      "descricao": "Assistiu a pelo menos 15 filmes asiáticos",
-      "unlocked": false,
-      "conquistadoPor": [],
-      "categoria": "paises"
+      "descricao": "Assistiu a pelo menos 10 filmes asiáticos",
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "ok1na",
+          "link": "https://boxd.it/4ZSGJ",
+          "edicao": 2025,
+          "detalhes": "11 filmes assistidos"
+        }],
+      "categoria": "paises",
+      "capa": "Shutter (2004)"
     },
     {
       "id": 39,
-      "titulo": "Cinema Africano",
-      "descricao": "Assistiu a pelo menos 15 filmes africanos",
+      "titulo": "Decolonial",
+      "descricao": "Assistiu a pelo menos 10 filmes africanos",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "paises"
+      "categoria": "paises",
+      "capa": "Ó Sol (1970)"
     },
-
+    {
+      "id": 43,
+      "titulo": "Ilhado",
+      "descricao": "Assistiu a pelo menos 10 filmes de países insulares",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "paises",
+      "capa": "Terra de Deus (2022)"
+    },
+    {
+      "id": 41,
+      "titulo": "Globetrotter",
+      "descricao": "Assistiu a pelo menos 3 filmes de cada continente",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "paises",
+      "capa": "Samsara (2011)"
+    },
+    {
+      "id": 3,
+      "titulo": "Anti-Imperialista",
+      "descricao": "Não assistiu a nenhum filme feito pelos EUA",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "paises",
+      "capa": "RRR (2022)"
+    },
 
 
 
@@ -247,7 +314,8 @@
       
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "decadas"
+      "categoria": "decadas",
+      "capa": "Intolerância (1916)"
     },
     {
       "id": 15,
@@ -255,7 +323,8 @@
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1920",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "decadas"
+      "categoria": "decadas",
+      "capa": "The Gold Rush (1925)"
     },
     {
       "id": 16,
@@ -263,7 +332,8 @@
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1930",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "decadas"
+      "categoria": "decadas",
+      "capa": "Personal Property (1937)"
     },
     {
       "id": 17,
@@ -271,7 +341,8 @@
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1940",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "decadas"
+      "categoria": "decadas",
+      "capa": "The Maltese Falcon (1941)"
     },
     {
       "id": 18,
@@ -279,7 +350,8 @@
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1950",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "decadas"
+      "categoria": "decadas",
+      "capa": "Os Sete Samurais (1954)"
     },
     {
       "id": 19,
@@ -294,7 +366,8 @@
           "detalhes": "10 filmes assistidos"
         }
       ],
-      "categoria": "decadas"
+      "categoria": "decadas",
+      "capa": "A Negra de... (1966)"
     },
     {
       "id": 20,
@@ -302,7 +375,8 @@
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1970",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "decadas"
+      "categoria": "decadas",
+      "capa": "Taxi Driver (1976)"
     },
     {
       "id": 21,
@@ -310,7 +384,8 @@
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1980",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "decadas"
+      "categoria": "decadas",
+      "capa": "Um Príncipe em Nova York (1988)"
     },
     {
       "id": 22,
@@ -318,7 +393,8 @@
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1990",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "decadas"
+      "categoria": "decadas",
+      "capa": "Trainspotting  (1996)"
     },
 
 
@@ -329,22 +405,22 @@
       "descricao": "Assistiu a pelo menos 10 filmes de Guerra",
       "unlocked": false,
       "conquistadoPor": [],
-      "categoria": "generos"
+      "categoria": "generos",
+      "capa": "Vá e Veja (1985)"
     },
     {
       "id": 24,
       "titulo": "O Último Romântico",
       "descricao": "Assistiu a pelo menos 10 filmes de Romance",
       "unlocked": true,
-      "conquistadoPor": [
-        {
+      "conquistadoPor": [{
           "nome": "Belle_Is",
           "link": "https://boxd.it/fHiUt",
           "edicao": 2025,
           "detalhes": "12 filmes assistidos"
-        }
-      ],
-      "categoria": "generos"
+        }],
+      "categoria": "generos",
+      "capa": "Disponível Para Amar (2000)"
     },
     {
       "id": 25,
@@ -359,7 +435,8 @@
           "detalhes": "10 filmes assistidos"
         }
       ],
-      "categoria": "generos"
+      "categoria": "generos",
+      "capa": "Onibaba (1964)"
     },
     {
       "id": 26,
@@ -367,22 +444,66 @@
       "descricao": "Assistiu a pelo menos 10 Musicais",
       "unlocked": false,
       "conquistadoPor": [],
+      "categoria": "generos",
+      "capa": "La La Land (2019)"
+    },
+    {
+      "id": 27,
+      "titulo": "Perdido no Espaço",
+      "descricao": "Assistiu a pelo menos 10 filmes de Ficção Científica",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "generos",
+      "capa": "2001: Uma Odisseia no Espaço (1968)"
+  },
+    {
+      "id": 30,
+      "titulo": "Cavaleiro das Planícies",
+      "descricao": "Assistiu a pelo menos 10 filmes de Faroeste",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "generos",
+      "capa": " ()"
+    },
+    {
+      "id": 44,
+      "titulo": "Castigat Ridendo Mores",
+      "descricao": "Assistiu a pelo menos 10 filmes de Comédia",
+      "unlocked": true,
+      "conquistadoPor": [{
+        "nome": "Belle_Is",
+        "link": "https://boxd.it/fHiUt",
+        "edicao": 2025,
+        "detalhes": "17 filmes assistidos"
+      }],
+      "categoria": "generos",
+      "capa": "Em Busca do Cálice Sagrado (1975)"
+    },
+    {
+      "id": 45,
+      "titulo": "Terra Encantada",
+      "descricao": "Assistiu a pelo menos 10 filmes de Fantasia",
+      "unlocked": true,
+      "conquistadoPor": [{
+        "nome": "EdzinhoHowlett",
+        "link": "https://boxd.it/fHj1f",
+        "edicao": 2025,
+        "detalhes": "11 filmes assistidos"
+      }],
       "categoria": "generos"
     },
     {
-        "id": 27,
-        "titulo": "Perdido no Espaço",
-        "descricao": "Assistiu a pelo menos 10 filmes de Ficção Científica",
-        "unlocked": false,
-        "conquistadoPor": [],
-      "categoria": "generos"
-    },
-    {
-        "id": 30,
-        "titulo": "Cavaleiro das Planícies",
-        "descricao": "Assistiu a pelo menos 10 filmes de Faroeste",
-        "unlocked": false,
-        "conquistadoPor": [],
-      "categoria": "generos"
+      "id": 46,
+      "titulo": "Tiro, Porrada e Bomba",
+      "descricao": "Assistiu a pelo menos 10 filmes de Ação",
+      "unlocked": true,
+      "conquistadoPor": [{
+        "nome": "EdzinhoHowlett",
+        "link": "https://boxd.it/fHj1f",
+        "edicao": 2025,
+        "detalhes": "12 filmes assistidos"
+      }],
+      "categoria": "generos",
+      "capa": "O Exterminador do Futuro 2 (1991)"
     }
 ]
