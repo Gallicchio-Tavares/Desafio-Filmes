@@ -30,7 +30,7 @@ const FAQ = () => {
           className={`category-tab ${activeCategory === "premiacao" ? "active" : ""}`}
           onClick={() => handleCategoryChange("premiacao")}
         >
-          Premiação
+          Missões
         </button>
         <button 
           className={`category-tab ${activeCategory === "faq" ? "active" : ""}`}
@@ -42,89 +42,145 @@ const FAQ = () => {
 
       {/* Regras gerais */}
       <div className={`regras-category ${activeCategory === "geral" ? "active" : ""}`}>
-        {/* Nas regras gerais, precisa ter informação  */}
-
-        <section className="section regras">
-          <h3>Como eu participo?</h3>
-          <p>
-            Primeiro, você precisa comunicar o seu interesse em participar do desafio, seja pelo WhatsApp
-            ou pelo Discord. Daí, quando estiver próximo da data, nós vamos criar o grupo do desafio no
-            WhatsApp com todos os participantes. Você vai precisar contribuir com R$30,00 para entrar no desafio, que vai
-            compor o montante que será distribuído entre os vencedores ao cabo dos 30 dias de desafio.
-          </p>
-        </section>
-        
         <section className="section regras">
           <h3>Séries e documentários contam no desafio?</h3>
           <p>
-            Não. Apenas filmes longa-metragem são válidos para o desafio. Séries, 
-            minisséries, documentários e curta-metragens não são aceitos.
+            Apenas filmes e documentários longa-metragem são válidos para o desafio. Séries, 
+            minisséries e curta-metragens não são aceitos. A duração mínima para um filme é de 60 minutos (1 hora).
+          </p>
+        </section>
+
+        <section className="section regras">
+          <h3>Posso assistir mais de um filme em um dia só?</h3>
+          <p>
+            Poder você pode, mas isso não vai contar pro desafio. Escolha qual deles vai contar pro desafio
+            no dia.
+          </p>
+        </section>
+
+        <section className="section regras">
+          <h3>Como comprovar que assisti ao filme?</h3>
+          <p>
+            Diariamente, você deve registrar ("logar") o filme assistido na plataforma Letterboxd. Ela é ideal para
+            esse desafio porque não tem como falsificar um log. Se você não registrou nada, por exemplo, no dia 5 e
+            logar qualquer coisa no dia 6 e mudar a data para o dia 5, ainda vai aparecer nas Atividades que 
+            você incluiu o filme no dia 6. Além disso, você vai precisar escrever, mesmo que um pouco,
+            sobre o que você viu e o que achou do filme.
+            <br /><br />
+            Também, uma vez no desafio, você não vai poder desaparecer do grupo de mensagens. Avise no grupo
+            qual filme você vai ver no dia, isso auxilia na fiscalização.
+          </p>
+        </section>
+
+        <section className="section regras">
+          <h3>Eu posso editar um registro já feito?</h3>
+          <p>
+            Há três coisas na vida que nunca voltam atrás: a flecha lançada, a palavra pronunciada e o registro de um filme.
+            Em outras palavras: não.
           </p>
         </section>
         
         <section className="section regras">
           <h3>O que acontece se eu perder um dia?</h3>
           <p>
-            Não há compensação para filmes não assistidos. Se você não 
+            Não há compensação para dias perdidos. Se você não 
             assistir a um filme em determinado dia, não poderá compensar assistindo a 
-            dois filmes no dia seguinte. Você pode continuar no desafio se quiser, mas não poderá mais 
-            concorrer à premiação final.<br></br><br></br>O único caso extremo aceito é se faltar luz ou qualquer conexão com a internet 
+            dois filmes no dia seguinte. Logo, você está desclassificado.
+            Você pode continuar no desafio se quiser, mas não poderá mais concorrer à premiação final.
+            
+            <br></br><br></br>O único caso extremo aceito é se faltar luz ou qualquer conexão com a internet 
             o dia inteiro, te impossibilitando de assistir a um filme ou a logar ele. Mas, se isso acontecer, 
             você vai precisar comprovar que realmente foi impossibilitado (ex: print da concessionária de
             luz ou internet. Eles têm apps/redes com histórico de falta de luz/internet).
           </p>
         </section>
-        
+    
         <section className="section regras">
-          <h3>Como comprovar que assisti ao filme?</h3>
+          <h3>O que acontece se eu esquecer de registrar o filme que eu vi?</h3>
           <p>
-            Diariamente, você deve registrar o filme assistido na plataforma Letterboxd. Ela é ideal para
-            esse desafio porque não tem como falsificar um log. Se você não registrou nada, por exemplo, no dia 5 e
-            logar qualquer coisa no dia 6 e mudar a data para o dia 5, ainda vai aparecer nas Atividades que 
-            você incluiu o filme no dia 6. Além disso, você vai precisar escrever, mesmo que um pouco,
-            sobre o que você viu e o que achou do filme. Então, não tem como mentir.
-            <br /><br />
-            Também, uma vez no desafio, você não vai poder desaparecer do grupo de mensagens. Dê sinais de vida
-            lá mostrando que você está ativo no desafio.
+            Você está desclassificado. Sem o registro, não há como comprovar se você realmente assistiu ou não.
           </p>
         </section>
 
         <section className="section regras">
-          <h3>Um filme pode contar para mais de uma categoria?</h3>
+          <h3>O filme vai passar de meia-noite. E agora?</h3>
           <p>
-            Não. Cada filme só pode ser contabilizado para uma única categoria do desafio, 
-            então escolha estrategicamente como classificá-los.
+              Desde que você tenha começado a ver o filme antes de meia-noite, não há problema algum se você
+              terminá-lo depois de meia-noite. Mas você vai ter que avisar OBRIGATORIAMENTE no grupo do 
+              desafio que isso vai acontecer, para termos um controle, e esse aviso precisa ser feito ANTES DE MEIA-NOITE,
+              senão não poderemos saber se você realmente começou o filme no dia ou não. 
+          </p>
+          <p>
+            Além disso, nós vamos verificar o horário em que o log foi feito, então há uma tolerância máxima
+            de <strong>1 hora</strong> entre o momento em que você começou a assistir ao filme e o horário do 
+            log. Então, por exemplo, se você começou a assistir a um filme de 1 hora e meia às 23:30, 
+            espera-se que ele termine por volta de 1 da manhã. Se o log foi feito depois de 2 e meia da
+            manhã, não vai contar como algo legítimo e você será desclassificado.
           </p>
         </section>
 
         <section className="section regras">
-          <h3>Onde posso encontrar filmes do desafio passado?</h3>
+          <h3>O Letterboxd tá fora do ar e eu ainda não fiz meu registro. E agora?</h3>
           <p>
-            Você pode encontrar a lista completa de filmes do desafio anterior na página 
-            de estatísticas do nosso site. Lá, estão disponíveis todos os filmes que foram 
-            assistidos pelos participantes na edição anterior.
+              O Letterboxd ficar fora do ar é uma possibilidade real, e já aconteceu no passado. Se isso
+              acontecer e você ainda não tiver logado o seu filme do dia, nós vamos fazer pelo WhatsApp, 
+              seguindo o mesmo padrão: diga qual filme você viu, escreva uma review sobre ele e, se for o caso,
+              indique qual Missão ele cumpre.
           </p>
         </section>
       </div>
 
-      {/* Premiação */}
+
+      {/* Missões */}
       <div className={`regras-category ${activeCategory === "premiacao" ? "active" : ""}`}>
-        <section className="section regras">
-          <h3>Qual é a premiação?</h3>
+       <section className="section regras">
+          <h3>Um filme pode contar para mais de uma Missão?</h3>
           <p>
-            Todos os participantes entram com R$30. Quem completar o desafio inteiro (30 filmes e 
-            todas as 8 Edição 2025) divide o prêmio igualmente. Quem não completar, perde sua contribuição.
+            As Missões Únicas não podem ser combinadas entre si, mas podemos juntar a Missão Geral com 
+            alguma das Missões Únicas. 
           </p>
-        </section>
-        
-        <section className="section regras">
-          <h3>Quando a premiação é distribuída?</h3>
           <p>
-            A premiação será distribuída no dia 25 de agosto de 2025, após a verificação dos registros 
-            de todos os participantes.
+            Então, por exemplo, se um filme é um musical indicado por outro participante, o filme pode entrar
+            ou pra Missão de assistir a um Musical OU pra Missão de assistir a um filme indicado por outro
+            participante, mas não para as duas ao mesmo tempo. Por outro lado, se você tem um musical sueco,
+            esse filme pode contar para a Missão de assistir a um Musical E para a Missão de assistir a
+            filmes de 12 países diferentes.
           </p>
         </section>
 
+        <section className="section regras">
+            <h3>Eu preciso necessariamente combinar a Missão Geral com uma Missão Única?</h3>
+            <p>
+              Não, isso não é necessário. Você pode assistir a um filme mexicano, por exemplo, e alocar ele para a
+              Missão Geral apenas.
+            </p>
+        </section>
+
+        <section className="section regras">
+          <h3>Como vão verificar se eu estou cumprindo as Missões?</h3>
+          <p>
+              A definição das Missões vai depender inteiramente de você, ou seja, você define se um filme
+              que você assistiu e que cumpra os requisitos representa uma Missão. Para definir formalmente,
+              vai ser preciso que você coloque no topo da sua review a qual Missão o filme corresponde. Isso
+              deve ser feito conforme o exemplo:
+          </p>
+          <p>
+            <i>Desafio 1 Mês de Filme - Dia 12.<br/>
+            Missão 5: filme de um país que não existe mais (URSS).</i>
+          </p>
+        </section>
+
+        <section className="section regras">
+          <h3>Já registrei o filme que eu vi mas esqueci de escrever a Missão que ele cumpria. E agora?</h3>
+          <p>
+              Se você esqueceu, esse filme não vai contar pra nenhuma Missão. Não é permitido editar um
+              registro já feito.
+          </p>
+        </section>
+      </div>
+
+      {/* FAQ */}
+      <div className={`regras-category ${activeCategory === "faq" ? "active" : ""}`}>
         <section className="section regras">
           <h3>Como o dinheiro será administrado?</h3>
           <p>
@@ -135,22 +191,29 @@ const FAQ = () => {
 
           </p>
         </section>
-      </div>
-
-      {/* FAQ */}
-      <div className={`regras-category ${activeCategory === "faq" ? "active" : ""}`}>
-        <section className="section regras">
-          <h3>Posso assistir mais de um filme em um dia só?</h3>
-          <p>
-            Poder você pode, mas isso não vai contar pro desafio.
-          </p>
-        </section>
 
         <section className="section regras">
           <h3>Como posso entrar em contato?</h3>
           <p>
-            Entre em contato conosco através do meu <a href="https://discord.com/users/umapessoahumana">Discord</a> ou <a href="https://wa.me/5521972685484?text=Olá,%20quero%20participar%20do%20Desafio%20Filmes%202025!">WhatsApp</a>. Os 
+            Entre em contato conosco através do meu <a href="https://discord.com/users/umapessoahumana">Discord</a> ou <a href="https://wa.me/5521972685484?text=Olá,%20quero%20participar%20do%20Desafio%20Filmes%202026!">WhatsApp</a>. Os 
             links também estão disponíveis no rodapé do site, junto com as minhas demais redes sociais.
+          </p>
+        </section>
+
+        <section className="section regras">
+          <h3>Alguém já perdeu o deafio?</h3>
+          <p>
+            Sim, em todos os desafios ao menos um participante perdeu, seja por não ter assistido ao filme
+            no dia, seja por não ter registrado o filme que supostamente assistiu.
+          </p>
+        </section>
+
+        <section className="section regras">
+          <h3>Onde posso encontrar filmes do desafio passado?</h3>
+          <p>
+            Você pode encontrar a lista completa de filmes do desafio anterior na página 
+            de estatísticas do nosso site. Lá, estão disponíveis todos os filmes que foram 
+            assistidos pelos participantes na edição anterior.
           </p>
         </section>
 
@@ -167,15 +230,7 @@ const FAQ = () => {
             </ol>
         </section>
 
-        <section className="section regras">
-          <h3>O que é considerado "um país que não existe mais"?</h3>
-          <p>
-            São países que existiram oficialmente, mas que atualmente não existem com 
-            a mesma formação política. O filme deve ter sido <b>produzido no país</b> quando ele ainda existia 
-            oficialmente. Alguns exemplos que produziram filmes são: União Soviética, Iugoslávia, Tchecoslováquia, Pérsia, 
-            Ceilão, Índias Orientais Holandesas e Alemanha Oriental.
-          </p>
-        </section>
+
       </div>
     </div>
     <Footer />

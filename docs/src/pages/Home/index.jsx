@@ -56,16 +56,15 @@ const Home = () => {
 
         <div className="divider-dots"></div>
         <h1 className="subtitulo-home">EDIÇÃO 2026</h1>
-        {/* Deixar esse componente mais bonito com o css, ele tá muito basicão atualmente */}
         <section className="section edicao-atual">
           <h3 className="com-divider">Quando?</h3>
           <p>O desafio acontecerá a partir do dia <strong>11 de Julho</strong> (11/07/2026) até o dia <strong>9 de Agosto</strong> (09/08/2026)
             <br/><br/> <strong>Inscrições até 8 de Julho de 2026.</strong>
           </p>
           <h3 className="com-divider">Missões</h3>
-          <h4>Missão combinável</h4>
+          <h4>Missão Geral</h4>
           <p>Assistir a filmes de 12 países diferentes.</p>
-          <h4>Missões únicas</h4>
+          <h4>Missões Únicas</h4>
           <ol>
             <li>Um filme do desafio passado que você ainda não viu.</li>
             <li>Um filme com temática LGBTQIA+.</li>
@@ -102,6 +101,11 @@ const Home = () => {
           onde cada um pode registrar um filme diariamente e escrever sobre o que viu. Garanta que você tenha uma conta
           lá antes do início do desafio e nos envie o link do seu perfil, o qual nós acompanharemos durante todo o desafio.
           </p>
+          <p>Para que o filme conte, é obrigatório:</p>
+          <ul>
+            <li>Registrar o filme no mesmo dia em que ele foi assistido</li>
+            <li></li>
+          </ul>
           <p>Caso você tenha mais dúvidas sobre o funcionamento do Letterboxd em si, verifique a aba de REGRAS aqui do site onde nós explicamos em
             detalhes o funcionamento de um registro e por que esse método é tão confiável.
           </p>
