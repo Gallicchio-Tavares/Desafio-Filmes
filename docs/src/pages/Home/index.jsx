@@ -104,9 +104,9 @@ const Home = () => {
           <p>Para que o filme conte, é obrigatório:</p>
           <ul>
             <li>Registrar o filme no mesmo dia em que ele foi assistido</li>
-            <li></li>
+            <li>Escrever uma resenha sobre o filme</li>
           </ul>
-          <p>Caso você tenha mais dúvidas sobre o funcionamento do Letterboxd em si, verifique a aba de REGRAS aqui do site onde nós explicamos em
+          <p>Caso você tenha mais dúvidas sobre o processo de verificação, olhe a aba de REGRAS aqui do site onde nós explicamos em
             detalhes o funcionamento de um registro e por que esse método é tão confiável.
           </p>
         </section>

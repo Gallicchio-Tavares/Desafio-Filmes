@@ -73,6 +73,15 @@ const FAQ = () => {
         </section>
 
         <section className="section regras">
+          <h3>O que é considerado uma resenha válida?</h3>
+          <p>
+            A resenha não precisa ser extremamente elaborada, ela só precisa mostrar que você realmente viu o filme.
+            Um parágrafo explicando as suas impressões é suficiente. Não vale algo como "Muito bom! Curti demais, veria de novo.". Isso
+            não significa nada. Verifque um exemplo de uma resenha <a href="https://boxd.it/aCRJyl" target="_blank" rel="noopener noreferrer">padrão</a> e uma <a href="https://boxd.it/aDzoVL" target="_blank" rel="noopener noreferrer">longa</a>.
+          </p>
+        </section>
+
+        <section className="section regras">
           <h3>Eu posso editar um registro já feito?</h3>
           <p>
             Há três coisas na vida que nunca voltam atrás: a flecha lançada, a palavra pronunciada e o registro de um filme.
