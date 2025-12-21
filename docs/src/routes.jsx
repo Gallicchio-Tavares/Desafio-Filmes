@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Routes, Navigate} from "react-router-dom";
+import { HashRouter, Route, Routes, Navigate } from "react-router-dom";
 import Home from "./pages/Home/index.jsx";
 import FAQ from "./pages/FAQ/index.jsx";
 import HallDaFama from "./pages/HallDaFama/index.jsx";
@@ -6,7 +6,7 @@ import StatsAnual from "./pages/Stats/StatsAnual.jsx";
 
 const App = () => {
   return (
-    <Router basename="/Desafio-Filmes/">
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/regras" element={<FAQ />} />
@@ -15,7 +15,7 @@ const App = () => {
         <Route path="/stats/2025" element={<Navigate to="/stats?ano=2025" replace />} />
         <Route path="/halldafama" element={<HallDaFama />} />
       </Routes>
-    </Router>
+    </HashRouter>
   );
 };
 
