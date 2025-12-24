@@ -9,13 +9,12 @@
   background-color: var(--bg-alt);
   padding: 1.8rem;
   border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .conquista:hover {
   transform: translateY(-3px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
 }
 
 .conquista h3 {
@@ -134,62 +133,87 @@
 }
 
 .categoria-titulo {
-  color: var(--primary);
-  font-size: 1.8rem;
-  margin: 2.5rem 0 0.5rem 0;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid var(--primary);
+  position: relative;
+  font-size: 1.9rem;
+  margin: 3rem 0 1rem 0;
+  padding-bottom: 0.75rem;
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
+
+  /* Texto com gradiente */
+  background: linear-gradient(
+    90deg,
+    var(--secondary),
+    var(--primary),
+    var(--green-dark)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+
+  /* Brilho sutil */
+  text-shadow:
+    0 0 6px rgba(157, 222, 139, 0.35),
+    0 0 12px rgba(64, 165, 120, 0.25);
+
+  letter-spacing: 0.04em;
 }
 
+/* Linha inferior estilizada */
+.categoria-titulo::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 220px;
+  height: 2px;
+  background: linear-gradient(
+    90deg,
+    #9DDE8B,
+    var(--primary),
+    transparent
+  );
+  opacity: 0.85;
+}
+
+/* Ícone */
 .categoria-titulo i {
   font-size: 1.6rem;
-  width: 30px;
+  width: 32px;
   text-align: center;
+  color: #9DDE8B;
+  text-shadow:
+    0 0 6px rgba(157, 222, 139, 0.4);
 }
 
-.categoria-descricao {
-  color: var(--muted);
-  font-size: 1rem;
-  margin-bottom: 1.5rem;
-  font-style: italic;
-  margin-left: 40px; /* Para alinhar com o texto do título (ícone + espaço) */
-}
-
-/* Primeira categoria não precisa de margem extra no topo */
+/* Primeira categoria */
 .categoria-section:first-child .categoria-titulo {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 }
 
 /* Responsividade */
 @media (max-width: 600px) {
   .categoria-titulo {
     font-size: 1.5rem;
-    margin: 2rem 0 0.5rem 0;
-    gap: 8px;
+    gap: 10px;
   }
-  
+
+  .categoria-titulo::after {
+    width: 160px;
+  }
+
   .categoria-titulo i {
     font-size: 1.4rem;
-    width: 25px;
-  }
-  
-  .categoria-descricao {
-    margin-left: 33px; /* Ajuste para mobile */
-    font-size: 0.95rem;
-  }
-  
-  .categoria-section:first-child .categoria-titulo {
-    margin-top: 0.5rem;
+    width: 26px;
   }
 }
 
-.capa-info {
+/* .capa-info {
   font-size: 0.65rem;
   color: var(--muted);
   text-align: center;
   font-style: italic;
   opacity: 0.8;
-}
+} */

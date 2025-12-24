@@ -3,56 +3,11 @@
   margin-bottom: 2rem;
 }
 
-.regras {
-  background-color: var(--bg-alt);
-  border-left: 5px solid var(--primary);
-  padding: 1.8rem;
-  border-radius: 10px;
-  margin-bottom: 2rem;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-  animation: fadeInUp 0.6s ease-out;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.regras:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
-}
-
 .title {
   color: #fff;
   text-align: center;
   margin-bottom: 0.5rem;
   font-size: 2.4rem;
-}
-
-.regras h3 {
-  font-size: 1.6rem;
-  color: var(--primary);
-  margin-bottom: 1rem;
-}
-
-.regras p {
-  font-size: 1rem;
-  color: var(--text);
-  text-align: justify;
-  text-justify: inter-word; /* Melhora a distribuição do espaço entre palavras */
-  /* hyphens: auto; */
-  line-height: 1.6; /* Espaçamento entre linhas para melhor legibilidade */
-  margin-bottom: 1rem;
-}
-
-.regras a {
-  color: var(--accent);
-  text-decoration: none;
-  transition: color 0.3s ease;
-  font-weight: 500;
-  padding: 0 3px;
-}
-
-.regras a:hover {
-  color: var(--highlight);
-  text-decoration: underline;
 }
 
 /* Estilos para o sistema de abas de categorias */
@@ -92,13 +47,13 @@
   background-color: var(--primary);
   color: var(--bg);
   font-weight: 600;
-  box-shadow: 0 4px 12px rgba(var(--primary-rgb), 0.3);
+  box-shadow: 0 4px 12px rgba(var(--highlight), 0.3);
   transform: translateY(-2px);
 }
 
 .category-tab:focus {
   outline: none;
-  box-shadow: 0 0 0 3px rgba(var(--primary-rgb), 0.3);
+  box-shadow: 0 0 0 3px rgba(var(--highlight), 0.3);
 }
 
 /* Efeito de ripple para os botões */
@@ -142,31 +97,6 @@
   animation: fadeIn 0.5s ease-in-out;
 }
 
-/* Estilos para listas dentro do FAQ */
-.regras-list {
-  list-style-type: disc;
-  margin-top: 1rem;
-  margin-left: 2rem;
-  margin-bottom: 1rem;
-}
-
-.regras-list li {
-  margin-bottom: 0.7rem;
-  line-height: 1.5;
-  color: var(--text);
-}
-
-/* Animações */
-@keyframes fadeInUp {
-  from { opacity: 0; transform: translateY(15px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
 /* Responsividade */
 @media (max-width: 768px) {
   .regras-category-tabs {
@@ -207,22 +137,4 @@
     margin-bottom: 1.5rem;
   }
   
-  .regras-list {
-    margin-left: 1.5rem;
-  }
-}
-
-/* Estilo para destacar perguntas específicas */
-.regras.highlighted {
-  border-left-color: var(--accent);
-  background-color: rgba(var(--accent-rgb), 0.05);
-}
-
-/* Efeito de transição para hover nas perguntas */
-.regras {
-  transition: border-left-color 0.3s ease, background-color 0.3s ease;
-}
-
-.regras:hover {
-  border-left-color: var(--highlight);
 }

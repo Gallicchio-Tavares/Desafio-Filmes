@@ -37,8 +37,10 @@ a:hover {
   color: var(--green-light);
 }
 
-ul {
-  padding-left: 1.2rem;
+ul, ol {
+  padding-left: 1.5rem;
+  line-height: 1.8;
+  color: var(--text);
 }
 
 .container {
@@ -47,4 +49,84 @@ ul {
   margin: 0;
   width: 100vw;
   box-sizing: border-box; 
+}
+
+.section {
+  background-color: var(--bg-alt);
+  border-left: 5px solid var(--highlight);
+  padding: 1.8rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  animation: fadeInUp 0.6s ease-out;
+  transition: border-left-color 0.3s ease, background-color 0.3s ease;
+}
+
+.section:hover {
+  transform: translateY(-3px);
+}
+
+.section:nth-of-type(even) {
+  border-left-color: var(--green-dark);
+}
+
+.section h3 {
+  font-size: 1.6rem;
+  color: var(--accent);
+  margin-bottom: 1rem;
+  letter-spacing: 0.5px;
+  padding-bottom: 0.5rem;
+}
+
+.section h4 {
+  font-size: 1.2rem;
+  color: var(--secondary);
+  margin: 0;
+}
+
+.section p{
+  color: var(--text);
+  font-size: 1rem;
+  text-align: justify;
+  text-justify: inter-word; /* Melhora a distribuição do espaço entre palavras */
+  line-height: 1.6; /* Espaçamento entre linhas */
+
+}
+
+.section i {
+  color: var(--beige-yellow)
+}
+
+.section ul li a {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 6px;
+  background: rgba(255,255,255,0.04);
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.section ul li a:hover {
+  background: rgba(255,255,255,0.08);
+  transform: translateY(-1px);
+}
+
+.section ol li {
+  margin-bottom: 0.6rem;
+  padding-left: 0.5rem;
+}
+
+.section ol li::marker {
+  color: var(--accent);
+  font-weight: bold;
+}
+
+/* Animações */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
 }

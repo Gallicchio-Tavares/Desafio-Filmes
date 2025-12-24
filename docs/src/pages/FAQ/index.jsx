@@ -128,10 +128,10 @@ const FAQ = () => {
           </p>
           <p>
             Além disso, nós vamos verificar o horário em que o log foi feito, então há uma tolerância máxima
-            de <strong>1 hora</strong> entre o momento em que você começou a assistir ao filme e o horário do 
-            log. Então, por exemplo, se você começou a assistir a um filme de 1 hora e meia às 23:30, 
-            espera-se que ele termine por volta de 1 da manhã. Se o log foi feito depois de 2 e meia da
-            manhã, não vai contar como algo legítimo e você será desclassificado.
+            de <strong>1 hora + a duração do filme</strong> para registrá-lo. Então, por exemplo, se você 
+            começou a assistir a um filme de 1 hora e meia às 23:30, 
+            espera-se que ele termine por volta de 1 da manhã. Se o log foi feito depois de 2:30, não vai
+            contar como algo legítimo e você será desclassificado.
           </p>
         </section>
 
@@ -143,17 +143,7 @@ const FAQ = () => {
               seguindo o mesmo padrão: diga qual filme você viu, escreva uma resenha sobre ele e, se for o caso,
               indique qual Missão ele cumpre.
           </p>
-        </section>
-
-        <section className="section regras">
-          <h3>Como funciona o Hall da Fama?</h3>
-          <p>
-              O Letterboxd ficar fora do ar é uma possibilidade real, e já aconteceu no passado. Se isso
-              acontecer e você ainda não tiver logado o seu filme do dia, nós vamos fazer pelo WhatsApp, 
-              seguindo o mesmo padrão: diga qual filme você viu, escreva uma resenha sobre ele e, se for o caso,
-              indique qual Missão ele cumpre.
-          </p>
-        </section>        
+        </section>     
       </div>
 
 
@@ -425,8 +415,7 @@ const FAQ = () => {
           <h3>Onde posso encontrar filmes do desafio passado?</h3>
           <p>
             Você pode encontrar a lista completa de filmes do desafio anterior na página 
-            de estatísticas do nosso site ou no meu Letterboxd. Em ambos temos disponíveis todos os filmes que foram 
-            assistidos pelos participantes nas edições passadas.
+            de estatísticas do nosso site ou no meu Letterboxd.
           </p>
         </section>
 

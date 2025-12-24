@@ -39,13 +39,16 @@ export default function Footer() {
             <a href="https://github.com/Gallicchio-Tavares" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
               <FaGithub />
             </a>
+            <a href="mailto:desafio.filmes.oficial@gmail.com">
+              <MdEmail />
+            </a>
             <a href="https://boxd.it/6wVxb" target="_blank"><LetterboxdIcon /></a>
           </div>
         </div>
       </div>
 
       <div className="footer-bottom">
-        <p>© {new Date().getFullYear()} Desafio Filmes. Feito por Uma Pessoa Humana e Mathamen.</p>
+        © {new Date().getFullYear()} Desafio Filmes. Feito por Uma Pessoa Humana e Mathamen.
       </div>
     </footer>
   );

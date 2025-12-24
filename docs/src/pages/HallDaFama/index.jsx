@@ -5,32 +5,30 @@ import conquistasData from "../../data/conquistas.json";
 import logoPreto from "../../assets/logo_preto.png";
 import "./index.css";
 
-const imagensConquistas = import.meta.glob('../../assets/conquistas/*.jpg', { eager: true, import: 'default' });
+const imagensConquistas = import.meta.glob(
+  '../../assets/conquistas_webp/*.webp', 
+  { eager: true, import: 'default' }
+);
 
 const CATEGORIAS = {
   misc: { 
     nome: "Diversos", 
-    // desc: "Conquistas variadas e desafiadoras",
     icon: "fas fa-star" 
   },
   paises: { 
     nome: "Regionais", 
-    // desc: "Conquistas baseadas em nacionalidade e região",
     icon: "fas fa-globe-americas" 
   },
   tematicos: { 
     nome: "Temáticos", 
-    // desc: "Conquistas baseadas em temas específicos",
     icon: "fas fa-theater-masks" 
   },
   decadas: { 
     nome: "Décadas", 
-    // desc: "Viagem no tempo através do cinema",
     icon: "fas fa-calendar-alt" 
   },
   generos: { 
     nome: "Gêneros", 
-    // desc: "Exploração por gêneros cinematográficos",
     icon: "fas fa-film" 
   }
 };
@@ -43,7 +41,7 @@ const HallDaFama = () => {
   };
 
   const getImagem = (c) => {
-    const fileName = `${c.id}.jpg`;
+    const fileName = `${c.id}.webp`;
     const key = Object.keys(imagensConquistas).find(k => k.split('/').pop() === fileName);
     return key ? imagensConquistas[key] : logoPreto;
   };
@@ -82,7 +80,6 @@ const HallDaFama = () => {
               <h2 className="categoria-titulo">
                 <i className={categoriaInfo.icon}></i> {categoriaInfo.nome}
               </h2>
-              <p className="categoria-descricao">{categoriaInfo.desc}</p>
               
               <div className="conquistas">
                 {conquistas.map((c) => {
