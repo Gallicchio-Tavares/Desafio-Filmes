@@ -114,9 +114,7 @@
   }
   
   .contact-btn:hover {
-    background-color: var(--accent);
     transform: translateY(-2px);
-    color: var(--bg);
   }
   
   .discord {
@@ -137,3 +135,17 @@
     background-color: #128C7E;  /* escurece um pouco no hover */
   }
   
+  .email {
+    background-color: #ea4335;  /* vermelho Gmail */
+    border-color: #c5221f;      /* vermelho mais escuro */
+  }
+
+  .email:hover {
+    background-color: #c5221f;
+  }
+
+  .discord:hover,
+  .whatsapp:hover,
+  .email:hover {
+    color: #fff;
+  }
