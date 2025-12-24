@@ -10,10 +10,9 @@
   --muted: #aaa;
   --font: 'Inter', sans-serif;
 
-  /* Azuis */
-  --blue-darkest: #021526;  /* azul bem escuro */
-  --blue-dark: #03346E;     /* azul escuro */
-  --blue-light: #6EACDA;    /* azul claro */
+  /* Verdes */
+  --green-dark: #40A578;
+  --green-light: #9DDE8B;
 
   /* Bege amarelado */
   --beige-yellow: #E2E2B6;
@@ -29,13 +28,13 @@ body {
 }
 
 a {
-  color: var(--accent);
+  color: var(--green-dark);
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 a:hover {
-  color: var(--accent-light);
+  color: var(--green-light);
 }
 
 ul {

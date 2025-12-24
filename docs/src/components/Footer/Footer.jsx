@@ -1,4 +1,5 @@
 import { FaGithub } from "react-icons/fa";
+import { MdEmail } from "react-icons/md";
 import './Footer.css';
 
 export default function Footer() {
@@ -23,6 +24,12 @@ export default function Footer() {
             </a>
             <a href="https://wa.me/5521972685484?text=Olá,%20quero%20participar%20do%20Desafio%20Filmes%202025!" target="_blank" rel="noopener noreferrer" className="contact-btn whatsapp">
                 Fala comigo no WhatsApp
+            </a>
+            <a
+              href="mailto:desafio.filmes.oficial@gmail.com"
+              className="contact-btn email"
+            >
+              Me manda um e-mail
             </a>
         </div>
       </div>
