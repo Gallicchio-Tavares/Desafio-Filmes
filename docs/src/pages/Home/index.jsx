@@ -39,8 +39,8 @@ const Home = () => {
         <section className="section challenges">
           <h3 className="com-divider">Missões Especiais</h3>
           <p>
-            Em cada edição, além da regra dos 30 filmes, criamos categorias especiais todo ano para diversificar o desafio. São missões com o objetivo de te fazer buscar
-            obras de diferentes estilos, origens e contextos históricos.
+            Em cada edição, além da regra dos 30 filmes, criamos categorias especiais para diversificar o desafio. 
+            São missões com o objetivo de te fazer buscar obras de diferentes estilos, origens e contextos históricos.
             Para que o desafio seja válido, é necessário cumprir <strong>todas</strong> as missões da edição.
           </p>
         </section>
@@ -50,7 +50,7 @@ const Home = () => {
           <p>
             Além da experiência cinematográfica, há também um prêmio coletivo: todos os participantes
             contribuem com R$30,00 e, no final, quem cumpre o desafio por completo divide o valor do montante acumulado igualmente.
-            Os vencedores também terão o seu Top 3 da edição em display na aba <b>Stats</b> aqui do site.
+            Os vencedores também terão o seu Top 3 da edição em display na aba <b>Stats</b> aqui do site e podem aparecer no Hall da Fama.
           </p>
         </section>
 
@@ -58,7 +58,8 @@ const Home = () => {
         <h1 className="subtitulo-home">EDIÇÃO 2026</h1>
         <section className="section edicao-atual">
           <h3 className="com-divider">Quando?</h3>
-          <p>O desafio acontecerá a partir do dia <strong>11 de Julho</strong> (11/07/2026) até o dia <strong>9 de Agosto</strong> (09/08/2026)
+          <p>
+            O desafio acontecerá a partir do dia <strong>11 de Julho</strong> (11/07/2026) até o dia <strong>9 de Agosto</strong> (09/08/2026)
             <br/><br/> <strong>Inscrições até 8 de Julho de 2026.</strong>
           </p>
           <h3 className="com-divider">Missões</h3>
@@ -80,33 +81,44 @@ const Home = () => {
         <div className="divider-dots"></div>
         <h1 className="subtitulo-home">Como Participar</h1>
         <section className="section participacao">
-          <p><i>Participar do Desafio é simples! Você só precisa se comprometer com o processo e seguir as regras da edição.
-            O passo a passo é o seguinte:</i>
-          </p>
+          <p><i>
+            Participar do Desafio é simples! Você só precisa se comprometer com o processo e seguir as regras da edição.
+            O passo a passo é o seguinte:
+          </i></p>
           
           <h3 className="com-divider">1. Confirme a sua participação</h3>
-          <p>Entre em contato com a organização do desafio dentro do prazo divulgado para a edição, nossos links de contato estão no final da página. Não há número máximo de participantes,
-            mas as inscrições são encerradas 3 dias antes do início do desafio para podermos nos organizar e tirar quaisquer dúvidas restantes.
-          </p><p>Se confirmar o interesse, você será adicionado no grupo de WhatsApp do desafio 7 dias antes da data de início, junto com os demais participantes.</p>
+          <p>
+            Entre em contato com a organização do desafio dentro do prazo divulgado para a edição, nossos links de contato
+            estão no final da página. Não há número máximo de participantes, mas as inscrições são encerradas 3 dias antes 
+            do início do desafio para podermos nos organizar e tirar quaisquer dúvidas restantes.
+          </p>
+          <p>
+            Se confirmar o interesse, você será adicionado no grupo de WhatsApp do desafio 7 dias antes da data de início, 
+            junto com os demais participantes.
+          </p>
           
           <h3 className="com-divider">2. Contribua com o valor coletivo</h3>
-          <p>Como mencionado mais acima, todos os participantes contribuem com R$30,00. Esse valor compõe o prêmio coletivo, 
+          <p>
+            Como mencionado mais acima, todos os participantes contribuem com R$30,00. Esse valor compõe o prêmio coletivo, 
             que será dividido igualmente entre quem completar o desafio até o final. Quando chegar o prazo final das inscrições,
-            vou passar a chave Pix para que todos enviem o valor. Teremos, então, 3 dias para coletar todas as contribuições.
-            Após esse período, a lista de participantes é considerada definitiva.
+            vou passar a chave Pix para que todos enviem o valor. Teremos, então, 3 dias para coletar todas as contribuições e
+            tirar quaisquer dúvidas remanescentes. Após esse período, a lista de participantes é considerada definitiva.
           </p>
           
           <h3 className="com-divider">3. Registre a sua experiência</h3>
-          <p>Agora, você deve estar se perguntando como faremos a verificação dos filmes assistidos por cada um. Essa verificação é feita pela plataforma <a href="https://letterboxd.com/" target="_blank" rel="noopener noreferrer">Letterboxd</a>,
-          onde cada um pode registrar um filme diariamente e escrever sobre o que viu. Garanta que você tenha uma conta
-          lá antes do início do desafio e nos envie o link do seu perfil, o qual nós acompanharemos durante todo o desafio.
+          <p>
+            Agora, você deve estar se perguntando como faremos a verificação dos filmes assistidos por cada um. Essa verificação é feita
+            pela plataforma <a href="https://letterboxd.com/" target="_blank" rel="noopener noreferrer">Letterboxd</a>,
+            onde cada um pode registrar um filme diariamente e escrever sobre o que viu. Garanta que você tenha uma conta
+            lá antes do início do desafio e nos envie o link do seu perfil, o qual nós acompanharemos durante todo o desafio.
           </p>
           <p>Para que o filme conte, é obrigatório:</p>
           <ul>
             <li>Registrar o filme no mesmo dia em que ele foi assistido</li>
             <li>Escrever uma resenha sobre o filme</li>
           </ul>
-          <p>Caso você tenha mais dúvidas sobre o processo de verificação, olhe a aba de REGRAS aqui do site onde nós explicamos em
+          <p>
+            Caso você tenha mais dúvidas sobre o processo de verificação, olhe a aba de REGRAS aqui do site onde nós explicamos em
             detalhes o funcionamento de um registro e por que esse método é tão confiável.
           </p>
         </section>
