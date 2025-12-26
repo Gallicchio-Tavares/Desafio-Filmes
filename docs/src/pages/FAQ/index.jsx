@@ -168,8 +168,8 @@ const FAQ = () => {
           </p>
           <p>É ideal que você acompanhe por conta própria as Missões que você está cumprindo para se planejar.
             Mas, pra ajudar, diariamente nós atualizamos e enviamos no grupo do Desafio um Notebook Jupyter 
-            com gráficos para você poder verificar quais missões já foram e quais ainda faltam. Exemplo da 
-            <a href="https://github.com/Gallicchio-Tavares/Analise-estatistica-participantes/blob/main/2025/analise.ipynb" target="_blank">Edição de 2025</a>.
+            com gráficos para você poder verificar quais missões já foram e quais ainda faltam. Exemplo da
+            <a href="https://github.com/Gallicchio-Tavares/Analise-estatistica-participantes/blob/main/2025/analise.ipynb" target="_blank"> Edição de 2025</a>.
           </p>
         </section>
        <section className="section regras">
