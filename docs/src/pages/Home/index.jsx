@@ -74,7 +74,7 @@ const Home = () => {
             <li>Um filme lançado no ano em que um de seus avós nasceu.</li>
             <li>Um filme que se passa no futuro.</li>
             <li>Um filme brasileiro anterior ao ano 2000.</li>
-            <li>Um filme em uma língua que você nunca sequer ouviu.</li>
+            <li>Um filme em um idioma que você nunca ouviu.</li>
           </ol>
         </section>
 
