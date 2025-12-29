@@ -72,9 +72,9 @@ const Home = () => {
             <li>Um filme indicado por outro participante.</li>
             <li>Um musical.</li>
             <li>Um filme lançado no ano em que um de seus avós nasceu.</li>
-            <li>Um filme que se passa predominantemente em um único ambiente.</li>
-            <li>Um filme do Cinema Novo brasileiro.</li>
-            <li>Um filme em língua indígena.</li>
+            <li>Um filme que se passa no futuro.</li>
+            <li>Um filme brasileiro anterior ao ano 2000.</li>
+            <li>Um filme em uma língua que você nunca sequer ouviu.</li>
           </ol>
         </section>
 
