@@ -144,7 +144,7 @@ nav a:hover {
 }
 
 /* Ajustes para telas muito pequenas (menos de 360px) */
-@media (max-width: 384px) {
+@media (max-width: 412px) {
   .nav-link {
     font-size: 0.7em;
     padding: 5px;

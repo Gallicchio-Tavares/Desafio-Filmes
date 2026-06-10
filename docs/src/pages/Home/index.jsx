@@ -159,7 +159,7 @@ const Home = () => {
               <li><a href="https://boxd.it/3huwj" target="_blank" rel="noopener noreferrer">joaov0805</a></li>
               <li><a href="https://boxd.it/4ZSGJ" target="_blank" rel="noopener noreferrer">ok1na</a></li>
               <li><a href="https://boxd.it/db2Td" target="_blank" rel="noopener noreferrer">xeremel</a></li>
-              <li><a href="https://boxd.it/41ixh" target="_blank" rel="noopener noreferrer">belovacomis</a></li>
+              <li><a href="https://boxd.it/41ixh" target="_blank" rel="noopener noreferrer">belovacomics</a></li>
               <li><a href="https://boxd.it/fHj1f" target="_blank" rel="noopener noreferrer">EdzinhoHowlett</a></li>
               <li><a href="https://boxd.it/fqLA9" target="_blank" rel="noopener noreferrer">carol__rosa</a></li>
               <li><a href="https://boxd.it/5pvud" target="_blank" rel="noopener noreferrer">anobree</a></li>
