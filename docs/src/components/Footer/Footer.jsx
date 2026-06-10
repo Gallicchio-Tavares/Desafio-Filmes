@@ -20,16 +20,16 @@ export default function Footer() {
         <p>Gostou e quer participar do desafio? Entre em contato comigo:</p>
         <div className="contact-buttons">
             <a href="https://discord.com/users/umapessoahumana" target="_blank" rel="noopener noreferrer" className="contact-btn discord">
-                Me chama no Discord
+                Discord
             </a>
-            <a href="https://wa.me/5521972685484?text=Olá,%20quero%20participar%20do%20Desafio%20Filmes%202025!" target="_blank" rel="noopener noreferrer" className="contact-btn whatsapp">
-                Fala comigo no WhatsApp
+            <a href="https://wa.me/5521972685484?text=Olá,%20quero%20participar%20do%20Desafio%20Filmes%202026!" target="_blank" rel="noopener noreferrer" className="contact-btn whatsapp">
+                WhatsApp
             </a>
             <a
               href="mailto:desafio.filmes.oficial@gmail.com"
               className="contact-btn email"
             >
-              Me manda um e-mail
+              E-mail
             </a>
         </div>
       </div>
