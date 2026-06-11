@@ -84,7 +84,7 @@ const FAQ = () => {
           <p>
             A resenha não precisa ser extremamente elaborada, ela só precisa mostrar que você realmente viu o filme.
             Um parágrafo explicando as suas impressões é suficiente. Não vale algo como "Muito bom! Curti demais, veria de novo". Isso
-            não significa nada. Verifque um exemplo de uma resenha <a href="https://boxd.it/aCRJyl" target="_blank" rel="noopener noreferrer">padrão</a> e uma <a href="https://boxd.it/aDzoVL" target="_blank" rel="noopener noreferrer">longa</a>.
+            não significa nada. Verifique um exemplo de uma resenha <a href="https://boxd.it/aCRJyl" target="_blank" rel="noopener noreferrer">padrão</a> e uma <a href="https://boxd.it/aDzoVL" target="_blank" rel="noopener noreferrer">longa</a>.
           </p>
         </section>
 
@@ -169,7 +169,7 @@ const FAQ = () => {
           <p>É ideal que você acompanhe por conta própria as Missões que você está cumprindo para se planejar.
             Mas, pra ajudar, diariamente nós atualizamos e enviamos no grupo do Desafio um Notebook Jupyter 
             com gráficos para você poder verificar quais missões já foram e quais ainda faltam. Exemplo da
-            <a href="https://github.com/Gallicchio-Tavares/Analise-estatistica-participantes/blob/main/2025/analise.ipynb" target="_blank"> Edição de 2025</a>.
+            <a href="https://github.com/Gallicchio-Tavares/Analise-estatistica-participantes/blob/main/2025/categorias.ipynb" target="_blank"> Edição de 2025</a>.
           </p>
         </section>
        <section className="section regras">
@@ -425,7 +425,7 @@ const FAQ = () => {
             <ol>
                 <li>Se você tiver algum streaming, ver se o filme está nele</li> 
                 <li>Ver se o filme está em algum streaming gratuito (YouTube, PlutoTV, Plex, JustWatch. Mais comum pra filmes muito antigos)</li>
-                <li>Ver se o filme possui torrent (recomendação: usar o Stremio)</li>
+                <li>Ver se o filme possui torrent (ex: usar o Stremio ou o qBittorrent)</li>
                 <li>Procurar Drive do filme. A melhor maneira é entrar no grupo de Telegram do
                   Clube do Drive, procurar o filme lá ou pedir o Drive caso ele ainda não esteja que
                   alguém vai arrumar pra você.</li> 
