@@ -10,9 +10,10 @@ const Home = () => {
     <>
       <Header/>
       <div className="container">
-        <div className="clock">
+        {/* <div className="clock">
             <CountdownTimer />
-        </div>
+        </div> */}
+        <ITSOVER/>
         <section className="section">
           <h3 className="com-divider">O que é o Desafio Filmes?</h3>
           <p>
