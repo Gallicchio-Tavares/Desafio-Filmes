@@ -48,7 +48,7 @@
     {
       "id": 7,
       "titulo": "Mês do Orgulho",
-      "descricao": "Assistiu a pelo menos 10 filmes com temática explicitamente LGBTQIA+",
+      "descricao": "Assistiu a pelo menos 5 filmes com temática explicitamente LGBTQIA+",
       
       "unlocked": true,
       "conquistadoPor": [{
@@ -63,7 +63,7 @@
     {
       "id": 37,
       "titulo": "Filme de Boneco",
-      "descricao": "Assistiu a pelo menos 10 filmes de super-herói",
+      "descricao": "Assistiu a pelo menos 5 filmes de super-herói",
       
       "unlocked": false,
       "conquistadoPor": [],
@@ -73,7 +73,7 @@
     {
       "id": 47,
       "titulo": "A Solidão me fez Solidão",
-      "descricao": "Assistiu a pelo menos 10 filmes focados em culpa, solidão ou crise existencial",
+      "descricao": "Assistiu a pelo menos 5 filmes focados em culpa, solidão ou crise existencial",
       "unlocked": false,
       "conquistadoPor": [],
       "categoria": "tematicos",
@@ -82,7 +82,7 @@
     {
       "id": 38,
       "titulo": "Nada Convencional",
-      "descricao": "Assistiu a pelo menos 10 filmes de movimentos de Nouvelle Vague",
+      "descricao": "Assistiu a pelo menos 5 filmes de movimentos de Nouvelle Vague",
       
       "unlocked": false,
       "conquistadoPor": [],
@@ -148,11 +148,20 @@
     {
       "id": 11,
       "titulo": "Obcecado",
-      "descricao": "Assistiu a pelo menos 3 filmes em um mesmo dia",
+      "descricao": "Assistiu a maior quantidade de filmes durante a edição, além dos 30 do Desafio",
       "unlocked": false,
       "conquistadoPor": [],
       "categoria": "misc",
       "capa": "Whiplash (2014)"
+    },
+    {
+      "id": 28,
+      "titulo": "Binge-watcher",
+      "descricao": "Assistiu a pelo menos 3 filmes em um mesmo dia",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "misc",
+      "capa": "Era Uma Vez em Hollywood (2019)"
     },
     {
       "id": 12,
@@ -210,15 +219,6 @@
       "conquistadoPor": [],
       "categoria": "misc",
       "capa": "Saneamento Básico, o Filme (2007)"
-    },
-    {
-      "id": 28,
-      "titulo": "Maria Vai com as Outras",
-      "descricao": "Assistiu a pelo menos 15 filmes com mais de 1.5 milhão de assistidas no Letterboxd",
-      "unlocked": false,
-      "conquistadoPor": [],
-      "categoria": "misc",
-      "capa": "Tudo em Todo Lugar ao Mesmo Tempo (2022)"
     },
     {
       "id": 29,
@@ -480,7 +480,7 @@
       "unlocked": false,
       "conquistadoPor": [],
       "categoria": "generos",
-      "capa": " ()"
+      "capa": ""
     },
     {
       "id": 44,
@@ -522,5 +522,37 @@
       }],
       "categoria": "generos",
       "capa": "O Exterminador do Futuro 2 (1991)"
+    },
+    {
+      "id": 49,
+      "titulo": "Desenhista",
+      "descricao": "Assistiu a pelo menos 10 filmes de Animação",
+      "unlocked": true,
+      "conquistadoPor": [{
+        "nome": "EdzinhoHowlett",
+        "link": "https://boxd.it/fHj1f",
+        "edicao": 2025,
+        "detalhes": "17 filmes assistidos"
+      }],
+      "categoria": "generos",
+      "capa": "Nimona (2023)"
+    },
+    {
+      "id": 50,
+      "titulo": "Meu Deus que Agonia",
+      "descricao": "Assistiu a pelo menos 10 filmes de Suspense",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "generos",
+      "capa": "Janela Indiscreta (1953)"
+    },
+    {
+      "id": 51,
+      "titulo": "Guardião da Memória",
+      "descricao": "Assistiu a pelo menos 10 Documentários",
+      "unlocked": false,
+      "conquistadoPor": [],
+      "categoria": "generos",
+      "capa": "Edifício Master (2002)"
     }
 ]
