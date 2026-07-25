@@ -65,8 +65,13 @@
       "titulo": "Filme de Boneco",
       "descricao": "Assistiu a pelo menos 5 filmes de super-herói",
       
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+        "nome": "EdzinhoHowlett",
+        "link": "https://boxd.it/fHj1f",
+        "edicao": 2025,
+        "detalhes": "5 filmes assistidos"
+      }],
       "categoria": "tematicos",
       "capa": "The Batman (2022)"
     },
@@ -532,7 +537,7 @@
         "nome": "EdzinhoHowlett",
         "link": "https://boxd.it/fHj1f",
         "edicao": 2025,
-        "detalhes": "17 filmes assistidos"
+        "detalhes": "16 filmes assistidos"
       }],
       "categoria": "generos",
       "capa": "Nimona (2023)"
