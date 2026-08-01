@@ -266,13 +266,8 @@
       "id": 9,
       "titulo": "Eurovision",
       "descricao": "Assistiu a pelo menos 10 filmes europeus",
-      "unlocked": true,
-      "conquistadoPor": [{
-          "nome": "belovacomics",
-          "link": "https://boxd.it/41ixh",
-          "edicao": 2025,
-          "detalhes": "10 filmes assistidos"
-        }],
+      "unlocked": false,
+      "conquistadoPor": [],
       "categoria": "paises",
       "capa": "Jeanne Dielman (1975)"
     },
@@ -280,13 +275,8 @@
       "id": 31,
       "titulo": "Rota da Seda",
       "descricao": "Assistiu a pelo menos 10 filmes asiáticos",
-      "unlocked": true,
-      "conquistadoPor": [{
-          "nome": "ok1na",
-          "link": "https://boxd.it/4ZSGJ",
-          "edicao": 2025,
-          "detalhes": "11 filmes assistidos"
-        }],
+      "unlocked": false,
+      "conquistadoPor": [],
       "categoria": "paises",
       "capa": "Shutter (2004)"
     },
