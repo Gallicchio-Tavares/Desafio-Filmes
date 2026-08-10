@@ -278,8 +278,13 @@
       "id": 29,
       "titulo": "O Diferentão",
       "descricao": "Assistiu a pelo menos 15 filmes com menos de 20 mil assistidas no Letterboxd",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "EdzinhoHowlett",
+          "link": "https://boxd.it/WssbA",
+          "edicao": 2026,
+          "detalhes": "17 filmes assistidos"
+      }],
       "categoria": "misc",
       "capa": "Matou a Família e Foi ao Cinema (1969)"
     },
@@ -339,7 +344,7 @@
       "id": 31,
       "titulo": "Rota da Seda",
       "descricao": "Assistiu a pelo menos 10 filmes asiáticos",
-      "unlocked": false,
+      "unlocked": true,
       "conquistadoPor": [{
           "nome": "batgabi",
           "link": "https://boxd.it/WshuQ",
