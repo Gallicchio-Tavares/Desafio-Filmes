@@ -53,9 +53,9 @@
       "unlocked": true,
       "conquistadoPor": [{
           "nome": "belovacomics",
-          "link": "https://boxd.it/Wiw6E",
-          "edicao": 2025,
-          "detalhes": "11 filmes assistidos"
+          "link": "https://boxd.it/WtGbc",
+          "edicao": 2026,
+          "detalhes": "13 filmes assistidos"
         }],
       "categoria": "tematicos",
       "capa": "But I\u2019m a Cheerleader (1999)"
@@ -67,10 +67,10 @@
       
       "unlocked": true,
       "conquistadoPor": [{
-        "nome": "EdzinhoHowlett",
-        "link": "https://boxd.it/fHj1f",
-        "edicao": 2025,
-        "detalhes": "5 filmes assistidos"
+        "nome": "catlovrr96",
+        "link": "https://boxd.it/WiwYG",
+        "edicao": 2026,
+        "detalhes": "12 filmes assistidos"
       }],
       "categoria": "tematicos",
       "capa": "The Batman (2022)"
@@ -79,8 +79,13 @@
       "id": 47,
       "titulo": "A Solidão me fez Solidão",
       "descricao": "Assistiu a pelo menos 5 filmes focados em culpa, solidão ou crise existencial",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+        "nome": "ssophs",
+        "link": "https://boxd.it/WtHuY",
+        "edicao": 2026,
+        "detalhes": "5 filmes assistidos"
+      }],
       "categoria": "tematicos",
       "capa": "O Sétimo Selo (1957)"
     },
@@ -96,10 +101,15 @@
     },
     {
       "id": 48,
-      "titulo": "Metafísico",
-      "descricao": "Assistiu a pelo menos 3 filmes com elementos sobrenaturais que não sejam de terror",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "titulo": "Metafísica",
+      "descricao": "Assistiu a pelo menos 5 filmes com elementos sobrenaturais que não sejam de terror",
+      "unlocked": true,
+      "conquistadoPor": [{
+        "nome": "ok1na",
+        "link": "https://boxd.it/WtKx2",
+        "edicao": 2026,
+        "detalhes": "6 filmes assistidos"
+      }],
       "categoria": "tematicos",
       "capa": "After Life (1998)"
     },
@@ -108,8 +118,13 @@
       "titulo": "Kaiju Eiga",
       "descricao": "Assistiu a pelo menos 3 filmes de monstros gigantes",
       
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+        "nome": "mathamen e euamo_mangoloco",
+        "link": "https://boxd.it/WtLIK",
+        "edicao": 2026,
+        "detalhes": "3 filmes assistidos" 
+      }],
       "categoria": "tematicos",
       "capa": "Godzilla (1954)"
     },
@@ -117,8 +132,13 @@
       "id": 36,
       "titulo": "Dungeons & Dragons",
       "descricao": "Assistiu a pelo menos 3 filmes que se passam na Era Medieval",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+        "nome": "moonerz",
+        "link": "https://boxd.it/WtNoW",
+        "edicao": 2026,
+        "detalhes": "4 filmes assistidos" 
+      }],
       "categoria": "tematicos",
       "capa": "A Paixão de Joana d'Arc (1928)"
     },
@@ -126,9 +146,13 @@
       "id": 32,
       "titulo": "Um Filme Dentro de um Filme",
       "descricao": "Assistiu a pelo menos 3 filmes metalinguísticos (metanarrativos ou de metacinema)",
-      
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+        "nome": "houkaita",
+        "link": "https://boxd.it/WtP9a",
+        "edicao": 2026,
+        "detalhes": "4 filmes assistidos" 
+      }],
       "categoria": "tematicos",
       "capa": "Cidade dos Sonhos (2001)"
     },
@@ -136,8 +160,13 @@
       "id": 34,
       "titulo": "Eu NÃO Quero Acreditar!",
       "descricao": "Assistiu a pelo menos 3 filmes com atuações deliberadamente não naturalistas ou distanciadas",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+        "nome": "EdzinhoHowlett",
+        "link": "https://boxd.it/WtQF2",
+        "edicao": 2026,
+        "detalhes": "3 filmes assistidos" 
+      }],
       "categoria": "tematicos",
       "capa": "Persona (1966)"
     },
@@ -154,8 +183,13 @@
       "id": 11,
       "titulo": "Obcecado",
       "descricao": "Assistiu a maior quantidade de filmes durante a edição, além dos 30 do Desafio",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "ssophs",
+          "link": "https://boxd.it/Wtfm8",
+          "edicao": 2026,
+          "detalhes": "43 filmes assistidos"
+      }],
       "categoria": "misc",
       "capa": "Whiplash (2014)"
     },
@@ -163,8 +197,13 @@
       "id": 28,
       "titulo": "Binge-watcher",
       "descricao": "Assistiu a pelo menos 3 filmes em um mesmo dia",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "yatokami",
+          "link": "https://boxd.it/WtF66",
+          "edicao": 2026,
+          "detalhes": "5 filmes assistidos"
+      }],
       "categoria": "misc",
       "capa": "Era Uma Vez em Hollywood (2019)"
     },
