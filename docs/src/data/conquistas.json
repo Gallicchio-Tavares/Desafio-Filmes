@@ -36,10 +36,10 @@
       "unlocked": true,
       "conquistadoPor": [
         {
-          "nome": "EdzinhoHowlett",
+          "nome": "moonerz",
           "link": "https://boxd.it/WitES",
-          "edicao": 2025,
-          "detalhes": "Total de 50 horas e 20 minutos assistidos"
+          "edicao": 2026,
+          "detalhes": "Total de 48 horas e 26 minutos assistidos"
         }
       ],
       "categoria": "misc",
@@ -202,17 +202,27 @@
       "id": 33,
       "titulo": "O Livro Era Melhor...",
       "descricao": "Assistiu a pelo menos 5 filmes baseados em livros que você já leu",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "Belle_Is",
+          "link": "https://boxd.it/WstmO",
+          "edicao": 2026,
+          "detalhes": "6 filmes assistidos"
+      }],
       "categoria": "misc",
       "capa": "O Iluminado (1980)"
     },
     {
       "id": 42,
-      "titulo": "Raíz",
+      "titulo": "Raiz",
       "descricao": "Assistiu a pelo menos 3 filmes em DVD",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "yatokami",
+          "link": "https://boxd.it/WssSY",
+          "edicao": 2026,
+          "detalhes": "3 filmes assistidos"
+      }],
       "categoria": "misc",
       "capa": "Deu a Louca na Chapeuzinho (2005)"
     },
@@ -238,8 +248,13 @@
       "id": 1,
       "titulo": "Comunista",
       "descricao": "Assistiu a pelo menos 10 filmes de países socialistas ou de cunho revolucionário",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "EdzinhoHowlett",
+          "link": "https://boxd.it/WmzWm",
+          "edicao": 2026,
+          "detalhes": "14 filmes assistidos"
+      }],
       "categoria": "paises",
       "capa": "Eu Sou Cuba (1964)"
     },
@@ -248,8 +263,13 @@
       "titulo": "Nacionalista",
       "descricao": "Assistiu a pelo menos 10 filmes brasileiros",
       
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "EdzinhoHowlett",
+          "link": "https://boxd.it/WsjVE",
+          "edicao": 2026,
+          "detalhes": "11 filmes assistidos"
+      }],
       "categoria": "paises",
       "capa": "Deus e o Diabo na Terra do Sol (1964)"
     },
@@ -266,8 +286,13 @@
       "id": 9,
       "titulo": "Eurovision",
       "descricao": "Assistiu a pelo menos 10 filmes europeus",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "mathamen",
+          "link": "https://boxd.it/WsiZU",
+          "edicao": 2026,
+          "detalhes": "14 filmes assistidos"
+      }],
       "categoria": "paises",
       "capa": "Jeanne Dielman (1975)"
     },
@@ -276,7 +301,12 @@
       "titulo": "Rota da Seda",
       "descricao": "Assistiu a pelo menos 10 filmes asiáticos",
       "unlocked": false,
-      "conquistadoPor": [],
+      "conquistadoPor": [{
+          "nome": "batgabi",
+          "link": "https://boxd.it/WshuQ",
+          "edicao": 2026,
+          "detalhes": "13 filmes assistidos"
+      }],
       "categoria": "paises",
       "capa": "Shutter (2004)"
     },
@@ -293,8 +323,13 @@
       "id": 43,
       "titulo": "Ilhado",
       "descricao": "Assistiu a pelo menos 10 filmes de países insulares",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "UmaPessoaHumana",
+          "link": "https://boxd.it/WsgHa",
+          "edicao": 2026,
+          "detalhes": "10 filmes assistidos"
+      }],
       "categoria": "paises",
       "capa": "Terra de Deus (2022)"
     },
@@ -302,8 +337,12 @@
       "id": 41,
       "titulo": "Globetrotter",
       "descricao": "Assistiu a pelo menos 3 filmes de cada continente",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "UmaPessoaHumana",
+          "link": "https://boxd.it/WmdlS",
+          "edicao": 2026
+      }],
       "categoria": "paises",
       "capa": "Samsara (2011)"
     },
@@ -311,8 +350,12 @@
       "id": 3,
       "titulo": "Anti-Imperialista",
       "descricao": "Não assistiu a nenhum filme feito pelos EUA",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "EdzinhoHowlett",
+          "link": "https://boxd.it/WskEa",
+          "edicao": 2026
+      }],
       "categoria": "paises",
       "capa": "RRR (2022)"
     },
@@ -385,8 +428,13 @@
       "id": 20,
       "titulo": "A Nova Hollywood",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1970",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "UmaPessoaHumana",
+          "link": "https://boxd.it/WmcVU",
+          "edicao": 2026,
+          "detalhes": "12 filmes assistidos"
+      }],
       "categoria": "decadas",
       "capa": "Taxi Driver (1976)"
     },
@@ -403,8 +451,13 @@
       "id": 22,
       "titulo": "Grunge",
       "descricao": "Assistiu a pelo menos 10 filmes dos anos 1990",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "euamo_mangoloco",
+          "link": "https://boxd.it/Wsf3I",
+          "edicao": 2026,
+          "detalhes": "11 filmes assistidos"
+      }],
       "categoria": "decadas",
       "capa": "Trainspotting  (1996)"
     },
@@ -415,8 +468,13 @@
       "id": 23,
       "titulo": "PTSD",
       "descricao": "Assistiu a pelo menos 10 filmes de Guerra",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "mathamen",
+          "link": "https://boxd.it/WmAHM",
+          "edicao": 2026,
+          "detalhes": "11 filmes assistidos"
+        }],
       "categoria": "generos",
       "capa": "Vá e Veja (1985)"
     },
@@ -441,10 +499,10 @@
       "unlocked": true,
       "conquistadoPor": [
         {
-          "nome": "UmaPessoaHumana",
-          "link": "https://boxd.it/6wVxb",
-          "edicao": 2025,
-          "detalhes": "10 filmes assistidos"
+          "nome": "moonerz e houkaita",
+          "link": "https://boxd.it/WrZOe",
+          "edicao": 2026,
+          "detalhes": "12 filmes assistidos"
         }
       ],
       "categoria": "generos",
@@ -463,8 +521,13 @@
       "id": 27,
       "titulo": "Perdido no Espaço",
       "descricao": "Assistiu a pelo menos 10 filmes de Ficção Científica",
-      "unlocked": false,
-      "conquistadoPor": [],
+      "unlocked": true,
+      "conquistadoPor": [{
+          "nome": "euamo_mangoloco",
+          "link": "https://boxd.it/Ws4eg",
+          "edicao": 2026,
+          "detalhes": "12 filmes assistidos"
+      }],
       "categoria": "generos",
       "capa": "2001: Uma Odisseia no Espaço (1968)"
   },
@@ -510,10 +573,10 @@
       "descricao": "Assistiu a pelo menos 10 filmes de Ação",
       "unlocked": true,
       "conquistadoPor": [{
-        "nome": "EdzinhoHowlett",
-        "link": "https://boxd.it/fHj1f",
-        "edicao": 2025,
-        "detalhes": "12 filmes assistidos"
+        "nome": "catlovrr96",
+        "link": "https://boxd.it/WrV4G",
+        "edicao": 2026,
+        "detalhes": "14 filmes assistidos"
       }],
       "categoria": "generos",
       "capa": "O Exterminador do Futuro 2 (1991)"
@@ -524,10 +587,10 @@
       "descricao": "Assistiu a pelo menos 10 filmes de Animação",
       "unlocked": true,
       "conquistadoPor": [{
-        "nome": "EdzinhoHowlett",
+        "nome": "ok1na",
         "link": "https://boxd.it/Wiy9q",
-        "edicao": 2025,
-        "detalhes": "16 filmes assistidos"
+        "edicao": 2026,
+        "detalhes": "18 filmes assistidos"
       }],
       "categoria": "generos",
       "capa": "Nimona (2023)"
