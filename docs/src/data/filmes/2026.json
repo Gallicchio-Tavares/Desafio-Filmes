@@ -1,0 +1,6897 @@
+[
+  {
+    "id": 1,
+    "id_tmdb": 16,
+    "title": "Dançando no Escuro",
+    "originalTitle": "Dancer in the Dark",
+    "year": 2000,
+    "director": "Lars von Trier",
+    "country": "Denmark, Finland, France, Germany, Iceland, Netherlands, Norway, Sweden",
+    "runtime": 135,
+    "genre": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 2,
+    "id_tmdb": 19,
+    "title": "Metrópolis",
+    "originalTitle": "Metropolis",
+    "year": 1927,
+    "director": "Fritz Lang",
+    "country": "Germany",
+    "runtime": 153,
+    "genre": [
+      "Drama",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 3,
+    "id_tmdb": 63,
+    "title": "Os 12 Macacos",
+    "originalTitle": "Twelve Monkeys",
+    "year": 1995,
+    "director": "Terry Gilliam",
+    "country": "United States of America",
+    "runtime": 130,
+    "genre": [
+      "Ficção científica",
+      "Thriller",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 4,
+    "id_tmdb": 78,
+    "title": "Blade Runner: O Caçador de Andróides",
+    "originalTitle": "Blade Runner",
+    "year": 1982,
+    "director": "Ridley Scott",
+    "country": "United States of America, Hong Kong, United Kingdom",
+    "runtime": 117,
+    "genre": [
+      "Ficção científica",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 5,
+    "id_tmdb": 88,
+    "title": "Dirty Dancing: Ritmo Quente",
+    "originalTitle": "Dirty Dancing",
+    "year": 1987,
+    "director": "Emile Ardolino",
+    "country": "United States of America",
+    "runtime": 100,
+    "genre": [
+      "Drama",
+      "Música",
+      "Romance"
+    ]
+  },
+  {
+    "id": 6,
+    "id_tmdb": 99,
+    "title": "Tudo Sobre Minha Mãe",
+    "originalTitle": "Todo sobre mi madre",
+    "year": 1999,
+    "director": "Pedro Almodóvar",
+    "country": "Spain, France",
+    "runtime": 101,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 7,
+    "id_tmdb": 104,
+    "title": "Corra, Lola, Corra",
+    "originalTitle": "Lola rennt",
+    "year": 1998,
+    "director": "Tom Tykwer",
+    "country": "Germany",
+    "runtime": 82,
+    "genre": [
+      "Ação",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 8,
+    "id_tmdb": 109,
+    "title": "A Igualdade é Branca",
+    "originalTitle": "Trois couleurs : Blanc",
+    "year": 1994,
+    "director": "Krzysztof Kieślowski",
+    "country": "France, Poland, Switzerland",
+    "runtime": 91,
+    "genre": [
+      "Comédia",
+      "Drama",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 9,
+    "id_tmdb": 128,
+    "title": "Princesa Mononoke",
+    "originalTitle": "もののけ姫",
+    "year": 1997,
+    "director": "Hayao Miyazaki",
+    "country": "Japan",
+    "runtime": 134,
+    "genre": [
+      "Aventura",
+      "Fantasia",
+      "Animação"
+    ]
+  },
+  {
+    "id": 10,
+    "id_tmdb": 140,
+    "title": "Má Educação",
+    "originalTitle": "La mala educación",
+    "year": 2004,
+    "director": "Pedro Almodóvar",
+    "country": "Spain",
+    "runtime": 106,
+    "genre": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 11,
+    "id_tmdb": 142,
+    "title": "O Segredo de Brokeback Mountain",
+    "originalTitle": "Brokeback Mountain",
+    "year": 2005,
+    "director": "Ang Lee",
+    "country": "Canada, United States of America",
+    "runtime": 134,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 12,
+    "id_tmdb": 147,
+    "title": "Os Incompreendidos",
+    "originalTitle": "Les Quatre Cents Coups",
+    "year": 1959,
+    "director": "François Truffaut",
+    "country": "France",
+    "runtime": 99,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 13,
+    "id_tmdb": 149,
+    "title": "Akira",
+    "originalTitle": "AKIRA",
+    "year": 1988,
+    "director": "Katsuhiro Otomo",
+    "country": "Japan",
+    "runtime": 124,
+    "genre": [
+      "Animação",
+      "Ficção científica",
+      "Ação"
+    ]
+  },
+  {
+    "id": 14,
+    "id_tmdb": 153,
+    "title": "Encontros e Desencontros",
+    "originalTitle": "Lost in Translation",
+    "year": 2003,
+    "director": "Sofia Coppola",
+    "country": "United Kingdom, United States of America",
+    "runtime": 102,
+    "genre": [
+      "Drama",
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 15,
+    "id_tmdb": 179,
+    "title": "A Intérprete",
+    "originalTitle": "The Interpreter",
+    "year": 2005,
+    "director": "Sydney Pollack",
+    "country": "France, Germany, United Kingdom, United States of America",
+    "runtime": 128,
+    "genre": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 16,
+    "id_tmdb": 213,
+    "title": "Intriga Internacional",
+    "originalTitle": "North by Northwest",
+    "year": 1959,
+    "director": "Alfred Hitchcock",
+    "country": "United States of America",
+    "runtime": 136,
+    "genre": [
+      "Thriller",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 17,
+    "id_tmdb": 229,
+    "title": "A Noiva de Frankenstein",
+    "originalTitle": "Bride of Frankenstein",
+    "year": 1935,
+    "director": "James Whale",
+    "country": "United States of America",
+    "runtime": 75,
+    "genre": [
+      "Terror",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 18,
+    "id_tmdb": 234,
+    "title": "O Gabinete do Dr. Caligari",
+    "originalTitle": "Das Cabinet des Dr. Caligari",
+    "year": 1920,
+    "director": "Robert Wiene",
+    "country": "Germany",
+    "runtime": 78,
+    "genre": [
+      "Drama",
+      "Terror",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "id": 19,
+    "id_tmdb": 289,
+    "title": "Casablanca",
+    "originalTitle": "Casablanca",
+    "year": 1943,
+    "director": "Michael Curtiz",
+    "country": "United States of America",
+    "runtime": 102,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 20,
+    "id_tmdb": 307,
+    "title": "Roma, Cidade Aberta",
+    "originalTitle": "Roma città aperta",
+    "year": 1945,
+    "director": "Roberto Rossellini",
+    "country": "Italy",
+    "runtime": 103,
+    "genre": [
+      "Drama",
+      "Guerra"
+    ]
+  },
+  {
+    "id": 21,
+    "id_tmdb": 338,
+    "title": "Adeus, Lênin!",
+    "originalTitle": "Good Bye, Lenin!",
+    "year": 2003,
+    "director": "Wolfgang Becker",
+    "country": "Germany",
+    "runtime": 121,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 22,
+    "id_tmdb": 343,
+    "title": "Ensina-me a Viver",
+    "originalTitle": "Harold and Maude",
+    "year": 1971,
+    "director": "Hal Ashby",
+    "country": "United States of America",
+    "runtime": 91,
+    "genre": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 23,
+    "id_tmdb": 346,
+    "title": "Os Sete Samurais",
+    "originalTitle": "七人の侍",
+    "year": 1954,
+    "director": "Akira Kurosawa",
+    "country": "Japan",
+    "runtime": 207,
+    "genre": [
+      "Ação",
+      "Drama"
+    ]
+  },
+  {
+    "id": 24,
+    "id_tmdb": 348,
+    "title": "Alien: O Oitavo Passageiro",
+    "originalTitle": "Alien",
+    "year": 1979,
+    "director": "Ridley Scott",
+    "country": "United States of America, United Kingdom",
+    "runtime": 117,
+    "genre": [
+      "Terror",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 25,
+    "id_tmdb": 377,
+    "title": "A Hora do Pesadelo",
+    "originalTitle": "A Nightmare on Elm Street",
+    "year": 1984,
+    "director": "Wes Craven",
+    "country": "United States of America, United Kingdom",
+    "runtime": 91,
+    "genre": [
+      "Terror"
+    ]
+  },
+  {
+    "id": 26,
+    "id_tmdb": 406,
+    "title": "O Ódio",
+    "originalTitle": "La Haine",
+    "year": 1995,
+    "director": "Mathieu Kassovitz",
+    "country": "France",
+    "runtime": 98,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 27,
+    "id_tmdb": 422,
+    "title": "Oito e Meio",
+    "originalTitle": "8½",
+    "year": 1963,
+    "director": "Federico Fellini",
+    "country": "Italy, France",
+    "runtime": 139,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 28,
+    "id_tmdb": 490,
+    "title": "O Sétimo Selo",
+    "originalTitle": "Det sjunde inseglet",
+    "year": 1957,
+    "director": "Ingmar Bergman",
+    "country": "Sweden",
+    "runtime": 96,
+    "genre": [
+      "Fantasia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 29,
+    "id_tmdb": 540,
+    "title": "D.E.B.S. - As Super Espiãs",
+    "originalTitle": "D.E.B.S.",
+    "year": 2005,
+    "director": "Angela Robinson",
+    "country": "United States of America",
+    "runtime": 91,
+    "genre": [
+      "Ação",
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 30,
+    "id_tmdb": 550,
+    "title": "Clube da Luta",
+    "originalTitle": "Fight Club",
+    "year": 1999,
+    "director": "David Fincher",
+    "country": "Germany, United States of America",
+    "runtime": 139,
+    "genre": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 31,
+    "id_tmdb": 563,
+    "title": "Tropas Estelares",
+    "originalTitle": "Starship Troopers",
+    "year": 1997,
+    "director": "Paul Verhoeven",
+    "country": "United States of America",
+    "runtime": 135,
+    "genre": [
+      "Aventura",
+      "Ação",
+      "Thriller",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 32,
+    "id_tmdb": 578,
+    "title": "Tubarão",
+    "originalTitle": "Jaws",
+    "year": 1975,
+    "director": "Steven Spielberg",
+    "country": "United States of America",
+    "runtime": 124,
+    "genre": [
+      "Terror",
+      "Thriller",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 33,
+    "id_tmdb": 598,
+    "title": "Cidade de Deus",
+    "originalTitle": "Cidade de Deus",
+    "year": 2002,
+    "director": "Fernando Meirelles",
+    "country": "Brazil, France, Germany",
+    "runtime": 130,
+    "genre": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 34,
+    "id_tmdb": 599,
+    "title": "Crepúsculo dos Deuses",
+    "originalTitle": "Sunset Boulevard",
+    "year": 1950,
+    "director": "Billy Wilder",
+    "country": "United States of America",
+    "runtime": 110,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 35,
+    "id_tmdb": 600,
+    "title": "Nascido Para Matar",
+    "originalTitle": "Full Metal Jacket",
+    "year": 1987,
+    "director": "Stanley Kubrick",
+    "country": "United Kingdom, United States of America",
+    "runtime": 117,
+    "genre": [
+      "Drama",
+      "Guerra"
+    ]
+  },
+  {
+    "id": 36,
+    "id_tmdb": 628,
+    "title": "Entrevista com o Vampiro",
+    "originalTitle": "Interview with the Vampire",
+    "year": 1994,
+    "director": "Neil Jordan",
+    "country": "United States of America",
+    "runtime": 123,
+    "genre": [
+      "Terror",
+      "Drama",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 37,
+    "id_tmdb": 640,
+    "title": "Prenda-Me se For Capaz",
+    "originalTitle": "Catch Me If You Can",
+    "year": 2002,
+    "director": "Steven Spielberg",
+    "country": "United States of America",
+    "runtime": 141,
+    "genre": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 38,
+    "id_tmdb": 643,
+    "title": "O Encouraçado Potemkin",
+    "originalTitle": "Броненосец Потёмкин",
+    "year": 1925,
+    "director": "Sergei Eisenstein",
+    "country": "Soviet Union",
+    "runtime": 72,
+    "genre": [
+      "Drama",
+      "História",
+      "Guerra"
+    ]
+  },
+  {
+    "id": 39,
+    "id_tmdb": 649,
+    "title": "A Bela da Tarde",
+    "originalTitle": "Belle de jour",
+    "year": 1967,
+    "director": "Luis Buñuel",
+    "country": "France, Italy",
+    "runtime": 101,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 40,
+    "id_tmdb": 653,
+    "title": "Nosferatu: Uma Sinfonia de Horror",
+    "originalTitle": "Nosferatu, eine Symphonie des Grauens",
+    "year": 1922,
+    "director": "F. W. Murnau",
+    "country": "Germany",
+    "runtime": 94,
+    "genre": [
+      "Terror",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 41,
+    "id_tmdb": 666,
+    "title": "Central do Brasil",
+    "originalTitle": "Central do Brasil",
+    "year": 1998,
+    "director": "Walter Salles",
+    "country": "Brazil, France",
+    "runtime": 110,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 42,
+    "id_tmdb": 670,
+    "title": "Oldboy",
+    "originalTitle": "올드보이",
+    "year": 2003,
+    "director": "Park Chan-wook",
+    "country": "South Korea",
+    "runtime": 120,
+    "genre": [
+      "Thriller",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 43,
+    "id_tmdb": 679,
+    "title": "Aliens: O Resgate",
+    "originalTitle": "Aliens",
+    "year": 1986,
+    "director": "James Cameron",
+    "country": "United States of America",
+    "runtime": 154,
+    "genre": [
+      "Ação",
+      "Thriller",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 44,
+    "id_tmdb": 762,
+    "title": "Monty Python em Busca do Cálice Sagrado",
+    "originalTitle": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "director": "Terry Gilliam, Terry Jones",
+    "country": "United Kingdom",
+    "runtime": 91,
+    "genre": [
+      "Aventura",
+      "Comédia",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 45,
+    "id_tmdb": 779,
+    "title": "O Vampiro",
+    "originalTitle": "Vampyr - Der Traum des Allan Grey",
+    "year": 1932,
+    "director": "Carl Theodor Dreyer",
+    "country": "Germany",
+    "runtime": 83,
+    "genre": [
+      "Terror",
+      "Fantasia",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 46,
+    "id_tmdb": 780,
+    "title": "O Martírio de Joana D'Arc",
+    "originalTitle": "La Passion de Jeanne d'Arc",
+    "year": 1928,
+    "director": "Carl Theodor Dreyer",
+    "country": "France",
+    "runtime": 110,
+    "genre": [
+      "Drama",
+      "História"
+    ]
+  },
+  {
+    "id": 47,
+    "id_tmdb": 807,
+    "title": "Seven - Os Sete Crimes Capitais",
+    "originalTitle": "Se7en",
+    "year": 1995,
+    "director": "David Fincher",
+    "country": "United States of America",
+    "runtime": 127,
+    "genre": [
+      "Crime",
+      "Mistério",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 48,
+    "id_tmdb": 813,
+    "title": "Apertem os Cintos, o Piloto Sumiu",
+    "originalTitle": "Airplane!",
+    "year": 1980,
+    "director": "Jim Abrahams, Jerry Zucker, David Zucker",
+    "country": "United States of America",
+    "runtime": 88,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 49,
+    "id_tmdb": 872,
+    "title": "Cantando na Chuva",
+    "originalTitle": "Singin' in the Rain",
+    "year": 1952,
+    "director": "Gene Kelly, Stanley Donen",
+    "country": "United States of America",
+    "runtime": 103,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 50,
+    "id_tmdb": 884,
+    "title": "Crash: Estranhos Prazeres",
+    "originalTitle": "Crash",
+    "year": 1996,
+    "director": "David Cronenberg",
+    "country": "Canada, United Kingdom",
+    "runtime": 90,
+    "genre": [
+      "Thriller",
+      "Drama"
+    ]
+  },
+  {
+    "id": 51,
+    "id_tmdb": 993,
+    "title": "Trama Diabólica",
+    "originalTitle": "Sleuth",
+    "year": 1972,
+    "director": "Joseph L. Mankiewicz",
+    "country": "United Kingdom",
+    "runtime": 138,
+    "genre": [
+      "Thriller",
+      "Mistério",
+      "Crime"
+    ]
+  },
+  {
+    "id": 52,
+    "id_tmdb": 1018,
+    "title": "Cidade dos Sonhos",
+    "originalTitle": "Mulholland Drive",
+    "year": 2001,
+    "director": "David Lynch",
+    "country": "France, United States of America",
+    "runtime": 147,
+    "genre": [
+      "Thriller",
+      "Drama",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 53,
+    "id_tmdb": 1093,
+    "title": "Ascensor para o Cadafalso",
+    "originalTitle": "Ascenseur pour l'échafaud",
+    "year": 1958,
+    "director": "Louis Malle",
+    "country": "France",
+    "runtime": 91,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 54,
+    "id_tmdb": 1124,
+    "title": "O Grande Truque",
+    "originalTitle": "The Prestige",
+    "year": 2006,
+    "director": "Christopher Nolan",
+    "country": "United Kingdom, United States of America",
+    "runtime": 130,
+    "genre": [
+      "Drama",
+      "Mistério",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 55,
+    "id_tmdb": 1366,
+    "title": "Rocky: Um Lutador",
+    "originalTitle": "Rocky",
+    "year": 1976,
+    "director": "John G. Avildsen",
+    "country": "United States of America",
+    "runtime": 119,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 56,
+    "id_tmdb": 1391,
+    "title": "E Sua Mãe Também",
+    "originalTitle": "Y tu mamá también",
+    "year": 2001,
+    "director": "Alfonso Cuarón",
+    "country": "Mexico",
+    "runtime": 105,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 57,
+    "id_tmdb": 1398,
+    "title": "Stalker",
+    "originalTitle": "Сталкер",
+    "year": 1979,
+    "director": "Andrei Tarkovsky",
+    "country": "Soviet Union",
+    "runtime": 162,
+    "genre": [
+      "Ficção científica",
+      "Drama"
+    ]
+  },
+  {
+    "id": 58,
+    "id_tmdb": 1495,
+    "title": "Cruzada",
+    "originalTitle": "Kingdom of Heaven",
+    "year": 2005,
+    "director": "Ridley Scott",
+    "country": "United States of America, United Kingdom, Germany, Spain",
+    "runtime": 144,
+    "genre": [
+      "Drama",
+      "Ação",
+      "Aventura",
+      "História",
+      "Guerra"
+    ]
+  },
+  {
+    "id": 59,
+    "id_tmdb": 1645,
+    "title": "Tempo de Matar",
+    "originalTitle": "A Time to Kill",
+    "year": 1996,
+    "director": "Joel Schumacher",
+    "country": "United States of America",
+    "runtime": 149,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 60,
+    "id_tmdb": 1678,
+    "title": "Godzilla, O Monstro do Mar",
+    "originalTitle": "ゴジラ",
+    "year": 1954,
+    "director": "Ishirō Honda",
+    "country": "Japan",
+    "runtime": 98,
+    "genre": [
+      "Thriller",
+      "Terror",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 61,
+    "id_tmdb": 1833,
+    "title": "Rent: Os Boêmios",
+    "originalTitle": "Rent",
+    "year": 2005,
+    "director": "Chris Columbus",
+    "country": "United States of America",
+    "runtime": 135,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 62,
+    "id_tmdb": 1859,
+    "title": "Ninotchka",
+    "originalTitle": "Ninotchka",
+    "year": 1939,
+    "director": "Ernst Lubitsch",
+    "country": "United States of America",
+    "runtime": 110,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 63,
+    "id_tmdb": 2028,
+    "title": "Digam o Que Quiserem",
+    "originalTitle": "Say Anything...",
+    "year": 1989,
+    "director": "Cameron Crowe",
+    "country": "United States of America",
+    "runtime": 100,
+    "genre": [
+      "Romance",
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 64,
+    "id_tmdb": 2109,
+    "title": "A Hora do Rush",
+    "originalTitle": "Rush Hour",
+    "year": 1998,
+    "director": "Brett Ratner",
+    "country": "United States of America",
+    "runtime": 97,
+    "genre": [
+      "Ação",
+      "Comédia",
+      "Crime"
+    ]
+  },
+  {
+    "id": 65,
+    "id_tmdb": 2134,
+    "title": "A Máquina do Tempo",
+    "originalTitle": "The Time Machine",
+    "year": 1960,
+    "director": "George Pal",
+    "country": "United States of America",
+    "runtime": 103,
+    "genre": [
+      "Thriller",
+      "Aventura",
+      "Fantasia",
+      "Ficção científica",
+      "Romance"
+    ]
+  },
+  {
+    "id": 66,
+    "id_tmdb": 2196,
+    "title": "Morte no Funeral",
+    "originalTitle": "Death at a Funeral",
+    "year": 2007,
+    "director": "Frank Oz",
+    "country": "Germany, United Kingdom, United States of America",
+    "runtime": 87,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 67,
+    "id_tmdb": 2469,
+    "title": "Ata-me",
+    "originalTitle": "¡Átame!",
+    "year": 1990,
+    "director": "Pedro Almodóvar",
+    "country": "Spain",
+    "runtime": 102,
+    "genre": [
+      "Comédia",
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "id": 68,
+    "id_tmdb": 2667,
+    "title": "A Bruxa de Blair",
+    "originalTitle": "The Blair Witch Project",
+    "year": 1999,
+    "director": "Daniel Myrick, Eduardo Sánchez",
+    "country": "United States of America",
+    "runtime": 81,
+    "genre": [
+      "Terror",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 69,
+    "id_tmdb": 2759,
+    "title": "Priscilla, a Rainha do Deserto",
+    "originalTitle": "The Adventures of Priscilla, Queen of the Desert",
+    "year": 1994,
+    "director": "Stephan Elliott",
+    "country": "Australia, United States of America",
+    "runtime": 104,
+    "genre": [
+      "Drama",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 70,
+    "id_tmdb": 2907,
+    "title": "A Família Addams",
+    "originalTitle": "The Addams Family",
+    "year": 1991,
+    "director": "Barry Sonnenfeld",
+    "country": "United States of America",
+    "runtime": 100,
+    "genre": [
+      "Comédia",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 71,
+    "id_tmdb": 3019,
+    "title": "O Médico e o Monstro",
+    "originalTitle": "Dr. Jekyll and Mr. Hyde",
+    "year": 1931,
+    "director": "Rouben Mamoulian",
+    "country": "United States of America",
+    "runtime": 98,
+    "genre": [
+      "Terror",
+      "Ficção científica",
+      "Drama"
+    ]
+  },
+  {
+    "id": 72,
+    "id_tmdb": 3763,
+    "title": "Onibaba - A Mulher Demônio",
+    "originalTitle": "鬼婆",
+    "year": 1964,
+    "director": "Kaneto Shindō",
+    "country": "Japan",
+    "runtime": 105,
+    "genre": [
+      "Terror"
+    ]
+  },
+  {
+    "id": 73,
+    "id_tmdb": 3767,
+    "title": "Gilda",
+    "originalTitle": "Gilda",
+    "year": 1946,
+    "director": "Charles Vidor",
+    "country": "United States of America",
+    "runtime": 110,
+    "genre": [
+      "Romance",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 74,
+    "id_tmdb": 3870,
+    "title": "1900",
+    "originalTitle": "Novecento",
+    "year": 1976,
+    "director": "Bernardo Bertolucci",
+    "country": "France, Germany, Italy",
+    "runtime": 317,
+    "genre": [
+      "Drama",
+      "História"
+    ]
+  },
+  {
+    "id": 75,
+    "id_tmdb": 4011,
+    "title": "Os Fantasmas se Divertem",
+    "originalTitle": "Beetlejuice",
+    "year": 1988,
+    "director": "Tim Burton",
+    "country": "United States of America",
+    "runtime": 92,
+    "genre": [
+      "Fantasia",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 76,
+    "id_tmdb": 4147,
+    "title": "Estrada para Perdição",
+    "originalTitle": "Road to Perdition",
+    "year": 2002,
+    "director": "Sam Mendes",
+    "country": "United States of America",
+    "runtime": 117,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 77,
+    "id_tmdb": 4499,
+    "title": "Pepi, Luci, Bom e Outras Garotas de Montão",
+    "originalTitle": "Pepi, Luci, Bom y otras chicas del montón",
+    "year": 1980,
+    "director": "Pedro Almodóvar",
+    "country": "Spain",
+    "runtime": 78,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 78,
+    "id_tmdb": 4584,
+    "title": "Razão e Sensibilidade",
+    "originalTitle": "Sense and Sensibility",
+    "year": 1995,
+    "director": "Ang Lee",
+    "country": "United States of America",
+    "runtime": 136,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 79,
+    "id_tmdb": 4593,
+    "title": "O Discreto Charme da Burguesia",
+    "originalTitle": "Le Charme discret de la bourgeoisie",
+    "year": 1972,
+    "director": "Luis Buñuel",
+    "country": "France",
+    "runtime": 101,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 80,
+    "id_tmdb": 5175,
+    "title": "A Hora do Rush 2",
+    "originalTitle": "Rush Hour 2",
+    "year": 2001,
+    "director": "Brett Ratner",
+    "country": "United States of America, Hong Kong",
+    "runtime": 90,
+    "genre": [
+      "Ação",
+      "Comédia",
+      "Crime"
+    ]
+  },
+  {
+    "id": 81,
+    "id_tmdb": 6977,
+    "title": "Onde os Fracos Não Têm Vez",
+    "originalTitle": "No Country for Old Men",
+    "year": 2007,
+    "director": "Joel Coen, Ethan Coen",
+    "country": "United States of America",
+    "runtime": 122,
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Faroeste"
+    ]
+  },
+  {
+    "id": 82,
+    "id_tmdb": 7443,
+    "title": "A Fuga das Galinhas",
+    "originalTitle": "Chicken Run",
+    "year": 2000,
+    "director": "Nick Park, Peter Lord",
+    "country": "France, United Kingdom, United States of America",
+    "runtime": 84,
+    "genre": [
+      "Animação",
+      "Comédia",
+      "Família"
+    ]
+  },
+  {
+    "id": 83,
+    "id_tmdb": 7500,
+    "title": "Adrenalina Máxima",
+    "originalTitle": "Sonatine",
+    "year": 1993,
+    "director": "Takeshi Kitano",
+    "country": "Japan",
+    "runtime": 94,
+    "genre": [
+      "Ação",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 84,
+    "id_tmdb": 7512,
+    "title": "Idiocracia",
+    "originalTitle": "Idiocracy",
+    "year": 2006,
+    "director": "Mike Judge",
+    "country": "United States of America",
+    "runtime": 84,
+    "genre": [
+      "Comédia",
+      "Ficção científica",
+      "Aventura",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 85,
+    "id_tmdb": 8765,
+    "title": "Nirvana",
+    "originalTitle": "Nirvana",
+    "year": 1997,
+    "director": "Gabriele Salvatores",
+    "country": "France, Italy",
+    "runtime": 113,
+    "genre": [
+      "Ficção científica",
+      "Thriller",
+      "Ação",
+      "Drama"
+    ]
+  },
+  {
+    "id": 86,
+    "id_tmdb": 9043,
+    "title": "Tudo em Família",
+    "originalTitle": "The Family Stone",
+    "year": 2005,
+    "director": "Thomas Bezucha",
+    "country": "United States of America",
+    "runtime": 102,
+    "genre": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 87,
+    "id_tmdb": 9056,
+    "title": "Police Story: A Guerra das Drogas",
+    "originalTitle": "警察故事",
+    "year": 1985,
+    "director": "Jackie Chan",
+    "country": "Hong Kong",
+    "runtime": 101,
+    "genre": [
+      "Ação",
+      "Crime",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 88,
+    "id_tmdb": 9100,
+    "title": "Jovens Bruxas",
+    "originalTitle": "The Craft",
+    "year": 1996,
+    "director": "Andrew Fleming",
+    "country": "United States of America",
+    "runtime": 100,
+    "genre": [
+      "Terror",
+      "Drama",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 89,
+    "id_tmdb": 9293,
+    "title": "Todas Contra John",
+    "originalTitle": "John Tucker Must Die",
+    "year": 2006,
+    "director": "Betty Thomas",
+    "country": "United States of America",
+    "runtime": 87,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 90,
+    "id_tmdb": 9323,
+    "title": "Ghost in the Shell: O Fantasma do Futuro",
+    "originalTitle": "GHOST IN THE SHELL",
+    "year": 1995,
+    "director": "Mamoru Oshii",
+    "country": "Japan, United Kingdom",
+    "runtime": 82,
+    "genre": [
+      "Ação",
+      "Animação",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 91,
+    "id_tmdb": 9398,
+    "title": "Zoolander",
+    "originalTitle": "Zoolander",
+    "year": 2001,
+    "director": "Ben Stiller",
+    "country": "United States of America",
+    "runtime": 89,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 92,
+    "id_tmdb": 9428,
+    "title": "Os Excêntricos Tenenbaums",
+    "originalTitle": "The Royal Tenenbaums",
+    "year": 2001,
+    "director": "Wes Anderson",
+    "country": "United States of America",
+    "runtime": 110,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 93,
+    "id_tmdb": 9489,
+    "title": "Mens@gem para Você",
+    "originalTitle": "You've Got Mail",
+    "year": 1998,
+    "director": "Nora Ephron",
+    "country": "United States of America",
+    "runtime": 119,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 94,
+    "id_tmdb": 9552,
+    "title": "O Exorcista",
+    "originalTitle": "The Exorcist",
+    "year": 1973,
+    "director": "William Friedkin",
+    "country": "United States of America",
+    "runtime": 132,
+    "genre": [
+      "Terror"
+    ]
+  },
+  {
+    "id": 95,
+    "id_tmdb": 9659,
+    "title": "Mad Max",
+    "originalTitle": "Mad Max",
+    "year": 1979,
+    "director": "George Miller",
+    "country": "Australia",
+    "runtime": 93,
+    "genre": [
+      "Ação",
+      "Thriller",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 96,
+    "id_tmdb": 9837,
+    "title": "O Príncipe do Egito",
+    "originalTitle": "The Prince of Egypt",
+    "year": 1998,
+    "director": "Simon Wells, Brenda Chapman, Steve Hickner",
+    "country": "United States of America",
+    "runtime": 99,
+    "genre": [
+      "Aventura",
+      "Animação",
+      "Drama",
+      "Família"
+    ]
+  },
+  {
+    "id": 97,
+    "id_tmdb": 10176,
+    "title": "Terra Tranquila",
+    "originalTitle": "The Quiet Earth",
+    "year": 1985,
+    "director": "Geoff Murphy",
+    "country": "New Zealand",
+    "runtime": 91,
+    "genre": [
+      "Drama",
+      "Ficção científica",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 98,
+    "id_tmdb": 10362,
+    "title": "Amantes",
+    "originalTitle": "Two Lovers",
+    "year": 2008,
+    "director": "James Gray",
+    "country": "United States of America, France",
+    "runtime": 110,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 99,
+    "id_tmdb": 10494,
+    "title": "Perfect Blue",
+    "originalTitle": "PERFECT BLUE",
+    "year": 1998,
+    "director": "Satoshi Kon",
+    "country": "Japan",
+    "runtime": 85,
+    "genre": [
+      "Animação",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 100,
+    "id_tmdb": 10634,
+    "title": "Sexta-feira em Apuros",
+    "originalTitle": "Friday",
+    "year": 1995,
+    "director": "F. Gary Gray",
+    "country": "United States of America",
+    "runtime": 97,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 101,
+    "id_tmdb": 10818,
+    "title": "Lírios d'água",
+    "originalTitle": "Naissance des pieuvres",
+    "year": 2007,
+    "director": "Céline Sciamma",
+    "country": "France",
+    "runtime": 85,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 102,
+    "id_tmdb": 10982,
+    "title": "Deu a Louca na Chapeuzinho",
+    "originalTitle": "Hoodwinked!",
+    "year": 2005,
+    "director": "Cory Edwards",
+    "country": "United States of America",
+    "runtime": 80,
+    "genre": [
+      "Animação",
+      "Comédia",
+      "Crime",
+      "Família",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 103,
+    "id_tmdb": 11036,
+    "title": "Diário de uma Paixão",
+    "originalTitle": "The Notebook",
+    "year": 2004,
+    "director": "Nick Cassavetes",
+    "country": "United States of America",
+    "runtime": 123,
+    "genre": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "id": 104,
+    "id_tmdb": 11167,
+    "title": "A Tortura do Medo",
+    "originalTitle": "Peeping Tom",
+    "year": 1960,
+    "director": "Michael Powell",
+    "country": "United Kingdom",
+    "runtime": 102,
+    "genre": [
+      "Terror",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "id": 105,
+    "id_tmdb": 11220,
+    "title": "Anjos Caídos",
+    "originalTitle": "墮落天使",
+    "year": 1995,
+    "director": "Wong Kar-Wai",
+    "country": "Hong Kong",
+    "runtime": 99,
+    "genre": [
+      "Ação",
+      "Romance",
+      "Crime"
+    ]
+  },
+  {
+    "id": 106,
+    "id_tmdb": 11423,
+    "title": "Memórias de um Assassino",
+    "originalTitle": "살인의 추억",
+    "year": 2003,
+    "director": "Bong Joon Ho",
+    "country": "South Korea",
+    "runtime": 131,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 107,
+    "id_tmdb": 11534,
+    "title": "Mal dos Trópicos",
+    "originalTitle": "สัตว์ประหลาด",
+    "year": 2004,
+    "director": "Apichatpong Weerasethakul",
+    "country": "Thailand, France, Italy, Germany",
+    "runtime": 114,
+    "genre": [
+      "Drama",
+      "Romance",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 108,
+    "id_tmdb": 11631,
+    "title": "Mamma Mia!",
+    "originalTitle": "Mamma Mia!",
+    "year": 2008,
+    "director": "Phyllida Lloyd",
+    "country": "Germany, United Kingdom, United States of America",
+    "runtime": 98,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 109,
+    "id_tmdb": 11782,
+    "title": "Fervura Máxima",
+    "originalTitle": "辣手神探",
+    "year": 1992,
+    "director": "John Woo",
+    "country": "Hong Kong",
+    "runtime": 128,
+    "genre": [
+      "Ação",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "id": 110,
+    "id_tmdb": 11971,
+    "title": "Muito Barulho por Nada",
+    "originalTitle": "Much Ado About Nothing",
+    "year": 1993,
+    "director": "Kenneth Branagh",
+    "country": "United Kingdom, United States of America",
+    "runtime": 111,
+    "genre": [
+      "Drama",
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 111,
+    "id_tmdb": 12233,
+    "title": "Oliver e Sua Turma",
+    "originalTitle": "Oliver & Company",
+    "year": 1988,
+    "director": "George Scribner",
+    "country": "United States of America",
+    "runtime": 74,
+    "genre": [
+      "Animação",
+      "Comédia",
+      "Família"
+    ]
+  },
+  {
+    "id": 112,
+    "id_tmdb": 12289,
+    "title": "A Batalha dos 3 Reinos",
+    "originalTitle": "赤壁",
+    "year": 2008,
+    "director": "John Woo",
+    "country": "China, Hong Kong, Japan, South Korea, Taiwan, United States of America",
+    "runtime": 146,
+    "genre": [
+      "Aventura",
+      "Drama",
+      "História",
+      "Ação",
+      "Guerra"
+    ]
+  },
+  {
+    "id": 113,
+    "id_tmdb": 13223,
+    "title": "Gran Torino",
+    "originalTitle": "Gran Torino",
+    "year": 2008,
+    "director": "Clint Eastwood",
+    "country": "United States of America, Germany",
+    "runtime": 116,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 114,
+    "id_tmdb": 13649,
+    "title": "High School Musical 2",
+    "originalTitle": "High School Musical 2",
+    "year": 2007,
+    "director": "Kenny Ortega",
+    "country": "United States of America",
+    "runtime": 111,
+    "genre": [
+      "Comédia",
+      "Família",
+      "Cinema TV"
+    ]
+  },
+  {
+    "id": 115,
+    "id_tmdb": 14132,
+    "title": "Macross: A Batalha Final",
+    "originalTitle": "超時空要塞マクロス 愛・おぼえていますか",
+    "year": 1984,
+    "director": "Noboru Ishiguro, Shoji Kawamori",
+    "country": "Japan",
+    "runtime": 115,
+    "genre": [
+      "Animação",
+      "Ficção científica",
+      "Guerra",
+      "Ação"
+    ]
+  },
+  {
+    "id": 116,
+    "id_tmdb": 14421,
+    "title": "O Ano em que Meus Pais Saíram de Férias",
+    "originalTitle": "O Ano em que Meus Pais Saíram de Férias",
+    "year": 2006,
+    "director": "Cao Hamburger",
+    "country": "Brazil",
+    "runtime": 103,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 117,
+    "id_tmdb": 14613,
+    "title": "Os Novos Vingadores: Heróis do Amanhã",
+    "originalTitle": "Next Avengers: Heroes of Tomorrow",
+    "year": 2008,
+    "director": "Jay Oliva",
+    "country": "United States of America",
+    "runtime": 78,
+    "genre": [
+      "Animação",
+      "Família",
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 118,
+    "id_tmdb": 15121,
+    "title": "A Noviça Rebelde",
+    "originalTitle": "The Sound of Music",
+    "year": 1965,
+    "director": "Robert Wise",
+    "country": "United States of America",
+    "runtime": 174,
+    "genre": [
+      "Drama",
+      "Família",
+      "Música",
+      "Romance"
+    ]
+  },
+  {
+    "id": 119,
+    "id_tmdb": 15179,
+    "title": "Patrik 1.5",
+    "originalTitle": "Patrik 1,5",
+    "year": 2008,
+    "director": "Ella Lemhagen",
+    "country": "Sweden",
+    "runtime": 102,
+    "genre": [
+      "Drama",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 120,
+    "id_tmdb": 15804,
+    "title": "Um Dia Quente de Verão",
+    "originalTitle": "牯嶺街少年殺人事件",
+    "year": 1991,
+    "director": "Edward Yang",
+    "country": "Taiwan",
+    "runtime": 237,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 121,
+    "id_tmdb": 16093,
+    "title": "O Parque Macabro",
+    "originalTitle": "Carnival of Souls",
+    "year": 1962,
+    "director": "Herk Harvey",
+    "country": "United States of America",
+    "runtime": 78,
+    "genre": [
+      "Terror",
+      "Mistério",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 122,
+    "id_tmdb": 16237,
+    "title": "Os Jovens Titãs: Missão Tóquio",
+    "originalTitle": "Teen Titans: Trouble in Tokyo",
+    "year": 2006,
+    "director": "Michael Chang, Matt Youngberg, Heather A. Maxwell",
+    "country": "United States of America",
+    "runtime": 75,
+    "genre": [
+      "Animação",
+      "Ação",
+      "Ficção científica",
+      "Cinema TV"
+    ]
+  },
+  {
+    "id": 123,
+    "id_tmdb": 16307,
+    "title": "O Homem de Palha",
+    "originalTitle": "The Wicker Man",
+    "year": 1973,
+    "director": "Robin Hardy",
+    "country": "United Kingdom",
+    "runtime": 88,
+    "genre": [
+      "Terror"
+    ]
+  },
+  {
+    "id": 124,
+    "id_tmdb": 16938,
+    "title": "Noite do Terror",
+    "originalTitle": "Black Christmas",
+    "year": 1974,
+    "director": "Bob Clark",
+    "country": "Canada",
+    "runtime": 98,
+    "genre": [
+      "Terror",
+      "Mistério",
+      "Crime"
+    ]
+  },
+  {
+    "id": 125,
+    "id_tmdb": 17295,
+    "title": "A Batalha de Argel",
+    "originalTitle": "La battaglia di Algeri",
+    "year": 1966,
+    "director": "Gillo Pontecorvo",
+    "country": "Italy, Algeria",
+    "runtime": 121,
+    "genre": [
+      "Drama",
+      "Guerra",
+      "História"
+    ]
+  },
+  {
+    "id": 126,
+    "id_tmdb": 17445,
+    "title": "Lanterna Verde: Primeiro Vôo",
+    "originalTitle": "Green Lantern: First Flight",
+    "year": 2009,
+    "director": "Lauren Montgomery",
+    "country": "United States of America",
+    "runtime": 75,
+    "genre": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Animação",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 127,
+    "id_tmdb": 17467,
+    "title": "A História de Ricky",
+    "originalTitle": "力王",
+    "year": 1991,
+    "director": "Lam Nai-Choi",
+    "country": "Hong Kong",
+    "runtime": 91,
+    "genre": [
+      "Ação",
+      "Ficção científica",
+      "Terror"
+    ]
+  },
+  {
+    "id": 128,
+    "id_tmdb": 17640,
+    "title": "Dançando nas Nuvens",
+    "originalTitle": "It's Always Fair Weather",
+    "year": 1955,
+    "director": "Stanley Donen, Gene Kelly",
+    "country": "United States of America",
+    "runtime": 102,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 129,
+    "id_tmdb": 18329,
+    "title": "Felizes Juntos",
+    "originalTitle": "春光乍洩",
+    "year": 1997,
+    "director": "Wong Kar-Wai",
+    "country": "Hong Kong, South Korea, Japan",
+    "runtime": 96,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 130,
+    "id_tmdb": 18983,
+    "title": "Godzilla: O Rei dos Monstros",
+    "originalTitle": "Godzilla, King of the Monsters!",
+    "year": 1956,
+    "director": "Terry O. Morse, Ishirō Honda",
+    "country": "Japan, United States of America",
+    "runtime": 80,
+    "genre": [
+      "Ficção científica",
+      "Terror"
+    ]
+  },
+  {
+    "id": 131,
+    "id_tmdb": 19053,
+    "title": "Sonhos Rebeldes",
+    "originalTitle": "Valley Girl",
+    "year": 1983,
+    "director": "Martha Coolidge",
+    "country": "United States of America",
+    "runtime": 99,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 132,
+    "id_tmdb": 19908,
+    "title": "Zumbilândia",
+    "originalTitle": "Zombieland",
+    "year": 2009,
+    "director": "Ruben Fleischer",
+    "country": "United States of America",
+    "runtime": 88,
+    "genre": [
+      "Comédia",
+      "Terror"
+    ]
+  },
+  {
+    "id": 133,
+    "id_tmdb": 20048,
+    "title": "Os Delírios de Consumo de Becky Bloom",
+    "originalTitle": "Confessions of a Shopaholic",
+    "year": 2009,
+    "director": "P.J. Hogan",
+    "country": "United States of America",
+    "runtime": 104,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 134,
+    "id_tmdb": 20126,
+    "title": "Prelúdio para Matar",
+    "originalTitle": "Profondo rosso",
+    "year": 1975,
+    "director": "Dario Argento",
+    "country": "Italy",
+    "runtime": 127,
+    "genre": [
+      "Terror",
+      "Mistério",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 135,
+    "id_tmdb": 20653,
+    "title": "Romeu: O Vira Lata Atrapalhado",
+    "originalTitle": "Roadside Romeo",
+    "year": 2008,
+    "director": "Jugal Hansraj",
+    "country": "India, United States of America",
+    "runtime": 93,
+    "genre": [
+      "Animação",
+      "Família",
+      "Aventura",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 136,
+    "id_tmdb": 21057,
+    "title": "Eu Posso Ouvir o Oceano",
+    "originalTitle": "海がきこえる",
+    "year": 1993,
+    "director": "Tomomi Mochizuki",
+    "country": "Japan",
+    "runtime": 72,
+    "genre": [
+      "Animação",
+      "Drama",
+      "Romance",
+      "Cinema TV"
+    ]
+  },
+  {
+    "id": 137,
+    "id_tmdb": 21752,
+    "title": "Se Eu Fosse Você 2",
+    "originalTitle": "Se Eu Fosse Você 2",
+    "year": 2009,
+    "director": "Daniel Filho",
+    "country": "Brazil",
+    "runtime": 100,
+    "genre": [
+      "Comédia",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 138,
+    "id_tmdb": 23619,
+    "title": "Dá pra Fazer",
+    "originalTitle": "Si può fare",
+    "year": 2008,
+    "director": "Giulio Manfredonia",
+    "country": "Italy",
+    "runtime": 111,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 139,
+    "id_tmdb": 25237,
+    "title": "Vá e Veja",
+    "originalTitle": "Иди и смотри",
+    "year": 1985,
+    "director": "Elem Klimov",
+    "country": "Soviet Union",
+    "runtime": 142,
+    "genre": [
+      "Drama",
+      "Guerra",
+      "Terror",
+      "História"
+    ]
+  },
+  {
+    "id": 140,
+    "id_tmdb": 25623,
+    "title": "Hausu",
+    "originalTitle": "ハウス",
+    "year": 1977,
+    "director": "Nobuhiko Obayashi",
+    "country": "Japan",
+    "runtime": 87,
+    "genre": [
+      "Comédia",
+      "Fantasia",
+      "Terror"
+    ]
+  },
+  {
+    "id": 141,
+    "id_tmdb": 26275,
+    "title": "下妻物語",
+    "originalTitle": "下妻物語",
+    "year": 2004,
+    "director": "Tetsuya Nakashima",
+    "country": "Japan",
+    "runtime": 102,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 142,
+    "id_tmdb": 26317,
+    "title": "Um Homem com uma Câmera",
+    "originalTitle": "Человек с киноаппаратом",
+    "year": 1929,
+    "director": "Dziga Vertov",
+    "country": "Soviet Union",
+    "runtime": 68,
+    "genre": [
+      "Documentário"
+    ]
+  },
+  {
+    "id": 143,
+    "id_tmdb": 26974,
+    "title": "불가사리",
+    "originalTitle": "불가사리",
+    "year": 1986,
+    "director": "Shin Sang-ok, Chong Gon Jo",
+    "country": "North Korea, Japan, China",
+    "runtime": 95,
+    "genre": [
+      "Terror",
+      "Drama",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 144,
+    "id_tmdb": 27337,
+    "title": "リンダ リンダ リンダ",
+    "originalTitle": "リンダ リンダ リンダ",
+    "year": 2005,
+    "director": "Nobuhiro Yamashita",
+    "country": "Japan",
+    "runtime": 115,
+    "genre": [
+      "Comédia",
+      "Música",
+      "Drama"
+    ]
+  },
+  {
+    "id": 145,
+    "id_tmdb": 27374,
+    "title": "O Segredo do Lago Mungo",
+    "originalTitle": "Lake Mungo",
+    "year": 2009,
+    "director": "Joel Anderson",
+    "country": "Australia",
+    "runtime": 87,
+    "genre": [
+      "Terror",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 146,
+    "id_tmdb": 28942,
+    "title": "Os Filhos do Medo",
+    "originalTitle": "The Brood",
+    "year": 1979,
+    "director": "David Cronenberg",
+    "country": "Canada",
+    "runtime": 92,
+    "genre": [
+      "Terror",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 147,
+    "id_tmdb": 28967,
+    "title": "Vuk - A Raposinha da Floresta",
+    "originalTitle": "Vuk",
+    "year": 1981,
+    "director": "Attila Dargay",
+    "country": "Hungary",
+    "runtime": 73,
+    "genre": [
+      "Animação",
+      "Família"
+    ]
+  },
+  {
+    "id": 148,
+    "id_tmdb": 30017,
+    "title": "Close-Up",
+    "originalTitle": "کلوزآپ ، نمای نزدیک",
+    "year": 1990,
+    "director": "Abbas Kiarostami",
+    "country": "Iran",
+    "runtime": 98,
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 149,
+    "id_tmdb": 30061,
+    "title": "Liga da Justiça: Crise em Duas Terras",
+    "originalTitle": "Justice League: Crisis on Two Earths",
+    "year": 2010,
+    "director": "Sam Liu, Lauren Montgomery",
+    "country": "United States of America",
+    "runtime": 75,
+    "genre": [
+      "Animação",
+      "Ficção científica",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 150,
+    "id_tmdb": 30368,
+    "title": "Cão Danado",
+    "originalTitle": "野良犬",
+    "year": 1949,
+    "director": "Akira Kurosawa",
+    "country": "Japan",
+    "runtime": 122,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 151,
+    "id_tmdb": 30497,
+    "title": "O Massacre da Serra Elétrica",
+    "originalTitle": "The Texas Chain Saw Massacre",
+    "year": 1974,
+    "director": "Tobe Hooper",
+    "country": "United States of America",
+    "runtime": 83,
+    "genre": [
+      "Terror"
+    ]
+  },
+  {
+    "id": 152,
+    "id_tmdb": 30913,
+    "title": "À Meia Noite Levarei Sua Alma",
+    "originalTitle": "À Meia Noite Levarei Sua Alma",
+    "year": 1964,
+    "director": "José Mojica Marins",
+    "country": "Brazil",
+    "runtime": 84,
+    "genre": [
+      "Terror",
+      "Thriller",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 153,
+    "id_tmdb": 30959,
+    "title": "Kwaidan: As Quatro Faces do Medo",
+    "originalTitle": "怪談",
+    "year": 1965,
+    "director": "Masaki Kobayashi",
+    "country": "Japan",
+    "runtime": 183,
+    "genre": [
+      "Terror",
+      "Fantasia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 154,
+    "id_tmdb": 31056,
+    "title": "Não Amarás",
+    "originalTitle": "Krótki film o miłości",
+    "year": 1988,
+    "director": "Krzysztof Kieślowski",
+    "country": "Poland",
+    "runtime": 87,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 155,
+    "id_tmdb": 32015,
+    "title": "Eu Sou Cuba",
+    "originalTitle": "Soy Cuba",
+    "year": 1964,
+    "director": "Mikhail Kalatozov",
+    "country": "Cuba, Soviet Union",
+    "runtime": 141,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 156,
+    "id_tmdb": 34588,
+    "title": "Se Eu Fosse Você",
+    "originalTitle": "Se Eu Fosse Você",
+    "year": 2006,
+    "director": "Daniel Filho",
+    "country": "Brazil",
+    "runtime": 103,
+    "genre": [
+      "Comédia",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 157,
+    "id_tmdb": 35927,
+    "title": "Babar: The Movie",
+    "originalTitle": "Babar: The Movie",
+    "year": 1989,
+    "director": "Alan Bunce",
+    "country": "Canada, France",
+    "runtime": 70,
+    "genre": [
+      "Aventura",
+      "Animação",
+      "Família",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 158,
+    "id_tmdb": 36175,
+    "title": "As Tartarugas São Nadadoras Surpreendentemente Rápidas",
+    "originalTitle": "亀は意外と速く泳ぐ",
+    "year": 2005,
+    "director": "Satoshi Miki",
+    "country": "Japan",
+    "runtime": 90,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 159,
+    "id_tmdb": 36685,
+    "title": "The Rocky Horror Picture Show",
+    "originalTitle": "The Rocky Horror Picture Show",
+    "year": 1975,
+    "director": "Jim Sharman",
+    "country": "United Kingdom, United States of America",
+    "runtime": 100,
+    "genre": [
+      "Comédia",
+      "Ficção científica",
+      "Terror"
+    ]
+  },
+  {
+    "id": 160,
+    "id_tmdb": 38010,
+    "title": "Fish Story",
+    "originalTitle": "フィッシュストーリー",
+    "year": 2009,
+    "director": "Yoshihiro Nakamura",
+    "country": "Japan",
+    "runtime": 112,
+    "genre": [
+      "Música",
+      "Drama",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 161,
+    "id_tmdb": 40149,
+    "title": "O Gato Preto",
+    "originalTitle": "藪の中の黒猫",
+    "year": 1968,
+    "director": "Kaneto Shindō",
+    "country": "Japan",
+    "runtime": 100,
+    "genre": [
+      "Drama",
+      "Fantasia",
+      "Terror"
+    ]
+  },
+  {
+    "id": 162,
+    "id_tmdb": 40423,
+    "title": "Orfeu Negro",
+    "originalTitle": "Orfeu Negro",
+    "year": 1959,
+    "director": "Marcel Camus",
+    "country": "Brazil, France, Italy",
+    "runtime": 110,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 163,
+    "id_tmdb": 40693,
+    "title": "Paris em Abril",
+    "originalTitle": "April in Paris",
+    "year": 1952,
+    "director": "David Butler",
+    "country": "United States of America",
+    "runtime": 100,
+    "genre": [
+      "Comédia",
+      "Música",
+      "Romance"
+    ]
+  },
+  {
+    "id": 164,
+    "id_tmdb": 40823,
+    "title": "O Homem Que Copiava",
+    "originalTitle": "O Homem Que Copiava",
+    "year": 2003,
+    "director": "Jorge Furtado",
+    "country": "Brazil",
+    "runtime": 123,
+    "genre": [
+      "Comédia",
+      "Drama",
+      "Romance",
+      "Crime"
+    ]
+  },
+  {
+    "id": 165,
+    "id_tmdb": 41654,
+    "title": "Sepet",
+    "originalTitle": "Sepet",
+    "year": 2004,
+    "director": "Yasmin Ahmad",
+    "country": "Malaysia",
+    "runtime": 104,
+    "genre": [
+      "Romance",
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 166,
+    "id_tmdb": 42031,
+    "title": "A Hora da Estrela",
+    "originalTitle": "A Hora da Estrela",
+    "year": 1986,
+    "director": "Suzana Amaral",
+    "country": "Brazil",
+    "runtime": 96,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 167,
+    "id_tmdb": 42167,
+    "title": "Bye Bye Brasil",
+    "originalTitle": "Bye Bye Brasil",
+    "year": 1980,
+    "director": "Carlos Diegues",
+    "country": "Argentina, Brazil, France",
+    "runtime": 100,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 168,
+    "id_tmdb": 42209,
+    "title": "Os Trapalhões na Guerra dos Planetas",
+    "originalTitle": "Os Trapalhões na Guerra dos Planetas",
+    "year": 1978,
+    "director": "Adriano Stuart",
+    "country": "Brazil",
+    "runtime": 89,
+    "genre": [
+      "Aventura",
+      "Comédia",
+      "Família",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 169,
+    "id_tmdb": 42234,
+    "title": "Dona Flor e Seus Dois Maridos",
+    "originalTitle": "Dona Flor e Seus Dois Maridos",
+    "year": 1976,
+    "director": "Bruno Barreto",
+    "country": "Brazil",
+    "runtime": 118,
+    "genre": [
+      "Comédia",
+      "Drama",
+      "Fantasia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 170,
+    "id_tmdb": 44479,
+    "title": "The Watermelon Woman",
+    "originalTitle": "The Watermelon Woman",
+    "year": 1997,
+    "director": "Cheryl Dunye",
+    "country": "United States of America",
+    "runtime": 84,
+    "genre": [
+      "Drama",
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 171,
+    "id_tmdb": 44967,
+    "title": "A Greve",
+    "originalTitle": "Стачка",
+    "year": 1925,
+    "director": "Sergei Eisenstein",
+    "country": "Soviet Union",
+    "runtime": 89,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 172,
+    "id_tmdb": 45162,
+    "title": "Superman & Batman: Apocalipse",
+    "originalTitle": "Superman/Batman: Apocalypse",
+    "year": 2010,
+    "director": "Lauren Montgomery",
+    "country": "United States of America",
+    "runtime": 79,
+    "genre": [
+      "Ficção científica",
+      "Ação",
+      "Aventura",
+      "Animação"
+    ]
+  },
+  {
+    "id": 173,
+    "id_tmdb": 45967,
+    "title": "Um Domingo Maravilhoso",
+    "originalTitle": "素晴らしき日曜日",
+    "year": 1947,
+    "director": "Akira Kurosawa",
+    "country": "Japan",
+    "runtime": 108,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 174,
+    "id_tmdb": 45996,
+    "title": "Poeira no Vento",
+    "originalTitle": "戀戀風塵",
+    "year": 1986,
+    "director": "Hou Hsiao-hsien",
+    "country": "Taiwan",
+    "runtime": 109,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 175,
+    "id_tmdb": 46463,
+    "title": "Da Kath & Kim Code",
+    "originalTitle": "Da Kath & Kim Code",
+    "year": 2005,
+    "director": "Ted Emery",
+    "country": "Australia",
+    "runtime": 82,
+    "genre": [
+      "Comédia",
+      "Cinema TV"
+    ]
+  },
+  {
+    "id": 176,
+    "id_tmdb": 46738,
+    "title": "Incêndios",
+    "originalTitle": "Incendies",
+    "year": 2010,
+    "director": "Denis Villeneuve",
+    "country": "Canada, France",
+    "runtime": 131,
+    "genre": [
+      "Drama",
+      "Guerra",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 177,
+    "id_tmdb": 46785,
+    "title": "O Balão Branco",
+    "originalTitle": "بادکنک سفید",
+    "year": 1995,
+    "director": "Jafar Panahi",
+    "country": "Iran",
+    "runtime": 85,
+    "genre": [
+      "Drama",
+      "Família"
+    ]
+  },
+  {
+    "id": 178,
+    "id_tmdb": 47060,
+    "title": "O Buraco",
+    "originalTitle": "洞",
+    "year": 1999,
+    "director": "Tsai Ming-liang",
+    "country": "Taiwan, France",
+    "runtime": 95,
+    "genre": [
+      "Drama",
+      "Romance",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 179,
+    "id_tmdb": 47113,
+    "title": "La última cena",
+    "originalTitle": "La última cena",
+    "year": 1976,
+    "director": "Tomás Gutiérrez Alea",
+    "country": "Cuba",
+    "runtime": 120,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 180,
+    "id_tmdb": 47856,
+    "title": "Η Επίθεση του Γιγαντιαίου Μουσακά",
+    "originalTitle": "Η Επίθεση του Γιγαντιαίου Μουσακά",
+    "year": 1999,
+    "director": "Panos H. Koutras",
+    "country": "Greece",
+    "runtime": 90,
+    "genre": [
+      "Ficção científica",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 181,
+    "id_tmdb": 49046,
+    "title": "Nada de Novo no Front",
+    "originalTitle": "Im Westen nichts Neues",
+    "year": 2022,
+    "director": "Edward Berger",
+    "country": "Germany",
+    "runtime": 147,
+    "genre": [
+      "Guerra",
+      "Drama"
+    ]
+  },
+  {
+    "id": 182,
+    "id_tmdb": 49051,
+    "title": "O Hobbit: Uma Jornada Inesperada",
+    "originalTitle": "The Hobbit: An Unexpected Journey",
+    "year": 2012,
+    "director": "Peter Jackson",
+    "country": "New Zealand, United States of America",
+    "runtime": 183,
+    "genre": [
+      "Aventura",
+      "Fantasia",
+      "Ação"
+    ]
+  },
+  {
+    "id": 183,
+    "id_tmdb": 49184,
+    "title": "West Beyrouth",
+    "originalTitle": "West Beyrouth",
+    "year": 1998,
+    "director": "Ziad Doueiri",
+    "country": "Lebanon, Belgium, France, Norway",
+    "runtime": 105,
+    "genre": [
+      "Drama",
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 184,
+    "id_tmdb": 49964,
+    "title": "Onde Fica a Casa do Meu Amigo?",
+    "originalTitle": "خانه‌ی دوست کجاست؟",
+    "year": 1987,
+    "director": "Abbas Kiarostami",
+    "country": "Iran",
+    "runtime": 83,
+    "genre": [
+      "Drama",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 185,
+    "id_tmdb": 50370,
+    "title": "Guerra de Canudos",
+    "originalTitle": "Guerra de Canudos",
+    "year": 1997,
+    "director": "Sérgio Rezende",
+    "country": "Brazil",
+    "runtime": 170,
+    "genre": [
+      "Guerra",
+      "História",
+      "Drama"
+    ]
+  },
+  {
+    "id": 186,
+    "id_tmdb": 51828,
+    "title": "Um Dia",
+    "originalTitle": "One Day",
+    "year": 2011,
+    "director": "Lone Scherfig",
+    "country": "United Kingdom, United States of America",
+    "runtime": 107,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 187,
+    "id_tmdb": 52561,
+    "title": "O Homem Que Nunca Pecou",
+    "originalTitle": "The Whole Town's Talking",
+    "year": 1935,
+    "director": "John Ford",
+    "country": "United States of America",
+    "runtime": 93,
+    "genre": [
+      "Comédia",
+      "Crime"
+    ]
+  },
+  {
+    "id": 188,
+    "id_tmdb": 54433,
+    "title": "Gamera, o Guardião do Universo",
+    "originalTitle": "ガメラ 大怪獣空中決戦",
+    "year": 1995,
+    "director": "Shusuke Kaneko",
+    "country": "Japan",
+    "runtime": 96,
+    "genre": [
+      "Fantasia",
+      "Ficção científica",
+      "Ação",
+      "Terror"
+    ]
+  },
+  {
+    "id": 189,
+    "id_tmdb": 54919,
+    "title": "Gladiatorerna",
+    "originalTitle": "Gladiatorerna",
+    "year": 1969,
+    "director": "Peter Watkins",
+    "country": "Sweden",
+    "runtime": 92,
+    "genre": [
+      "Guerra",
+      "Ficção científica",
+      "Drama"
+    ]
+  },
+  {
+    "id": 190,
+    "id_tmdb": 55848,
+    "title": "Lancelot do Lago",
+    "originalTitle": "Lancelot du Lac",
+    "year": 1974,
+    "director": "Robert Bresson",
+    "country": "France, Italy",
+    "runtime": 85,
+    "genre": [
+      "Drama",
+      "Romance",
+      "História"
+    ]
+  },
+  {
+    "id": 191,
+    "id_tmdb": 56418,
+    "title": "A Fonte das Mulheres",
+    "originalTitle": "La Source des femmes",
+    "year": 2011,
+    "director": "Radu Mihăileanu",
+    "country": "Morocco, France, Belgium, Italy",
+    "runtime": 135,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 192,
+    "id_tmdb": 56521,
+    "title": "Palombella rossa",
+    "originalTitle": "Palombella rossa",
+    "year": 1989,
+    "director": "Nanni Moretti",
+    "country": "France, Italy",
+    "runtime": 89,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 193,
+    "id_tmdb": 57158,
+    "title": "O Hobbit: A Desolação de Smaug",
+    "originalTitle": "The Hobbit: The Desolation of Smaug",
+    "year": 2013,
+    "director": "Peter Jackson",
+    "country": "New Zealand, United States of America",
+    "runtime": 187,
+    "genre": [
+      "Fantasia",
+      "Aventura",
+      "Ação"
+    ]
+  },
+  {
+    "id": 194,
+    "id_tmdb": 57811,
+    "title": "Terra Estrangeira",
+    "originalTitle": "Terra Estrangeira",
+    "year": 1996,
+    "director": "Walter Salles, Daniela Thomas",
+    "country": "Brazil, Portugal",
+    "runtime": 110,
+    "genre": [
+      "Drama",
+      "Thriller",
+      "Romance"
+    ]
+  },
+  {
+    "id": 195,
+    "id_tmdb": 58129,
+    "title": "A Carruagem Fantasma",
+    "originalTitle": "Körkarlen",
+    "year": 1921,
+    "director": "Victor Sjöström",
+    "country": "Sweden",
+    "runtime": 108,
+    "genre": [
+      "Drama",
+      "Fantasia",
+      "Terror"
+    ]
+  },
+  {
+    "id": 196,
+    "id_tmdb": 58416,
+    "title": "Pidä huivista kiinni, Tatjana",
+    "originalTitle": "Pidä huivista kiinni, Tatjana",
+    "year": 1994,
+    "director": "Aki Kaurismäki",
+    "country": "Finland, Germany",
+    "runtime": 62,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 197,
+    "id_tmdb": 59480,
+    "title": "Gamera 2: Ataque da Legião",
+    "originalTitle": "ガメラ2 レギオン襲来",
+    "year": 1996,
+    "director": "Shusuke Kaneko",
+    "country": "Japan",
+    "runtime": 99,
+    "genre": [
+      "Fantasia",
+      "Ficção científica",
+      "Terror"
+    ]
+  },
+  {
+    "id": 198,
+    "id_tmdb": 59803,
+    "title": "Маугли",
+    "originalTitle": "Маугли",
+    "year": 1973,
+    "director": "Roman Davydov",
+    "country": "Soviet Union",
+    "runtime": 96,
+    "genre": [
+      "Animação",
+      "Família"
+    ]
+  },
+  {
+    "id": 199,
+    "id_tmdb": 60159,
+    "title": "Gamera 3: A Vingança de Iris",
+    "originalTitle": "ガメラ3 邪神＜イリス＞覚醒",
+    "year": 1999,
+    "director": "Shusuke Kaneko",
+    "country": "Japan",
+    "runtime": 107,
+    "genre": [
+      "Fantasia",
+      "Ficção científica",
+      "Terror"
+    ]
+  },
+  {
+    "id": 200,
+    "id_tmdb": 64690,
+    "title": "Drive",
+    "originalTitle": "Drive",
+    "year": 2011,
+    "director": "Nicolas Winding Refn",
+    "country": "United States of America",
+    "runtime": 96,
+    "genre": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "id": 201,
+    "id_tmdb": 69335,
+    "title": "Estômago",
+    "originalTitle": "Estômago",
+    "year": 2008,
+    "director": "Marcos Jorge",
+    "country": "Brazil, Italy",
+    "runtime": 112,
+    "genre": [
+      "Drama",
+      "Comédia",
+      "Mistério",
+      "Crime"
+    ]
+  },
+  {
+    "id": 202,
+    "id_tmdb": 71883,
+    "title": "Redline",
+    "originalTitle": "レッドライン",
+    "year": 2009,
+    "director": "Takeshi Koike",
+    "country": "Japan",
+    "runtime": 102,
+    "genre": [
+      "Animação",
+      "Ação",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 203,
+    "id_tmdb": 72214,
+    "title": "A Rainha da Neve",
+    "originalTitle": "Снежная королева",
+    "year": 1957,
+    "director": "Lev Atamanov",
+    "country": "Soviet Union",
+    "runtime": 60,
+    "genre": [
+      "Animação",
+      "Família",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 204,
+    "id_tmdb": 73922,
+    "title": "O Visitante do Museu",
+    "originalTitle": "Посетитель музея",
+    "year": 1989,
+    "director": "Konstantin Lopushansky",
+    "country": "Germany, Soviet Union, Switzerland",
+    "runtime": 128,
+    "genre": [
+      "Drama",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 205,
+    "id_tmdb": 74360,
+    "title": "São Paulo, Sociedade Anônima",
+    "originalTitle": "São Paulo, Sociedade Anônima",
+    "year": 1965,
+    "director": "Luiz Sérgio Person",
+    "country": "Brazil",
+    "runtime": 109,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 206,
+    "id_tmdb": 75551,
+    "title": "Messalina e o Bombeiro",
+    "originalTitle": "I pompieri di Viggiù",
+    "year": 1949,
+    "director": "Mario Mattoli",
+    "country": "Italy",
+    "runtime": 81,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 207,
+    "id_tmdb": 77338,
+    "title": "Intocáveis",
+    "originalTitle": "Intouchables",
+    "year": 2011,
+    "director": "Éric Toledano, Olivier Nakache",
+    "country": "France",
+    "runtime": 112,
+    "genre": [
+      "Drama",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 208,
+    "id_tmdb": 77771,
+    "title": "A Viagem da Hiena",
+    "originalTitle": "Touki-Bouki",
+    "year": 1973,
+    "director": "Djibril Diop Mambéty",
+    "country": "Senegal",
+    "runtime": 91,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 209,
+    "id_tmdb": 79860,
+    "title": "Kyoshin",
+    "originalTitle": "鏡心",
+    "year": 2005,
+    "director": "Gakuryu Ishii",
+    "country": "Japan",
+    "runtime": 61,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 210,
+    "id_tmdb": 81857,
+    "title": "Alpes",
+    "originalTitle": "Άλπεις",
+    "year": 2011,
+    "director": "Yorgos Lanthimos",
+    "country": "Canada, France, Greece, United States of America",
+    "runtime": 94,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 211,
+    "id_tmdb": 82654,
+    "title": "Meu Namorado é um Zumbi",
+    "originalTitle": "Warm Bodies",
+    "year": 2013,
+    "director": "Jonathan Levine",
+    "country": "United States of America",
+    "runtime": 98,
+    "genre": [
+      "Terror",
+      "Comédia",
+      "Romance",
+      "Ação",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 212,
+    "id_tmdb": 83389,
+    "title": "Da Colina Kokuriko",
+    "originalTitle": "コクリコ坂から",
+    "year": 2011,
+    "director": "Goro Miyazaki",
+    "country": "Japan",
+    "runtime": 91,
+    "genre": [
+      "Animação",
+      "Drama"
+    ]
+  },
+  {
+    "id": 213,
+    "id_tmdb": 83533,
+    "title": "Avatar: Fogo e Cinzas",
+    "originalTitle": "Avatar: Fire and Ash",
+    "year": 2025,
+    "director": "James Cameron",
+    "country": "United States of America",
+    "runtime": 197,
+    "genre": [
+      "Ficção científica",
+      "Aventura",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 214,
+    "id_tmdb": 84765,
+    "title": "Pesadelo Perfumado",
+    "originalTitle": "Mababangong Bangungot",
+    "year": 1979,
+    "director": "Kidlat Tahimik",
+    "country": "Philippines",
+    "runtime": 95,
+    "genre": [
+      "Documentário",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 215,
+    "id_tmdb": 85550,
+    "title": "Conto de Cinema",
+    "originalTitle": "극장전",
+    "year": 2005,
+    "director": "Hong Sang-soo",
+    "country": "South Korea, France",
+    "runtime": 89,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 216,
+    "id_tmdb": 86238,
+    "title": "O Anjo Nasceu",
+    "originalTitle": "O Anjo Nasceu",
+    "year": 1969,
+    "director": "Júlio Bressane",
+    "country": "Brazil",
+    "runtime": 64,
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 217,
+    "id_tmdb": 86732,
+    "title": "Salmo Vermelho",
+    "originalTitle": "Még kér a nép",
+    "year": 1972,
+    "director": "Miklós Jancsó",
+    "country": "Hungary",
+    "runtime": 86,
+    "genre": [
+      "Drama",
+      "Guerra",
+      "Música"
+    ]
+  },
+  {
+    "id": 218,
+    "id_tmdb": 89825,
+    "title": "おまえうまそうだな",
+    "originalTitle": "おまえうまそうだな",
+    "year": 2010,
+    "director": "Masaya Fujimori",
+    "country": "Japan",
+    "runtime": 89,
+    "genre": [
+      "Aventura",
+      "Animação",
+      "Família"
+    ]
+  },
+  {
+    "id": 219,
+    "id_tmdb": 91378,
+    "title": "O Despertar da Besta",
+    "originalTitle": "O Despertar da Besta",
+    "year": 1970,
+    "director": "José Mojica Marins",
+    "country": "Brazil",
+    "runtime": 92,
+    "genre": [
+      "Terror",
+      "Drama"
+    ]
+  },
+  {
+    "id": 220,
+    "id_tmdb": 94329,
+    "title": "Operação Invasão",
+    "originalTitle": "Serbuan Maut",
+    "year": 2012,
+    "director": "Gareth Evans",
+    "country": "Indonesia, France, United States of America",
+    "runtime": 101,
+    "genre": [
+      "Ação",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "id": 221,
+    "id_tmdb": 94525,
+    "title": "Uma Página de Loucura",
+    "originalTitle": "狂った一頁",
+    "year": 1926,
+    "director": "Teinosuke Kinugasa",
+    "country": "Japan",
+    "runtime": 71,
+    "genre": [
+      "Terror",
+      "Drama"
+    ]
+  },
+  {
+    "id": 222,
+    "id_tmdb": 95597,
+    "title": "Garota Negra",
+    "originalTitle": "La Noire de...",
+    "year": 1966,
+    "director": "Ousmane Sembène",
+    "country": "France, Senegal",
+    "runtime": 59,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 223,
+    "id_tmdb": 103663,
+    "title": "A Caça",
+    "originalTitle": "Jagten",
+    "year": 2012,
+    "director": "Thomas Vinterberg",
+    "country": "Denmark, Sweden",
+    "runtime": 116,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 224,
+    "id_tmdb": 104268,
+    "title": "Agosto Na Água",
+    "originalTitle": "水の中の八月",
+    "year": 1995,
+    "director": "Gakuryu Ishii",
+    "country": "Japan",
+    "runtime": 117,
+    "genre": [
+      "Ficção científica",
+      "Drama"
+    ]
+  },
+  {
+    "id": 225,
+    "id_tmdb": 104548,
+    "title": "Demônios",
+    "originalTitle": "修羅",
+    "year": 1971,
+    "director": "Toshio Matsumoto",
+    "country": "Japan",
+    "runtime": 134,
+    "genre": [
+      "Terror",
+      "Drama"
+    ]
+  },
+  {
+    "id": 226,
+    "id_tmdb": 106180,
+    "title": "Los sobrevivientes",
+    "originalTitle": "Los sobrevivientes",
+    "year": 1979,
+    "director": "Tomás Gutiérrez Alea",
+    "country": "Cuba",
+    "runtime": 130,
+    "genre": [
+      "Drama",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 227,
+    "id_tmdb": 106380,
+    "title": "História de Taipei",
+    "originalTitle": "青梅竹馬",
+    "year": 1985,
+    "director": "Edward Yang",
+    "country": "Taiwan",
+    "runtime": 120,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 228,
+    "id_tmdb": 107983,
+    "title": "O Golem",
+    "originalTitle": "Golem",
+    "year": 1980,
+    "director": "Piotr Szulkin",
+    "country": "Poland",
+    "runtime": 93,
+    "genre": [
+      "Drama",
+      "Ficção científica",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 229,
+    "id_tmdb": 110160,
+    "title": "Laurence Anyways",
+    "originalTitle": "Laurence Anyways",
+    "year": 2012,
+    "director": "Xavier Dolan",
+    "country": "Canada, France",
+    "runtime": 168,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 230,
+    "id_tmdb": 110416,
+    "title": "A Canção do Mar",
+    "originalTitle": "Song of the Sea",
+    "year": 2014,
+    "director": "Tomm Moore",
+    "country": "Ireland, Luxembourg, Belgium, Denmark",
+    "runtime": 93,
+    "genre": [
+      "Família",
+      "Animação",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 231,
+    "id_tmdb": 117326,
+    "title": "O Gato",
+    "originalTitle": "衛斯理之老貓",
+    "year": 1992,
+    "director": "Lam Nai-Choi",
+    "country": "Hong Kong",
+    "runtime": 85,
+    "genre": [
+      "Ação",
+      "Terror",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 232,
+    "id_tmdb": 120467,
+    "title": "O Grande Hotel Budapeste",
+    "originalTitle": "The Grand Budapest Hotel",
+    "year": 2014,
+    "director": "Wes Anderson",
+    "country": "United States of America, Germany",
+    "runtime": 100,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 233,
+    "id_tmdb": 121025,
+    "title": "Cassiopéia",
+    "originalTitle": "Cassiopéia",
+    "year": 1996,
+    "director": "Clóvis Vieira",
+    "country": "Brazil",
+    "runtime": 80,
+    "genre": [
+      "Animação",
+      "Ficção científica",
+      "Família"
+    ]
+  },
+  {
+    "id": 234,
+    "id_tmdb": 122917,
+    "title": "O Hobbit: A Batalha dos Cinco Exércitos",
+    "originalTitle": "The Hobbit: The Battle of the Five Armies",
+    "year": 2014,
+    "director": "Peter Jackson",
+    "country": "New Zealand, United States of America",
+    "runtime": 165,
+    "genre": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 235,
+    "id_tmdb": 124485,
+    "title": "Retrato de uma Garota do Fim dos Anos 60 em Bruxelas",
+    "originalTitle": "Portrait d’une jeune fille de la fin des années 60 à Bruxelles",
+    "year": 1994,
+    "director": "Chantal Akerman",
+    "country": "France",
+    "runtime": 60,
+    "genre": [
+      "Cinema TV",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 236,
+    "id_tmdb": 124611,
+    "title": "Sevmek Zamanı",
+    "originalTitle": "Sevmek Zamanı",
+    "year": 1965,
+    "director": "Metin Erksan",
+    "country": "Turkey",
+    "runtime": 89,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 237,
+    "id_tmdb": 129112,
+    "title": "O Sonho de Wadjda",
+    "originalTitle": "Das Mädchen Wadjda",
+    "year": 2012,
+    "director": "Haifaa al-Mansour",
+    "country": "Germany, Saudi Arabia",
+    "runtime": 93,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 238,
+    "id_tmdb": 146075,
+    "title": "Rio, 40 Graus",
+    "originalTitle": "Rio, 40 Graus",
+    "year": 1955,
+    "director": "Nelson Pereira dos Santos",
+    "country": "Brazil",
+    "runtime": 91,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 239,
+    "id_tmdb": 152584,
+    "title": "Azul É A Cor Mais Quente",
+    "originalTitle": "La Vie d'Adèle - Chapitres 1 et 2",
+    "year": 2013,
+    "director": "Abdellatif Kechiche",
+    "country": "Belgium, France, Spain",
+    "runtime": 179,
+    "genre": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "id": 240,
+    "id_tmdb": 175125,
+    "title": "Matou a Família e Foi ao Cinema",
+    "originalTitle": "Matou a Família e Foi ao Cinema",
+    "year": 1969,
+    "director": "Júlio Bressane",
+    "country": "Brazil",
+    "runtime": 64,
+    "genre": [
+      "Drama",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 241,
+    "id_tmdb": 183023,
+    "title": "Alma Corsária",
+    "originalTitle": "Alma Corsária",
+    "year": 1993,
+    "director": "Carlos Reichenbach",
+    "country": "Brazil",
+    "runtime": 112,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 242,
+    "id_tmdb": 184868,
+    "title": "红色娘子军",
+    "originalTitle": "红色娘子军",
+    "year": 1961,
+    "director": "Xie Jin",
+    "country": "China",
+    "runtime": 110,
+    "genre": [
+      "Guerra",
+      "Drama"
+    ]
+  },
+  {
+    "id": 243,
+    "id_tmdb": 186105,
+    "title": "A Garota das Flores",
+    "originalTitle": "꽃파는 처녀",
+    "year": 1972,
+    "director": "Choe Ik-gyu, Hak Pak",
+    "country": "North Korea",
+    "runtime": 127,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 244,
+    "id_tmdb": 190091,
+    "title": "Erotikon",
+    "originalTitle": "Erotikon",
+    "year": 1930,
+    "director": "Gustav Machatý",
+    "country": "Czechoslovakia",
+    "runtime": 89,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 245,
+    "id_tmdb": 194858,
+    "title": "A Ostra e o Vento",
+    "originalTitle": "A Ostra e o Vento",
+    "year": 1997,
+    "director": "Walter Lima Jr.",
+    "country": "Brazil",
+    "runtime": 117,
+    "genre": [
+      "Drama",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 246,
+    "id_tmdb": 201474,
+    "title": "Anjo Loiro",
+    "originalTitle": "Anjo Loiro",
+    "year": 1973,
+    "director": "Alfredo Sternheim",
+    "country": "Brazil",
+    "runtime": 97,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 247,
+    "id_tmdb": 203593,
+    "title": "Marighella",
+    "originalTitle": "Marighella",
+    "year": 2012,
+    "director": "Isa Grinspum Ferraz",
+    "country": "Brazil",
+    "runtime": 100,
+    "genre": [
+      "Documentário"
+    ]
+  },
+  {
+    "id": 248,
+    "id_tmdb": 208054,
+    "title": "Poor Little Rich Girl",
+    "originalTitle": "Poor Little Rich Girl",
+    "year": 1965,
+    "director": "Andy Warhol",
+    "country": "United States of America",
+    "runtime": 66,
+    "genre": [
+      "Drama",
+      "Documentário"
+    ]
+  },
+  {
+    "id": 249,
+    "id_tmdb": 209274,
+    "title": "Ida",
+    "originalTitle": "Ida",
+    "year": 2013,
+    "director": "Paweł Pawlikowski",
+    "country": "Poland, Denmark",
+    "runtime": 82,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 250,
+    "id_tmdb": 240123,
+    "title": "Vivir la utopía",
+    "originalTitle": "Vivir la utopía",
+    "year": 1997,
+    "director": "Juan A. Gamero",
+    "country": "Spain",
+    "runtime": 96,
+    "genre": [
+      "Documentário",
+      "História"
+    ]
+  },
+  {
+    "id": 251,
+    "id_tmdb": 240566,
+    "title": "Gangues de Tóquio",
+    "originalTitle": "TOKYO TRIBE",
+    "year": 2014,
+    "director": "Sion Sono",
+    "country": "Japan",
+    "runtime": 116,
+    "genre": [
+      "Música",
+      "Ficção científica",
+      "Ação",
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 252,
+    "id_tmdb": 242643,
+    "title": "Batman: Ataque ao Arkham",
+    "originalTitle": "Batman: Assault on Arkham",
+    "year": 2014,
+    "director": "Ethan Spaulding, Jay Oliva",
+    "country": "United States of America",
+    "runtime": 76,
+    "genre": [
+      "Thriller",
+      "Animação",
+      "Ação",
+      "Crime"
+    ]
+  },
+  {
+    "id": 253,
+    "id_tmdb": 244265,
+    "title": "Daliás idők",
+    "originalTitle": "Daliás idők",
+    "year": 1984,
+    "director": "József Gémes",
+    "country": "Hungary",
+    "runtime": 83,
+    "genre": [
+      "Animação",
+      "História",
+      "Guerra"
+    ]
+  },
+  {
+    "id": 254,
+    "id_tmdb": 244461,
+    "title": "As Aventuras da Turma da Mônica",
+    "originalTitle": "As Aventuras da Turma da Mônica",
+    "year": 1982,
+    "director": "Mauricio de Sousa",
+    "country": "Brazil",
+    "runtime": 75,
+    "genre": [
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Família"
+    ]
+  },
+  {
+    "id": 255,
+    "id_tmdb": 247641,
+    "title": "Torre Bela",
+    "originalTitle": "Torre Bela",
+    "year": 1977,
+    "director": "Thomas Harlan",
+    "country": "Italy, Portugal",
+    "runtime": 139,
+    "genre": [
+      "Documentário"
+    ]
+  },
+  {
+    "id": 256,
+    "id_tmdb": 254320,
+    "title": "O Lagosta",
+    "originalTitle": "The Lobster",
+    "year": 2015,
+    "director": "Yorgos Lanthimos",
+    "country": "France, Greece, Ireland, Netherlands, United Kingdom",
+    "runtime": 119,
+    "genre": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 257,
+    "id_tmdb": 259812,
+    "title": "Gêmeas",
+    "originalTitle": "Gêmeas",
+    "year": 1999,
+    "director": "Andrucha Waddington",
+    "country": "Brazil",
+    "runtime": 75,
+    "genre": [
+      "Terror",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 258,
+    "id_tmdb": 260514,
+    "title": "Carros 3",
+    "originalTitle": "Cars 3",
+    "year": 2017,
+    "director": "Brian Fee",
+    "country": "United States of America",
+    "runtime": 90,
+    "genre": [
+      "Animação",
+      "Drama",
+      "Família"
+    ]
+  },
+  {
+    "id": 259,
+    "id_tmdb": 264785,
+    "title": "Frauen sind doch bessere Diplomaten",
+    "originalTitle": "Frauen sind doch bessere Diplomaten",
+    "year": 1941,
+    "director": "Georg Jacoby",
+    "country": "Germany",
+    "runtime": 93,
+    "genre": [
+      "Romance",
+      "Música",
+      "Comédia",
+      "História"
+    ]
+  },
+  {
+    "id": 260,
+    "id_tmdb": 265712,
+    "title": "STAND BY ME Doraemon",
+    "originalTitle": "STAND BY ME ドラえもん",
+    "year": 2014,
+    "director": "Takashi Yamazaki, Ryuichi Yagi",
+    "country": "Japan",
+    "runtime": 95,
+    "genre": [
+      "Animação",
+      "Aventura",
+      "Ficção científica",
+      "Drama",
+      "Família",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 261,
+    "id_tmdb": 267480,
+    "title": "O Peso do Silêncio",
+    "originalTitle": "The Look of Silence",
+    "year": 2014,
+    "director": "Joshua Oppenheimer",
+    "country": "Denmark, Finland, Indonesia, Norway, United Kingdom, United States of America",
+    "runtime": 100,
+    "genre": [
+      "História",
+      "Documentário"
+    ]
+  },
+  {
+    "id": 262,
+    "id_tmdb": 271858,
+    "title": "West Indies ou les Nègres marrons de la liberté",
+    "originalTitle": "West Indies ou les Nègres marrons de la liberté",
+    "year": 1979,
+    "director": "Med Hondo",
+    "country": "Algeria, France, Mauritania",
+    "runtime": 116,
+    "genre": [
+      "Música",
+      "História",
+      "Drama"
+    ]
+  },
+  {
+    "id": 263,
+    "id_tmdb": 273854,
+    "title": "Leila e os Lobos",
+    "originalTitle": "ليلى و الذئاب",
+    "year": 1986,
+    "director": "Heiny Srour",
+    "country": "Lebanon, Palestinian Territory, United Kingdom, Belgium, Netherlands",
+    "runtime": 95,
+    "genre": [
+      "Drama",
+      "História",
+      "Guerra"
+    ]
+  },
+  {
+    "id": 264,
+    "id_tmdb": 274422,
+    "title": "O Velho - A História de Luiz Carlos Prestes",
+    "originalTitle": "O Velho - A História de Luiz Carlos Prestes",
+    "year": 1997,
+    "director": "Toni Venturi",
+    "country": "Brazil",
+    "runtime": 104,
+    "genre": [
+      "Documentário"
+    ]
+  },
+  {
+    "id": 265,
+    "id_tmdb": 276735,
+    "title": "A Miragem",
+    "originalTitle": "السراب",
+    "year": 1979,
+    "director": "Ahmed Bouanani",
+    "country": "Morocco",
+    "runtime": 97,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 266,
+    "id_tmdb": 288436,
+    "title": "Sinfonia da Necrópole",
+    "originalTitle": "Sinfonia da Necrópole",
+    "year": 2014,
+    "director": "Juliana Rojas",
+    "country": "Brazil",
+    "runtime": 86,
+    "genre": [
+      "Comédia",
+      "Música",
+      "Romance",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 267,
+    "id_tmdb": 290098,
+    "title": "A Criada",
+    "originalTitle": "아가씨",
+    "year": 2016,
+    "director": "Park Chan-wook",
+    "country": "South Korea",
+    "runtime": 145,
+    "genre": [
+      "Thriller",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 268,
+    "id_tmdb": 301629,
+    "title": "Addicted to Fresno",
+    "originalTitle": "Addicted to Fresno",
+    "year": 2015,
+    "director": "Jamie Babbit",
+    "country": "United States of America",
+    "runtime": 85,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 269,
+    "id_tmdb": 303991,
+    "title": "Demolição",
+    "originalTitle": "Demolition",
+    "year": 2016,
+    "director": "Jean-Marc Vallée",
+    "country": "United States of America",
+    "runtime": 100,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 270,
+    "id_tmdb": 312221,
+    "title": "Creed: Nascido para Lutar",
+    "originalTitle": "Creed",
+    "year": 2015,
+    "director": "Ryan Coogler",
+    "country": "United States of America",
+    "runtime": 133,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 271,
+    "id_tmdb": 313369,
+    "title": "La La Land: Cantando Estações",
+    "originalTitle": "La La Land",
+    "year": 2016,
+    "director": "Damien Chazelle",
+    "country": "United States of America",
+    "runtime": 128,
+    "genre": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 272,
+    "id_tmdb": 314029,
+    "title": "Boi Neon",
+    "originalTitle": "Boi Neon",
+    "year": 2016,
+    "director": "Gabriel Mascaro",
+    "country": "Brazil, Netherlands, Uruguay",
+    "runtime": 101,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 273,
+    "id_tmdb": 316029,
+    "title": "O Rei do Show",
+    "originalTitle": "The Greatest Showman",
+    "year": 2017,
+    "director": "Michael Gracey",
+    "country": "United States of America",
+    "runtime": 104,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 274,
+    "id_tmdb": 316776,
+    "title": "Quem Matou o Capitão Alex?",
+    "originalTitle": "Who Killed Captain Alex?",
+    "year": 2010,
+    "director": "Nabwana IGG",
+    "country": "Uganda",
+    "runtime": 68,
+    "genre": [
+      "Ação",
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 275,
+    "id_tmdb": 319997,
+    "title": "A Compadecida",
+    "originalTitle": "A Compadecida",
+    "year": 1969,
+    "director": "George Jonas",
+    "country": "Brazil",
+    "runtime": 104,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 276,
+    "id_tmdb": 323027,
+    "title": "Liga da Justiça: Deuses e Monstros",
+    "originalTitle": "Justice League: Gods and Monsters",
+    "year": 2015,
+    "director": "Sam Liu",
+    "country": "United States of America",
+    "runtime": 72,
+    "genre": [
+      "Ação",
+      "Animação",
+      "Fantasia",
+      "Aventura",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 277,
+    "id_tmdb": 334517,
+    "title": "O Cerco de Jadotville",
+    "originalTitle": "The Siege of Jadotville",
+    "year": 2016,
+    "director": "Richie Smyth",
+    "country": "Ireland",
+    "runtime": 108,
+    "genre": [
+      "Guerra",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 278,
+    "id_tmdb": 335360,
+    "title": "My Little Pony: O Filme",
+    "originalTitle": "My Little Pony: The Movie",
+    "year": 2017,
+    "director": "Jayson Thiessen",
+    "country": "Canada, United States of America",
+    "runtime": 99,
+    "genre": [
+      "Família",
+      "Animação",
+      "Aventura",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 279,
+    "id_tmdb": 335984,
+    "title": "Blade Runner 2049",
+    "originalTitle": "Blade Runner 2049",
+    "year": 2017,
+    "director": "Denis Villeneuve",
+    "country": "Canada, United Kingdom, United States of America",
+    "runtime": 164,
+    "genre": [
+      "Ficção científica",
+      "Drama"
+    ]
+  },
+  {
+    "id": 280,
+    "id_tmdb": 351460,
+    "title": "Death Note",
+    "originalTitle": "Death Note",
+    "year": 2017,
+    "director": "Adam Wingard",
+    "country": "United States of America",
+    "runtime": 101,
+    "genre": [
+      "Crime",
+      "Fantasia",
+      "Terror"
+    ]
+  },
+  {
+    "id": 281,
+    "id_tmdb": 359151,
+    "title": "Tanna",
+    "originalTitle": "Tanna",
+    "year": 2015,
+    "director": "Martin Butler, Bentley Dean",
+    "country": "Australia, Vanuatu",
+    "runtime": 100,
+    "genre": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "id": 282,
+    "id_tmdb": 366924,
+    "title": "Batman: Sangue Ruim",
+    "originalTitle": "Batman: Bad Blood",
+    "year": 2016,
+    "director": "Jay Oliva",
+    "country": "United States of America",
+    "runtime": 72,
+    "genre": [
+      "Ficção científica",
+      "Ação",
+      "Animação",
+      "Aventura",
+      "Crime"
+    ]
+  },
+  {
+    "id": 283,
+    "id_tmdb": 376867,
+    "title": "Moonlight: Sob a Luz do Luar",
+    "originalTitle": "Moonlight",
+    "year": 2016,
+    "director": "Barry Jenkins",
+    "country": "United States of America",
+    "runtime": 111,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 284,
+    "id_tmdb": 382322,
+    "title": "Batman: A Piada Mortal",
+    "originalTitle": "Batman: The Killing Joke",
+    "year": 2016,
+    "director": "Sam Liu",
+    "country": "United States of America",
+    "runtime": 72,
+    "genre": [
+      "Animação",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 285,
+    "id_tmdb": 386732,
+    "title": "Amor Maldito",
+    "originalTitle": "Amor Maldito",
+    "year": 1984,
+    "director": "Adélia Sampaio",
+    "country": "Brazil",
+    "runtime": 75,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 286,
+    "id_tmdb": 389995,
+    "title": "Roteiro de Casamento",
+    "originalTitle": "Me casé con un boludo",
+    "year": 2016,
+    "director": "Juan Taratuto",
+    "country": "Argentina",
+    "runtime": 110,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 287,
+    "id_tmdb": 391713,
+    "title": "Lady Bird - A Hora de Voar",
+    "originalTitle": "Lady Bird",
+    "year": 2017,
+    "director": "Greta Gerwig",
+    "country": "United States of America",
+    "runtime": 94,
+    "genre": [
+      "Drama",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 288,
+    "id_tmdb": 393559,
+    "title": "Minha Vida de Abobrinha",
+    "originalTitle": "Ma vie de courgette",
+    "year": 2016,
+    "director": "Claude Barras",
+    "country": "France, Switzerland",
+    "runtime": 67,
+    "genre": [
+      "Animação",
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 289,
+    "id_tmdb": 400728,
+    "title": "O Soldado Desconhecido",
+    "originalTitle": "Tuntematon sotilas",
+    "year": 2017,
+    "director": "Aku Louhimies",
+    "country": "Iceland, Finland, Belgium",
+    "runtime": 181,
+    "genre": [
+      "Guerra",
+      "Drama"
+    ]
+  },
+  {
+    "id": 290,
+    "id_tmdb": 408220,
+    "title": "Liga da Justiça Sombria",
+    "originalTitle": "Justice League Dark",
+    "year": 2017,
+    "director": "Jay Oliva",
+    "country": "United States of America",
+    "runtime": 75,
+    "genre": [
+      "Animação",
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Ficção científica",
+      "Terror"
+    ]
+  },
+  {
+    "id": 291,
+    "id_tmdb": 408508,
+    "title": "Blue Jay",
+    "originalTitle": "Blue Jay",
+    "year": 2016,
+    "director": "Alexandre Lehmann",
+    "country": "United States of America",
+    "runtime": 85,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 292,
+    "id_tmdb": 416767,
+    "title": "Indomables, una historia de mujeres libres",
+    "originalTitle": "Indomables, una historia de mujeres libres",
+    "year": 2011,
+    "director": "Juan Felipe",
+    "country": "Spain",
+    "runtime": 61,
+    "genre": [
+      "Documentário"
+    ]
+  },
+  {
+    "id": 293,
+    "id_tmdb": 421447,
+    "title": "A Escalada",
+    "originalTitle": "L'Ascension",
+    "year": 2017,
+    "director": "Ludovic Bernard",
+    "country": "France",
+    "runtime": 103,
+    "genre": [
+      "Comédia",
+      "Romance",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 294,
+    "id_tmdb": 435129,
+    "title": "A Ganha-Pão",
+    "originalTitle": "The Breadwinner",
+    "year": 2017,
+    "director": "Nora Twomey",
+    "country": "Canada, Ireland, Luxembourg, United States of America",
+    "runtime": 93,
+    "genre": [
+      "Animação",
+      "Guerra",
+      "Drama"
+    ]
+  },
+  {
+    "id": 295,
+    "id_tmdb": 437583,
+    "title": "Novembro",
+    "originalTitle": "November",
+    "year": 2017,
+    "director": "Rainer Sarnet",
+    "country": "Estonia, Poland, Netherlands",
+    "runtime": 115,
+    "genre": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Terror"
+    ]
+  },
+  {
+    "id": 296,
+    "id_tmdb": 438631,
+    "title": "Duna",
+    "originalTitle": "Dune",
+    "year": 2021,
+    "director": "Denis Villeneuve",
+    "country": "United States of America",
+    "runtime": 155,
+    "genre": [
+      "Ficção científica",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 297,
+    "id_tmdb": 439066,
+    "title": "Como Nossos Pais",
+    "originalTitle": "Como Nossos Pais",
+    "year": 2017,
+    "director": "Laís Bodanzky",
+    "country": "Brazil",
+    "runtime": 102,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 298,
+    "id_tmdb": 441130,
+    "title": "Wolfwalkers",
+    "originalTitle": "Wolfwalkers",
+    "year": 2020,
+    "director": "Tomm Moore, Ross Stewart",
+    "country": "France, Ireland, Luxembourg, United States of America, China",
+    "runtime": 100,
+    "genre": [
+      "Animação",
+      "Família",
+      "Aventura",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 299,
+    "id_tmdb": 446159,
+    "title": "Bacurau",
+    "originalTitle": "Bacurau",
+    "year": 2019,
+    "director": "Juliano Dornelles, Kleber Mendonça Filho",
+    "country": "Brazil, France",
+    "runtime": 131,
+    "genre": [
+      "Mistério",
+      "Faroeste",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 300,
+    "id_tmdb": 449406,
+    "title": "A Jornada de Vivo",
+    "originalTitle": "Vivo",
+    "year": 2021,
+    "director": "Kirk DeMicco",
+    "country": "United States of America, Hong Kong",
+    "runtime": 99,
+    "genre": [
+      "Animação",
+      "Família",
+      "Comédia",
+      "Música"
+    ]
+  },
+  {
+    "id": 301,
+    "id_tmdb": 454639,
+    "title": "Mestres do Universo",
+    "originalTitle": "Masters of the Universe",
+    "year": 2026,
+    "director": "Travis Knight",
+    "country": "United States of America",
+    "runtime": 133,
+    "genre": [
+      "Ação",
+      "Fantasia",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 302,
+    "id_tmdb": 467905,
+    "title": "Manual Prático da Vingança Lucrativa",
+    "originalTitle": "How to Make a Killing",
+    "year": 2026,
+    "director": "John Patton Ford",
+    "country": "United Kingdom, France, South Africa",
+    "runtime": 105,
+    "genre": [
+      "Comédia",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 303,
+    "id_tmdb": 474395,
+    "title": "Os Jovens Titãs em Ação! Nos Cinemas",
+    "originalTitle": "Teen Titans Go! To the Movies",
+    "year": 2018,
+    "director": "Aaron Horvath, Peter Rida Michail",
+    "country": "United States of America",
+    "runtime": 84,
+    "genre": [
+      "Animação",
+      "Ação",
+      "Comédia",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 304,
+    "id_tmdb": 480530,
+    "title": "Creed II",
+    "originalTitle": "Creed II",
+    "year": 2018,
+    "director": "Steven Caple Jr.",
+    "country": "United States of America",
+    "runtime": 130,
+    "genre": [
+      "Drama",
+      "Ação"
+    ]
+  },
+  {
+    "id": 305,
+    "id_tmdb": 485942,
+    "title": "Batman Ninja",
+    "originalTitle": "ニンジャバットマン",
+    "year": 2018,
+    "director": "Jumpei Mizusaki",
+    "country": "Japan, United States of America",
+    "runtime": 85,
+    "genre": [
+      "Animação",
+      "Ação",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 306,
+    "id_tmdb": 487558,
+    "title": "Infiltrado Na Klan",
+    "originalTitle": "BlacKkKlansman",
+    "year": 2018,
+    "director": "Spike Lee",
+    "country": "United States of America",
+    "runtime": 128,
+    "genre": [
+      "Crime",
+      "Comédia",
+      "Drama",
+      "História"
+    ]
+  },
+  {
+    "id": 307,
+    "id_tmdb": 491480,
+    "title": "O Menino que Descobriu o Vento",
+    "originalTitle": "The Boy Who Harnessed the Wind",
+    "year": 2019,
+    "director": "Chiwetel Ejiofor",
+    "country": "Malawi, United Kingdom, United States of America",
+    "runtime": 113,
+    "genre": [
+      "Drama",
+      "História"
+    ]
+  },
+  {
+    "id": 308,
+    "id_tmdb": 496243,
+    "title": "Parasita",
+    "originalTitle": "기생충",
+    "year": 2019,
+    "director": "Bong Joon Ho",
+    "country": "South Korea",
+    "runtime": 132,
+    "genre": [
+      "Comédia",
+      "Thriller",
+      "Drama"
+    ]
+  },
+  {
+    "id": 309,
+    "id_tmdb": 496967,
+    "title": "Atlantique",
+    "originalTitle": "Atlantique",
+    "year": 2019,
+    "director": "Mati Diop",
+    "country": "France, Senegal, Belgium",
+    "runtime": 106,
+    "genre": [
+      "Drama",
+      "Romance",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 310,
+    "id_tmdb": 499537,
+    "title": "A Casa Lobo",
+    "originalTitle": "La casa lobo",
+    "year": 2018,
+    "director": "Cristóbal León, Joaquín Cociña",
+    "country": "Chile, Germany",
+    "runtime": 75,
+    "genre": [
+      "Animação",
+      "Terror",
+      "Drama"
+    ]
+  },
+  {
+    "id": 311,
+    "id_tmdb": 501929,
+    "title": "A Família Mitchell e a Revolta das Máquinas",
+    "originalTitle": "The Mitchells vs. the Machines",
+    "year": 2021,
+    "director": "Mike Rianda",
+    "country": "Hong Kong, United States of America",
+    "runtime": 90,
+    "genre": [
+      "Animação",
+      "Aventura",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 312,
+    "id_tmdb": 502416,
+    "title": "Ma",
+    "originalTitle": "Ma",
+    "year": 2019,
+    "director": "Tate Taylor",
+    "country": "United States of America",
+    "runtime": 99,
+    "genre": [
+      "Terror",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 313,
+    "id_tmdb": 505026,
+    "title": "Morte no Nilo",
+    "originalTitle": "Death on the Nile",
+    "year": 2022,
+    "director": "Kenneth Branagh",
+    "country": "United States of America",
+    "runtime": 120,
+    "genre": [
+      "Mistério",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 314,
+    "id_tmdb": 505600,
+    "title": "Fora de Série",
+    "originalTitle": "Booksmart",
+    "year": 2019,
+    "director": "Olivia Wilde",
+    "country": "United States of America",
+    "runtime": 102,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 315,
+    "id_tmdb": 508642,
+    "title": "Gonjiam: Manicômio Assombrado",
+    "originalTitle": "곤지암",
+    "year": 2018,
+    "director": "Jung Bum-shik",
+    "country": "South Korea",
+    "runtime": 95,
+    "genre": [
+      "Terror",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 316,
+    "id_tmdb": 515001,
+    "title": "Jojo Rabbit",
+    "originalTitle": "Jojo Rabbit",
+    "year": 2019,
+    "director": "Taika Waititi",
+    "country": "New Zealand, United States of America",
+    "runtime": 108,
+    "genre": [
+      "Comédia",
+      "Guerra",
+      "Drama"
+    ]
+  },
+  {
+    "id": 317,
+    "id_tmdb": 515911,
+    "title": "Mademoiselle Vingança",
+    "originalTitle": "Mademoiselle de Joncquières",
+    "year": 2018,
+    "director": "Emmanuel Mouret",
+    "country": "France",
+    "runtime": 110,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 318,
+    "id_tmdb": 517302,
+    "title": "Ninho do Mal",
+    "originalTitle": "Pahanhautoja",
+    "year": 2022,
+    "director": "Hanna Bergholm",
+    "country": "Belgium, Finland, Norway, Sweden",
+    "runtime": 87,
+    "genre": [
+      "Terror",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 319,
+    "id_tmdb": 517987,
+    "title": "Rafiki",
+    "originalTitle": "Rafiki",
+    "year": 2018,
+    "director": "Wanuri Kahiu",
+    "country": "Germany, Netherlands, France, Norway, United States of America, South Africa, Belgium",
+    "runtime": 82,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 320,
+    "id_tmdb": 519141,
+    "title": "Matthias & Maxime",
+    "originalTitle": "Matthias & Maxime",
+    "year": 2019,
+    "director": "Xavier Dolan",
+    "country": "Canada",
+    "runtime": 119,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 321,
+    "id_tmdb": 522627,
+    "title": "Magnatas do Crime",
+    "originalTitle": "The Gentlemen",
+    "year": 2020,
+    "director": "Guy Ritchie",
+    "country": "United Kingdom, United States of America",
+    "runtime": 113,
+    "genre": [
+      "Ação",
+      "Comédia",
+      "Crime"
+    ]
+  },
+  {
+    "id": 322,
+    "id_tmdb": 524780,
+    "title": "Dogs Don't Wear Pants",
+    "originalTitle": "Koirat eivät käytä housuja",
+    "year": 2019,
+    "director": "J-P Valkeapää",
+    "country": "Finland, Latvia",
+    "runtime": 101,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 323,
+    "id_tmdb": 528085,
+    "title": "2067",
+    "originalTitle": "2067",
+    "year": 2020,
+    "director": "Seth Larney",
+    "country": "Australia, United States of America",
+    "runtime": 114,
+    "genre": [
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 324,
+    "id_tmdb": 530385,
+    "title": "Midsommar: O Mal Não Espera a Noite",
+    "originalTitle": "Midsommar",
+    "year": 2019,
+    "director": "Ari Aster",
+    "country": "Sweden, United States of America",
+    "runtime": 148,
+    "genre": [
+      "Terror",
+      "Drama",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 325,
+    "id_tmdb": 533148,
+    "title": "Ek Ladki Ko Dekha Toh Aisa Laga",
+    "originalTitle": "एक लड़की को देखा तोह ऐसा लगा",
+    "year": 2019,
+    "director": "Shelly Chopra Dhar",
+    "country": "India",
+    "runtime": 119,
+    "genre": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "id": 326,
+    "id_tmdb": 537116,
+    "title": "tick, tick...BOOM!",
+    "originalTitle": "tick, tick... BOOM!",
+    "year": 2021,
+    "director": "Lin-Manuel Miranda",
+    "country": "United States of America",
+    "runtime": 115,
+    "genre": [
+      "Drama",
+      "Música"
+    ]
+  },
+  {
+    "id": 327,
+    "id_tmdb": 540734,
+    "title": "Eduardo e Mônica",
+    "originalTitle": "Eduardo e Mônica",
+    "year": 2022,
+    "director": "René Sampaio",
+    "country": "Brazil",
+    "runtime": 120,
+    "genre": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "id": 328,
+    "id_tmdb": 551024,
+    "title": "27 Steps of May",
+    "originalTitle": "27 Steps of May",
+    "year": 2019,
+    "director": "Ravi L. Bharwani",
+    "country": "Indonesia",
+    "runtime": 112,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 329,
+    "id_tmdb": 553141,
+    "title": "The Head Hunter",
+    "originalTitle": "The Head Hunter",
+    "year": 2019,
+    "director": "Jordan Downey",
+    "country": "United States of America",
+    "runtime": 72,
+    "genre": [
+      "Terror",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 330,
+    "id_tmdb": 555605,
+    "title": "O Enterro de Kojo",
+    "originalTitle": "The Burial of Kojo",
+    "year": 2018,
+    "director": "Blitz Bazawule",
+    "country": "Ghana, United States of America",
+    "runtime": 100,
+    "genre": [
+      "Drama",
+      "Thriller",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 331,
+    "id_tmdb": 556901,
+    "title": "Os Jovens Titãs em Ação Vs. Os Jovens Titãs",
+    "originalTitle": "Teen Titans Go! vs. Teen Titans",
+    "year": 2019,
+    "director": "Jeff Mednikow",
+    "country": "United States of America",
+    "runtime": 77,
+    "genre": [
+      "Ação",
+      "Animação",
+      "Comédia",
+      "Família",
+      "Fantasia",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 332,
+    "id_tmdb": 560044,
+    "title": "Os Irmãos Willoughby",
+    "originalTitle": "The Willoughbys",
+    "year": 2020,
+    "director": "Kris Pearn",
+    "country": "Canada",
+    "runtime": 92,
+    "genre": [
+      "Aventura",
+      "Animação",
+      "Comédia",
+      "Família",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 333,
+    "id_tmdb": 575604,
+    "title": "A Ligação",
+    "originalTitle": "콜",
+    "year": 2020,
+    "director": "Lee Chung-hyun",
+    "country": "South Korea",
+    "runtime": 112,
+    "genre": [
+      "Thriller",
+      "Mistério",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 334,
+    "id_tmdb": 579974,
+    "title": "RRR: Revolta, Rebelião, Revolução",
+    "originalTitle": "రౌద్రం రణం రుధిరం",
+    "year": 2022,
+    "director": "S. S. Rajamouli",
+    "country": "India",
+    "runtime": 185,
+    "genre": [
+      "Ação",
+      "História",
+      "Drama"
+    ]
+  },
+  {
+    "id": 335,
+    "id_tmdb": 586940,
+    "title": "Perdi Meu Corpo",
+    "originalTitle": "J'ai perdu mon corps",
+    "year": 2019,
+    "director": "Jérémy Clapin",
+    "country": "France",
+    "runtime": 81,
+    "genre": [
+      "Animação",
+      "Drama",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 336,
+    "id_tmdb": 587317,
+    "title": "Bombay Rose",
+    "originalTitle": "Bombay Rose",
+    "year": 2019,
+    "director": "Gitanjali Rao",
+    "country": "France, India, Qatar, United Kingdom",
+    "runtime": 93,
+    "genre": [
+      "Animação",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 337,
+    "id_tmdb": 597316,
+    "title": "My Little Pony: Nova Geração",
+    "originalTitle": "My Little Pony: A New Generation",
+    "year": 2021,
+    "director": "José Luis Ucha, Robert Cullen",
+    "country": "Canada, Ireland",
+    "runtime": 105,
+    "genre": [
+      "Animação",
+      "Família",
+      "Fantasia",
+      "Comédia",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 338,
+    "id_tmdb": 606535,
+    "title": "Shubh Mangal Zyada Saavdhan",
+    "originalTitle": "शुभ मंगल ज़्यादा सावधान",
+    "year": 2020,
+    "director": "Hitesh Kewalya",
+    "country": "India",
+    "runtime": 120,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 339,
+    "id_tmdb": 610203,
+    "title": "Loop",
+    "originalTitle": "Loop",
+    "year": 2019,
+    "director": "Bruno Bini",
+    "country": "Brazil",
+    "runtime": 98,
+    "genre": [
+      "Ficção científica",
+      "Drama"
+    ]
+  },
+  {
+    "id": 340,
+    "id_tmdb": 614945,
+    "title": "Mensagens para Isabelle",
+    "originalTitle": "Voicemails for Isabelle",
+    "year": 2026,
+    "director": "Leah McKendrick",
+    "country": "United States of America",
+    "runtime": 119,
+    "genre": [
+      "Romance",
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 341,
+    "id_tmdb": 618344,
+    "title": "Liga da Justiça Sombria: Guerra de Apokolips",
+    "originalTitle": "Justice League Dark: Apokolips War",
+    "year": 2020,
+    "director": "Matt Peters, Christina Sotta",
+    "country": "United States of America",
+    "runtime": 90,
+    "genre": [
+      "Animação",
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 342,
+    "id_tmdb": 620249,
+    "title": "A Lenda de Hei",
+    "originalTitle": "罗小黑战记",
+    "year": 2019,
+    "director": "MTJJ",
+    "country": "China",
+    "runtime": 101,
+    "genre": [
+      "Animação",
+      "Fantasia",
+      "Ação"
+    ]
+  },
+  {
+    "id": 343,
+    "id_tmdb": 628534,
+    "title": "O Tigre Branco",
+    "originalTitle": "The White Tiger",
+    "year": 2021,
+    "director": "Ramin Bahrani",
+    "country": "Singapore, United States of America, India",
+    "runtime": 125,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 344,
+    "id_tmdb": 634492,
+    "title": "Madame Teia",
+    "originalTitle": "Madame Web",
+    "year": 2024,
+    "director": "SJ Clarkson",
+    "country": "United States of America",
+    "runtime": 111,
+    "genre": [
+      "Ação",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 345,
+    "id_tmdb": 636565,
+    "title": "A Incrível História da Ilha das Rosas",
+    "originalTitle": "L'incredibile storia dell'Isola delle Rose",
+    "year": 2020,
+    "director": "Sydney Sibilia",
+    "country": "Italy",
+    "runtime": 117,
+    "genre": [
+      "Comédia",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 346,
+    "id_tmdb": 639933,
+    "title": "O Homem do Norte",
+    "originalTitle": "The Northman",
+    "year": 2022,
+    "director": "Robert Eggers",
+    "country": "United States of America",
+    "runtime": 137,
+    "genre": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 347,
+    "id_tmdb": 639988,
+    "title": "A Única Saída",
+    "originalTitle": "어쩔수가없다",
+    "year": 2025,
+    "director": "Park Chan-wook",
+    "country": "South Korea, France",
+    "runtime": 139,
+    "genre": [
+      "Comédia",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 348,
+    "id_tmdb": 652837,
+    "title": "Josee, o Tigre e o Peixe",
+    "originalTitle": "ジョゼと虎と魚たち",
+    "year": 2020,
+    "director": "Kotaro Tamura",
+    "country": "Japan",
+    "runtime": 98,
+    "genre": [
+      "Animação",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 349,
+    "id_tmdb": 655187,
+    "title": "Silenciadas",
+    "originalTitle": "Akelarre",
+    "year": 2020,
+    "director": "Pablo Agüero",
+    "country": "Argentina, Spain, France",
+    "runtime": 92,
+    "genre": [
+      "Drama",
+      "História"
+    ]
+  },
+  {
+    "id": 350,
+    "id_tmdb": 661231,
+    "title": "O Soldado que Não Existiu",
+    "originalTitle": "Operation Mincemeat",
+    "year": 2022,
+    "director": "John Madden",
+    "country": "United Kingdom, United States of America",
+    "runtime": 127,
+    "genre": [
+      "Guerra",
+      "História",
+      "Drama"
+    ]
+  },
+  {
+    "id": 351,
+    "id_tmdb": 662098,
+    "title": "Ar Condicionado",
+    "originalTitle": "Ar Condicionado",
+    "year": 2020,
+    "director": "Fradique",
+    "country": "Angola",
+    "runtime": 73,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 352,
+    "id_tmdb": 667717,
+    "title": "Deep Sea: Viagem às Profundezas",
+    "originalTitle": "深海",
+    "year": 2023,
+    "director": "Tian Xiaopeng",
+    "country": "China",
+    "runtime": 112,
+    "genre": [
+      "Animação",
+      "Aventura",
+      "Drama",
+      "Fantasia",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 353,
+    "id_tmdb": 677179,
+    "title": "Creed III",
+    "originalTitle": "Creed III",
+    "year": 2023,
+    "director": "Michael B. Jordan",
+    "country": "United States of America",
+    "runtime": 116,
+    "genre": [
+      "Drama",
+      "Ação"
+    ]
+  },
+  {
+    "id": 354,
+    "id_tmdb": 680593,
+    "title": "Demoníaca",
+    "originalTitle": "The Dark and the Wicked",
+    "year": 2020,
+    "director": "Bryan Bertino",
+    "country": "United States of America",
+    "runtime": 95,
+    "genre": [
+      "Terror"
+    ]
+  },
+  {
+    "id": 355,
+    "id_tmdb": 682012,
+    "title": "A Pequena Amélie",
+    "originalTitle": "Amélie et la métaphysique des tubes",
+    "year": 2025,
+    "director": "Maïlys Vallade, Liane-cho Han",
+    "country": "France",
+    "runtime": 79,
+    "genre": [
+      "Animação",
+      "Drama",
+      "Família"
+    ]
+  },
+  {
+    "id": 356,
+    "id_tmdb": 687163,
+    "title": "Devoradores de Estrelas",
+    "originalTitle": "Project Hail Mary",
+    "year": 2026,
+    "director": "Phil Lord, Christopher Miller",
+    "country": "United States of America",
+    "runtime": 157,
+    "genre": [
+      "Ficção científica",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 357,
+    "id_tmdb": 693134,
+    "title": "Duna: Parte Dois",
+    "originalTitle": "Dune: Part Two",
+    "year": 2024,
+    "director": "Denis Villeneuve",
+    "country": "United States of America",
+    "runtime": 166,
+    "genre": [
+      "Ficção científica",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 358,
+    "id_tmdb": 728754,
+    "title": "STAND BY ME Doraemon 2",
+    "originalTitle": "STAND BY ME ドラえもん2",
+    "year": 2020,
+    "director": "Takashi Yamazaki, Ryuichi Yagi",
+    "country": "Japan",
+    "runtime": 96,
+    "genre": [
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Ficção científica",
+      "Drama",
+      "Família",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 359,
+    "id_tmdb": 736526,
+    "title": "O Troll da Montanha",
+    "originalTitle": "Troll",
+    "year": 2022,
+    "director": "Roar Uthaug",
+    "country": "Norway",
+    "runtime": 103,
+    "genre": [
+      "Fantasia",
+      "Ação",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 360,
+    "id_tmdb": 739269,
+    "title": "Mulheres Ocultas",
+    "originalTitle": "孤味",
+    "year": 2020,
+    "director": "Joseph Hsu",
+    "country": "Taiwan",
+    "runtime": 121,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 361,
+    "id_tmdb": 744857,
+    "title": "O Mal que Nos Habita",
+    "originalTitle": "Cuando acecha la maldad",
+    "year": 2023,
+    "director": "Demián Rugna",
+    "country": "Argentina, United States of America",
+    "runtime": 99,
+    "genre": [
+      "Terror",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 362,
+    "id_tmdb": 747983,
+    "title": "It’s a Summer Film",
+    "originalTitle": "サマーフィルムにのって",
+    "year": 2021,
+    "director": "Soushi Matsumoto",
+    "country": "Japan",
+    "runtime": 98,
+    "genre": [
+      "Comédia",
+      "Drama",
+      "Romance",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 363,
+    "id_tmdb": 754716,
+    "title": "Badhaai Do: Casamento por Conveniência",
+    "originalTitle": "बधाई दो",
+    "year": 2022,
+    "director": "Harshavardhan Kulkarni",
+    "country": "India",
+    "runtime": 147,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 364,
+    "id_tmdb": 760517,
+    "title": "Amor Com Fetiche",
+    "originalTitle": "모럴센스",
+    "year": 2022,
+    "director": "Park Hyun-jin",
+    "country": "South Korea",
+    "runtime": 117,
+    "genre": [
+      "Romance",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 365,
+    "id_tmdb": 760747,
+    "title": "The Trip",
+    "originalTitle": "I onde dager",
+    "year": 2021,
+    "director": "Tommy Wirkola",
+    "country": "Norway, United States of America",
+    "runtime": 113,
+    "genre": [
+      "Comédia",
+      "Terror"
+    ]
+  },
+  {
+    "id": 366,
+    "id_tmdb": 774531,
+    "title": "A Jovem e o Mar",
+    "originalTitle": "Young Woman and the Sea",
+    "year": 2024,
+    "director": "Joachim Rønning",
+    "country": "United States of America",
+    "runtime": 129,
+    "genre": [
+      "História",
+      "Drama"
+    ]
+  },
+  {
+    "id": 367,
+    "id_tmdb": 780154,
+    "title": "Todos os Meus Amigos Estão Mortos",
+    "originalTitle": "Wszyscy moi przyjaciele nie żyją",
+    "year": 2020,
+    "director": "Jan Belcl",
+    "country": "Poland",
+    "runtime": 96,
+    "genre": [
+      "Comédia",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 368,
+    "id_tmdb": 785538,
+    "title": "7 Prisioneiros",
+    "originalTitle": "7 Prisioneiros",
+    "year": 2021,
+    "director": "Alexandre Moratto",
+    "country": "Brazil, United States of America",
+    "runtime": 93,
+    "genre": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "id": 369,
+    "id_tmdb": 795815,
+    "title": "რას ვხედავთ, როდესაც ცას ვუყურებთ?",
+    "originalTitle": "რას ვხედავთ, როდესაც ცას ვუყურებთ?",
+    "year": 2021,
+    "director": "Alexandre Koberidze",
+    "country": "Georgia, Germany",
+    "runtime": 150,
+    "genre": [
+      "Drama",
+      "Romance",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 370,
+    "id_tmdb": 801526,
+    "title": "Darlings",
+    "originalTitle": "डार्लिंग्स",
+    "year": 2022,
+    "director": "Jasmeet K Reen",
+    "country": "India",
+    "runtime": 134,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 371,
+    "id_tmdb": 804370,
+    "title": "Arco",
+    "originalTitle": "Arco",
+    "year": 2025,
+    "director": "Ugo Bienvenu",
+    "country": "France, United Kingdom, United States of America",
+    "runtime": 88,
+    "genre": [
+      "Aventura",
+      "Animação",
+      "Família",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 372,
+    "id_tmdb": 804862,
+    "title": "Acabe Com Eles",
+    "originalTitle": "Bring Them Down",
+    "year": 2025,
+    "director": "Christopher Andrews",
+    "country": "Belgium, Ireland, United Kingdom",
+    "runtime": 106,
+    "genre": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 373,
+    "id_tmdb": 809970,
+    "title": "Entre Frestas",
+    "originalTitle": "Hiacynt",
+    "year": 2021,
+    "director": "Piotr Domalewski",
+    "country": "Poland",
+    "runtime": 106,
+    "genre": [
+      "Thriller",
+      "Crime",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 374,
+    "id_tmdb": 814776,
+    "title": "Clube da Luta para Meninas",
+    "originalTitle": "Bottoms",
+    "year": 2023,
+    "director": "Emma Seligman",
+    "country": "United States of America",
+    "runtime": 91,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 375,
+    "id_tmdb": 823219,
+    "title": "Flow",
+    "originalTitle": "Straume",
+    "year": 2024,
+    "director": "Gints Zilbalodis",
+    "country": "Latvia, Belgium, France",
+    "runtime": 85,
+    "genre": [
+      "Aventura",
+      "Animação",
+      "Família",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 376,
+    "id_tmdb": 833339,
+    "title": "Não Fale o Mal",
+    "originalTitle": "Speak No Evil",
+    "year": 2022,
+    "director": "Christian Tafdrup",
+    "country": "Denmark, Netherlands",
+    "runtime": 98,
+    "genre": [
+      "Terror",
+      "Thriller",
+      "Drama"
+    ]
+  },
+  {
+    "id": 377,
+    "id_tmdb": 837335,
+    "title": "La Chimera",
+    "originalTitle": "La chimera",
+    "year": 2023,
+    "director": "Alice Rohrwacher",
+    "country": "Italy, France, Switzerland, Turkey",
+    "runtime": 131,
+    "genre": [
+      "Drama",
+      "Fantasia",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 378,
+    "id_tmdb": 845387,
+    "title": "maboroshi",
+    "originalTitle": "アリスとテレスのまぼろし工場",
+    "year": 2023,
+    "director": "Mari Okada, Seimei Kidokoro",
+    "country": "Japan",
+    "runtime": 111,
+    "genre": [
+      "Animação",
+      "Drama",
+      "Romance",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 379,
+    "id_tmdb": 846867,
+    "title": "Mad God",
+    "originalTitle": "Mad God",
+    "year": 2021,
+    "director": "Phil Tippett",
+    "country": "United States of America",
+    "runtime": 84,
+    "genre": [
+      "Animação",
+      "Fantasia",
+      "Terror",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 380,
+    "id_tmdb": 851644,
+    "title": "Garota do Século 20",
+    "originalTitle": "20세기 소녀",
+    "year": 2022,
+    "director": "Bang Woo-ri",
+    "country": "South Korea",
+    "runtime": 121,
+    "genre": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "id": 381,
+    "id_tmdb": 873127,
+    "title": "O Sol de Amalfi",
+    "originalTitle": "Sotto il sole di Amalfi",
+    "year": 2022,
+    "director": "Martina Pastori",
+    "country": "Italy",
+    "runtime": 90,
+    "genre": [
+      "Romance",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 382,
+    "id_tmdb": 874743,
+    "title": "Para Todas Vocês que Eu Amei",
+    "originalTitle": "僕が愛したすべての君へ",
+    "year": 2022,
+    "director": "Jun Matsumoto",
+    "country": "Japan",
+    "runtime": 102,
+    "genre": [
+      "Animação",
+      "Romance",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 383,
+    "id_tmdb": 874745,
+    "title": "Para o Único Eu que Amou Você",
+    "originalTitle": "君を愛したひとりの僕へ",
+    "year": 2022,
+    "director": "Kenichi Kasai",
+    "country": "Japan",
+    "runtime": 98,
+    "genre": [
+      "Animação",
+      "Romance",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 384,
+    "id_tmdb": 877703,
+    "title": "Teen Wolf: O Filme",
+    "originalTitle": "Teen Wolf: The Movie",
+    "year": 2023,
+    "director": "Russell Mulcahy",
+    "country": "United States of America",
+    "runtime": 140,
+    "genre": [
+      "Ação",
+      "Fantasia",
+      "Cinema TV"
+    ]
+  },
+  {
+    "id": 385,
+    "id_tmdb": 877957,
+    "title": "Drifting Home",
+    "originalTitle": "雨を告げる漂流団地",
+    "year": 2022,
+    "director": "Hiroyasu Ishida",
+    "country": "Japan",
+    "runtime": 120,
+    "genre": [
+      "Animação",
+      "Fantasia",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 386,
+    "id_tmdb": 887180,
+    "title": "Matt and Mara",
+    "originalTitle": "Matt and Mara",
+    "year": 2024,
+    "director": "Kazik Radwanski",
+    "country": "Canada",
+    "runtime": 80,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 387,
+    "id_tmdb": 891933,
+    "title": "Às Vezes Quero Sumir",
+    "originalTitle": "Sometimes I Think About Dying",
+    "year": 2024,
+    "director": "Rachel Lambert",
+    "country": "United States of America",
+    "runtime": 94,
+    "genre": [
+      "Drama",
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 388,
+    "id_tmdb": 896096,
+    "title": "O Olhar Misterioso do Flamingo",
+    "originalTitle": "La misteriosa mirada del flamenco",
+    "year": 2025,
+    "director": "Diego Céspedes",
+    "country": "Chile, France, Spain, Belgium, Germany",
+    "runtime": 104,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 389,
+    "id_tmdb": 901563,
+    "title": "Close",
+    "originalTitle": "Close",
+    "year": 2022,
+    "director": "Lukas Dhont",
+    "country": "Belgium, France, Netherlands",
+    "runtime": 104,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 390,
+    "id_tmdb": 912480,
+    "title": "Red Rooms: Obsessão Doentia",
+    "originalTitle": "Les Chambres rouges",
+    "year": 2023,
+    "director": "Pascal Plante",
+    "country": "Canada",
+    "runtime": 118,
+    "genre": [
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "id": 391,
+    "id_tmdb": 914206,
+    "title": "A Besta",
+    "originalTitle": "La Bête",
+    "year": 2024,
+    "director": "Bertrand Bonello",
+    "country": "France, Canada, Switzerland",
+    "runtime": 146,
+    "genre": [
+      "Ficção científica",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 392,
+    "id_tmdb": 915935,
+    "title": "Anatomia de uma Queda",
+    "originalTitle": "Anatomie d'une chute",
+    "year": 2023,
+    "director": "Justine Triet",
+    "country": "France",
+    "runtime": 151,
+    "genre": [
+      "Thriller",
+      "Mistério",
+      "Crime"
+    ]
+  },
+  {
+    "id": 393,
+    "id_tmdb": 916224,
+    "title": "Suzume",
+    "originalTitle": "すずめの戸締まり",
+    "year": 2022,
+    "director": "Makoto Shinkai",
+    "country": "Japan",
+    "runtime": 121,
+    "genre": [
+      "Animação",
+      "Drama",
+      "Aventura",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 394,
+    "id_tmdb": 930094,
+    "title": "Vermelho, Branco e Sangue Azul",
+    "originalTitle": "Red, White & Royal Blue",
+    "year": 2023,
+    "director": "Matthew López",
+    "country": "United States of America",
+    "runtime": 118,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 395,
+    "id_tmdb": 936108,
+    "title": "Smurfs",
+    "originalTitle": "Smurfs",
+    "year": 2025,
+    "director": "Chris Miller",
+    "country": "United States of America",
+    "runtime": 92,
+    "genre": [
+      "Animação",
+      "Família",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 396,
+    "id_tmdb": 938436,
+    "title": "In The Heart Of The Machine",
+    "originalTitle": "В сърцето на машината",
+    "year": 2022,
+    "director": "Martin Makariev",
+    "country": "Bulgaria",
+    "runtime": 115,
+    "genre": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 397,
+    "id_tmdb": 950028,
+    "title": "O Convite",
+    "originalTitle": "The Invite",
+    "year": 2026,
+    "director": "Olivia Wilde",
+    "country": "United States of America",
+    "runtime": 107,
+    "genre": [
+      "Drama",
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 398,
+    "id_tmdb": 950396,
+    "title": "Entre Montanhas",
+    "originalTitle": "The Gorge",
+    "year": 2025,
+    "director": "Scott Derrickson",
+    "country": "United States of America",
+    "runtime": 127,
+    "genre": [
+      "Romance",
+      "Ficção científica",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 399,
+    "id_tmdb": 962571,
+    "title": "جوائے لینڈ",
+    "originalTitle": "جوائے لینڈ",
+    "year": 2022,
+    "director": "Saim Sadiq",
+    "country": "Pakistan, United States of America",
+    "runtime": 127,
+    "genre": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "id": 400,
+    "id_tmdb": 969681,
+    "title": "Homem-Aranha: Um Novo Dia",
+    "originalTitle": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "director": "Destin Daniel Cretton",
+    "country": "United States of America",
+    "runtime": 143,
+    "genre": [
+      "Ficção científica",
+      "Ação",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 401,
+    "id_tmdb": 982843,
+    "title": "A Grande Inundação",
+    "originalTitle": "대홍수",
+    "year": 2025,
+    "director": "Kim Byung-woo",
+    "country": "South Korea",
+    "runtime": 108,
+    "genre": [
+      "Ficção científica",
+      "Aventura",
+      "Drama"
+    ]
+  },
+  {
+    "id": 402,
+    "id_tmdb": 983883,
+    "title": "Um Romance do Além",
+    "originalTitle": "關於我和鬼變成家人的那件事",
+    "year": 2023,
+    "director": "Cheng Wei-hao",
+    "country": "Taiwan",
+    "runtime": 129,
+    "genre": [
+      "Comédia",
+      "Ação",
+      "Terror"
+    ]
+  },
+  {
+    "id": 403,
+    "id_tmdb": 987400,
+    "title": "Batman Azteca: Choque de Impérios",
+    "originalTitle": "Batman Azteca: Choque de imperios",
+    "year": 2025,
+    "director": "Juan Jose Meza-Leon",
+    "country": "United States of America, Mexico",
+    "runtime": 90,
+    "genre": [
+      "Animação",
+      "Ação",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 404,
+    "id_tmdb": 988402,
+    "title": "Vampira Humanista Procura Suicida Voluntário",
+    "originalTitle": "Vampire humaniste cherche suicidaire consentant",
+    "year": 2023,
+    "director": "Ariane Louis-Seize",
+    "country": "Canada",
+    "runtime": 91,
+    "genre": [
+      "Comédia",
+      "Fantasia",
+      "Terror"
+    ]
+  },
+  {
+    "id": 405,
+    "id_tmdb": 1001311,
+    "title": "Sob as Águas do Sena",
+    "originalTitle": "Sous la Seine",
+    "year": 2024,
+    "director": "Xavier Gens",
+    "country": "France",
+    "runtime": 104,
+    "genre": [
+      "Ação",
+      "Terror"
+    ]
+  },
+  {
+    "id": 406,
+    "id_tmdb": 1030588,
+    "title": "化け猫あんずちゃん",
+    "originalTitle": "化け猫あんずちゃん",
+    "year": 2024,
+    "director": "Nobuhiro Yamashita, Yoko Kuno",
+    "country": "Japan, France, United States of America",
+    "runtime": 94,
+    "genre": [
+      "Animação",
+      "Fantasia",
+      "Comédia",
+      "Família"
+    ]
+  },
+  {
+    "id": 407,
+    "id_tmdb": 1032472,
+    "title": "Touch",
+    "originalTitle": "Snerting",
+    "year": 2024,
+    "director": "Baltasar Kormákur",
+    "country": "Iceland, United Kingdom",
+    "runtime": 121,
+    "genre": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "id": 408,
+    "id_tmdb": 1034716,
+    "title": "De Férias com Você",
+    "originalTitle": "People We Meet on Vacation",
+    "year": 2026,
+    "director": "Brett Haley",
+    "country": "United States of America",
+    "runtime": 117,
+    "genre": [
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 409,
+    "id_tmdb": 1050035,
+    "title": "Monster",
+    "originalTitle": "怪物",
+    "year": 2023,
+    "director": "Hirokazu Kore-eda",
+    "country": "Japan",
+    "runtime": 121,
+    "genre": [
+      "Mistério",
+      "Thriller",
+      "Drama"
+    ]
+  },
+  {
+    "id": 410,
+    "id_tmdb": 1059128,
+    "title": "Queer",
+    "originalTitle": "Queer",
+    "year": 2024,
+    "director": "Luca Guadagnino",
+    "country": "Italy, United States of America",
+    "runtime": 138,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 411,
+    "id_tmdb": 1064213,
+    "title": "Anora",
+    "originalTitle": "Anora",
+    "year": 2024,
+    "director": "Sean Baker",
+    "country": "United States of America",
+    "runtime": 139,
+    "genre": [
+      "Drama",
+      "Comédia",
+      "Romance"
+    ]
+  },
+  {
+    "id": 412,
+    "id_tmdb": 1081003,
+    "title": "Supergirl",
+    "originalTitle": "Supergirl",
+    "year": 2026,
+    "director": "Craig Gillespie",
+    "country": "United States of America",
+    "runtime": 108,
+    "genre": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 413,
+    "id_tmdb": 1083381,
+    "title": "Backrooms: Um Não-Lugar",
+    "originalTitle": "Backrooms",
+    "year": 2026,
+    "director": "Kane Parsons",
+    "country": "United States of America, Canada",
+    "runtime": 110,
+    "genre": [
+      "Terror",
+      "Mistério",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 414,
+    "id_tmdb": 1084199,
+    "title": "Acompanhante Perfeita",
+    "originalTitle": "Companion",
+    "year": 2025,
+    "director": "Drew Hancock",
+    "country": "United States of America",
+    "runtime": 97,
+    "genre": [
+      "Terror",
+      "Ficção científica",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 415,
+    "id_tmdb": 1084244,
+    "title": "Toy Story 5",
+    "originalTitle": "Toy Story 5",
+    "year": 2026,
+    "director": "Andrew Stanton",
+    "country": "United States of America",
+    "runtime": 100,
+    "genre": [
+      "Animação",
+      "Família",
+      "Comédia",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 416,
+    "id_tmdb": 1086747,
+    "title": "Os Observadores",
+    "originalTitle": "The Watchers",
+    "year": 2024,
+    "director": "Ishana Night Shyamalan",
+    "country": "United States of America, Ireland",
+    "runtime": 102,
+    "genre": [
+      "Fantasia",
+      "Terror",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 417,
+    "id_tmdb": 1103621,
+    "title": "Como Ganhar Milhões Antes Que a Avó Morra",
+    "originalTitle": "หลานม่า",
+    "year": 2024,
+    "director": "Pat Boonnitipat",
+    "country": "Thailand",
+    "runtime": 125,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 418,
+    "id_tmdb": 1104331,
+    "title": "폭설",
+    "originalTitle": "폭설",
+    "year": 2024,
+    "director": "Yun Su-ik",
+    "country": "South Korea",
+    "runtime": 77,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 419,
+    "id_tmdb": 1109534,
+    "title": "Sem Ar",
+    "originalTitle": "The Dive",
+    "year": 2023,
+    "director": "Maximilian Erlenwein",
+    "country": "Belgium, France, Germany, Malta, United Kingdom",
+    "runtime": 91,
+    "genre": [
+      "Thriller",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 420,
+    "id_tmdb": 1109778,
+    "title": "Evidências do Amor",
+    "originalTitle": "Evidências do Amor",
+    "year": 2024,
+    "director": "Pedro Antônio",
+    "country": "Brazil",
+    "runtime": 105,
+    "genre": [
+      "Comédia",
+      "Romance",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 421,
+    "id_tmdb": 1114967,
+    "title": "Quando o Céu se Engana",
+    "originalTitle": "Good Fortune",
+    "year": 2025,
+    "director": "Aziz Ansari",
+    "country": "United States of America",
+    "runtime": 98,
+    "genre": [
+      "Comédia",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 422,
+    "id_tmdb": 1119090,
+    "title": "Eu sou Frankelda",
+    "originalTitle": "Soy Frankelda",
+    "year": 2025,
+    "director": "Arturo Ambriz, Roy Ambriz",
+    "country": "Mexico",
+    "runtime": 104,
+    "genre": [
+      "Animação",
+      "Fantasia",
+      "Terror",
+      "Aventura",
+      "Família"
+    ]
+  },
+  {
+    "id": 423,
+    "id_tmdb": 1119173,
+    "title": "Uma Linda Vida",
+    "originalTitle": "A Beautiful Life",
+    "year": 2023,
+    "director": "Mehdi Avaz",
+    "country": "Denmark, Sweden",
+    "runtime": 99,
+    "genre": [
+      "Drama",
+      "Música",
+      "Romance"
+    ]
+  },
+  {
+    "id": 424,
+    "id_tmdb": 1125510,
+    "title": "O Poço 2",
+    "originalTitle": "El hoyo 2",
+    "year": 2024,
+    "director": "Galder Gaztelu-Urrutia",
+    "country": "Spain",
+    "runtime": 100,
+    "genre": [
+      "Ficção científica",
+      "Terror",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 425,
+    "id_tmdb": 1144107,
+    "title": "A Lenda de Hei 2",
+    "originalTitle": "罗小黑战记 2",
+    "year": 2025,
+    "director": "Gu Jie, MTJJ",
+    "country": "China",
+    "runtime": 119,
+    "genre": [
+      "Animação",
+      "Fantasia",
+      "Ação",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 426,
+    "id_tmdb": 1154154,
+    "title": "Regras do Amor na Cidade Grande",
+    "originalTitle": "대도시의 사랑법",
+    "year": 2024,
+    "director": "E.oni",
+    "country": "South Korea",
+    "runtime": 118,
+    "genre": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "id": 427,
+    "id_tmdb": 1154538,
+    "title": "Nirvanna the Band the Show the Movie",
+    "originalTitle": "Nirvanna the Band the Show the Movie",
+    "year": 2026,
+    "director": "Matt Johnson",
+    "country": "Canada",
+    "runtime": 100,
+    "genre": [
+      "Comédia",
+      "Ficção científica",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 428,
+    "id_tmdb": 1158915,
+    "title": "Caçula",
+    "originalTitle": "Dìdi (弟弟)",
+    "year": 2024,
+    "director": "Sean Wang",
+    "country": "United States of America",
+    "runtime": 94,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 429,
+    "id_tmdb": 1165642,
+    "title": "Separados pelas Estrelas",
+    "originalTitle": "이 별에 필요한",
+    "year": 2025,
+    "director": "Han Ji-won",
+    "country": "South Korea",
+    "runtime": 96,
+    "genre": [
+      "Animação",
+      "Romance",
+      "Ficção científica",
+      "Drama"
+    ]
+  },
+  {
+    "id": 430,
+    "id_tmdb": 1171462,
+    "title": "Golden Kamuy",
+    "originalTitle": "ゴールデンカムイ",
+    "year": 2024,
+    "director": "Shigeaki Kubo",
+    "country": "Japan",
+    "runtime": 127,
+    "genre": [
+      "Ação",
+      "Aventura",
+      "Comédia"
+    ]
+  },
+  {
+    "id": 431,
+    "id_tmdb": 1172648,
+    "title": "Noite de Jogos",
+    "originalTitle": "Spieleabend",
+    "year": 2024,
+    "director": "Marco Petry",
+    "country": "Germany",
+    "runtime": 92,
+    "genre": [
+      "Comédia",
+      "Thriller",
+      "Romance"
+    ]
+  },
+  {
+    "id": 432,
+    "id_tmdb": 1178620,
+    "title": "Montreal, My Beautiful",
+    "originalTitle": "Montréal, ma belle",
+    "year": 2026,
+    "director": "Xiaodan He",
+    "country": "Canada",
+    "runtime": 118,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "id": 433,
+    "id_tmdb": 1184918,
+    "title": "Robô Selvagem",
+    "originalTitle": "The Wild Robot",
+    "year": 2024,
+    "director": "Chris Sanders",
+    "country": "United States of America",
+    "runtime": 101,
+    "genre": [
+      "Família",
+      "Animação",
+      "Ficção científica",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 434,
+    "id_tmdb": 1202033,
+    "title": "Enola Holmes 3",
+    "originalTitle": "Enola Holmes 3",
+    "year": 2026,
+    "director": "Philip Barantini",
+    "country": "United States of America",
+    "runtime": 109,
+    "genre": [
+      "Aventura",
+      "Crime",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 435,
+    "id_tmdb": 1210089,
+    "title": "C.I.C. - Central de Inteligência Cearense",
+    "originalTitle": "C.I.C. - Central de Inteligência Cearense",
+    "year": 2025,
+    "director": "Halder Gomes",
+    "country": "Brazil",
+    "runtime": 102,
+    "genre": [
+      "Comédia",
+      "Ação"
+    ]
+  },
+  {
+    "id": 436,
+    "id_tmdb": 1211419,
+    "title": "Meu Cunhado é Um Vampiro",
+    "originalTitle": "Meu cunhado é um vampiro",
+    "year": 2023,
+    "director": "Ale McHaddo",
+    "country": "Brazil",
+    "runtime": 89,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 437,
+    "id_tmdb": 1212121,
+    "title": "Homem com H",
+    "originalTitle": "Homem com H",
+    "year": 2025,
+    "director": "Esmir Filho",
+    "country": "Brazil",
+    "runtime": 130,
+    "genre": [
+      "Drama",
+      "Música",
+      "História"
+    ]
+  },
+  {
+    "id": 438,
+    "id_tmdb": 1212763,
+    "title": "A Morte do Demônio: Em Chamas",
+    "originalTitle": "Evil Dead Burn",
+    "year": 2026,
+    "director": "Sébastien Vaniček",
+    "country": "United States of America",
+    "runtime": 117,
+    "genre": [
+      "Terror"
+    ]
+  },
+  {
+    "id": 439,
+    "id_tmdb": 1220970,
+    "title": "Livros Restantes",
+    "originalTitle": "Livros Restantes",
+    "year": 2025,
+    "director": "Marcia Paraiso",
+    "country": "Brazil",
+    "runtime": 104,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 440,
+    "id_tmdb": 1222248,
+    "title": "Número 24",
+    "originalTitle": "Nr. 24",
+    "year": 2024,
+    "director": "John Andreas Andersen",
+    "country": "Norway",
+    "runtime": 111,
+    "genre": [
+      "Guerra",
+      "História",
+      "Drama"
+    ]
+  },
+  {
+    "id": 441,
+    "id_tmdb": 1244244,
+    "title": "Cloud - Nuvem de Vingança",
+    "originalTitle": "Cloud クラウド",
+    "year": 2024,
+    "director": "Kiyoshi Kurosawa",
+    "country": "Japan",
+    "runtime": 124,
+    "genre": [
+      "Ação",
+      "Drama",
+      "Crime",
+      "Thriller",
+      "Terror"
+    ]
+  },
+  {
+    "id": 442,
+    "id_tmdb": 1245728,
+    "title": "O Pavão",
+    "originalTitle": "Pfau - Bin ich echt?",
+    "year": 2025,
+    "director": "Bernhard Wenger",
+    "country": "Austria, Germany",
+    "runtime": 102,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 443,
+    "id_tmdb": 1253971,
+    "title": "A Vida por Philomena Cunk",
+    "originalTitle": "Cunk on Life",
+    "year": 2024,
+    "director": "Al Campbell",
+    "country": "United Kingdom",
+    "runtime": 70,
+    "genre": [
+      "Comédia",
+      "Cinema TV"
+    ]
+  },
+  {
+    "id": 444,
+    "id_tmdb": 1259102,
+    "title": "Eternidade",
+    "originalTitle": "Eternity",
+    "year": 2025,
+    "director": "David Freyne",
+    "country": "United States of America",
+    "runtime": 112,
+    "genre": [
+      "Romance",
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 445,
+    "id_tmdb": 1261188,
+    "title": "A Conexão Sueca",
+    "originalTitle": "Den svenska länken",
+    "year": 2026,
+    "director": "Thérèse Ahlbeck, Marcus Olsson",
+    "country": "Sweden",
+    "runtime": 102,
+    "genre": [
+      "Drama",
+      "História",
+      "Guerra"
+    ]
+  },
+  {
+    "id": 446,
+    "id_tmdb": 1265609,
+    "title": "Máquina de Guerra",
+    "originalTitle": "War Machine",
+    "year": 2026,
+    "director": "Patrick Hughes",
+    "country": "Australia, United States of America",
+    "runtime": 110,
+    "genre": [
+      "Ação",
+      "Ficção científica",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 447,
+    "id_tmdb": 1273221,
+    "title": "Todo Mundo em Pânico",
+    "originalTitle": "Scary Movie",
+    "year": 2026,
+    "director": "Michael Tiddes",
+    "country": "United States of America",
+    "runtime": 95,
+    "genre": [
+      "Comédia"
+    ]
+  },
+  {
+    "id": 448,
+    "id_tmdb": 1277988,
+    "title": "Caramelo",
+    "originalTitle": "Caramelo",
+    "year": 2025,
+    "director": "Diego Freitas",
+    "country": "Brazil",
+    "runtime": 101,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 449,
+    "id_tmdb": 1284041,
+    "title": "A Última Casa",
+    "originalTitle": "The Last House",
+    "year": 2026,
+    "director": "Louis Leterrier",
+    "country": "United States of America",
+    "runtime": 110,
+    "genre": [
+      "Terror",
+      "Ficção científica",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 450,
+    "id_tmdb": 1284120,
+    "title": "A Meia-Irmã Feia",
+    "originalTitle": "Den stygge stesøsteren",
+    "year": 2025,
+    "director": "Emilie Blichfeldt",
+    "country": "Denmark, Norway, Poland, Sweden",
+    "runtime": 109,
+    "genre": [
+      "Terror",
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 451,
+    "id_tmdb": 1290205,
+    "title": "As Garotas do Prédio",
+    "originalTitle": "แฟลตเกิร์ล ชั้นห่างระหว่าง เ ร า",
+    "year": 2025,
+    "director": "Jirassaya Wongsutin",
+    "country": "Thailand",
+    "runtime": 130,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 452,
+    "id_tmdb": 1290206,
+    "title": "O Paraíso dos Espinhos",
+    "originalTitle": "วิมานหนาม",
+    "year": 2024,
+    "director": "Naruebet Kuno",
+    "country": "Thailand",
+    "runtime": 131,
+    "genre": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 453,
+    "id_tmdb": 1292695,
+    "title": "Eles Vão te Matar",
+    "originalTitle": "They Will Kill You",
+    "year": 2026,
+    "director": "Kirill Sokolov",
+    "country": "United States of America, South Africa",
+    "runtime": 94,
+    "genre": [
+      "Ação",
+      "Comédia",
+      "Terror"
+    ]
+  },
+  {
+    "id": 454,
+    "id_tmdb": 1297763,
+    "title": "Batman Ninja vs. Liga da Yakuza",
+    "originalTitle": "ニンジャバットマン対ヤクザリーグ",
+    "year": 2025,
+    "director": "Jumpei Mizusaki, Shinji Takagi",
+    "country": "Japan, United States of America",
+    "runtime": 90,
+    "genre": [
+      "Animação",
+      "Ação",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 455,
+    "id_tmdb": 1298238,
+    "title": "Príncipes Perigosos",
+    "originalTitle": "Príncipes salvajes",
+    "year": 2024,
+    "director": "Humberto Hinojosa",
+    "country": "Mexico",
+    "runtime": 99,
+    "genre": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 456,
+    "id_tmdb": 1299209,
+    "title": "O Filho de Mil Homens",
+    "originalTitle": "O Filho de Mil Homens",
+    "year": 2025,
+    "director": "Daniel Rezende",
+    "country": "Brazil",
+    "runtime": 126,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 457,
+    "id_tmdb": 1314481,
+    "title": "O Diabo Veste Prada 2",
+    "originalTitle": "The Devil Wears Prada 2",
+    "year": 2026,
+    "director": "David Frankel",
+    "country": "United States of America",
+    "runtime": 119,
+    "genre": [
+      "Comédia",
+      "Drama"
+    ]
+  },
+  {
+    "id": 458,
+    "id_tmdb": 1318621,
+    "title": "Descendentes: País das Maravilhas Malvado",
+    "originalTitle": "Descendants: Wicked Wonderland",
+    "year": 2026,
+    "director": "Kimmy Gatewood",
+    "country": "United States of America",
+    "runtime": 98,
+    "genre": [
+      "Cinema TV",
+      "Família",
+      "Fantasia",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 459,
+    "id_tmdb": 1319951,
+    "title": "O Último Refúgio",
+    "originalTitle": "40 Acres",
+    "year": 2025,
+    "director": "R.T. Thorne",
+    "country": "Canada",
+    "runtime": 152,
+    "genre": [
+      "Ação",
+      "Thriller",
+      "Drama",
+      "Fantasia",
+      "Terror"
+    ]
+  },
+  {
+    "id": 460,
+    "id_tmdb": 1330021,
+    "title": "Criaturas Extraordinariamente Brilhantes",
+    "originalTitle": "Remarkably Bright Creatures",
+    "year": 2026,
+    "director": "Olivia Newman",
+    "country": "United States of America",
+    "runtime": 114,
+    "genre": [
+      "Drama",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 461,
+    "id_tmdb": 1333141,
+    "title": "A Sapatona Galáctica",
+    "originalTitle": "Lesbian Space Princess",
+    "year": 2025,
+    "director": "Leela Varghese, Emma Hough Hobbs",
+    "country": "Australia",
+    "runtime": 87,
+    "genre": [
+      "Animação",
+      "Comédia",
+      "Ficção científica",
+      "Aventura"
+    ]
+  },
+  {
+    "id": 462,
+    "id_tmdb": 1339713,
+    "title": "Obsessão",
+    "originalTitle": "Obsession",
+    "year": 2026,
+    "director": "Curry Barker",
+    "country": "United States of America, United Kingdom",
+    "runtime": 100,
+    "genre": [
+      "Terror",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 463,
+    "id_tmdb": 1361293,
+    "title": "Brizola",
+    "originalTitle": "Brizola, Anotações para uma História",
+    "year": 2024,
+    "director": "Silvio Tendler",
+    "country": "Brazil",
+    "runtime": 92,
+    "genre": [
+      "Documentário"
+    ]
+  },
+  {
+    "id": 464,
+    "id_tmdb": 1364904,
+    "title": "A Useful Ghost: Uma Ajuda do Além",
+    "originalTitle": "ผีใช้ได้ค่ะ",
+    "year": 2025,
+    "director": "Ratchapoom Boonbunchachoke",
+    "country": "Thailand, France, Singapore, Germany",
+    "runtime": 130,
+    "genre": [
+      "Comédia",
+      "Drama",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 465,
+    "id_tmdb": 1368337,
+    "title": "A Odisseia",
+    "originalTitle": "The Odyssey",
+    "year": 2026,
+    "director": "Christopher Nolan",
+    "country": "United Kingdom, United States of America",
+    "runtime": 172,
+    "genre": [
+      "Aventura",
+      "Ação",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 466,
+    "id_tmdb": 1381027,
+    "title": "Bom Garoto",
+    "originalTitle": "Good Boy",
+    "year": 2026,
+    "director": "Jan Komasa",
+    "country": "United Kingdom, Poland",
+    "runtime": 110,
+    "genre": [
+      "Thriller",
+      "Drama",
+      "Mistério"
+    ]
+  },
+  {
+    "id": 467,
+    "id_tmdb": 1397485,
+    "title": "Girls Like Girls",
+    "originalTitle": "Girls Like Girls",
+    "year": 2026,
+    "director": "Hayley Kiyoko",
+    "country": "United States of America, Canada",
+    "runtime": 95,
+    "genre": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "id": 468,
+    "id_tmdb": 1403855,
+    "title": "A Natureza das Coisas Invisíveis",
+    "originalTitle": "A Natureza das Coisas Invisíveis",
+    "year": 2025,
+    "director": "Rafaela Camelo",
+    "country": "Brazil, Chile",
+    "runtime": 90,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": 469,
+    "id_tmdb": 1443762,
+    "title": "O Falsário",
+    "originalTitle": "Il falsario",
+    "year": 2025,
+    "director": "Stefano Lodovichi",
+    "country": "Italy",
+    "runtime": 110,
+    "genre": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 470,
+    "id_tmdb": 1451344,
+    "title": "Maridos em Ação",
+    "originalTitle": "남편들",
+    "year": 2026,
+    "director": "Park Gyu-tae",
+    "country": "South Korea",
+    "runtime": 110,
+    "genre": [
+      "Comédia",
+      "Ação"
+    ]
+  },
+  {
+    "id": 471,
+    "id_tmdb": 1487861,
+    "title": "Elize: Sombras de uma Mulher",
+    "originalTitle": "Elize: Sombras de uma Mulher",
+    "year": 2026,
+    "director": "Vellas",
+    "country": "Brazil",
+    "runtime": 93,
+    "genre": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": 472,
+    "id_tmdb": 1564614,
+    "title": "Leviticus",
+    "originalTitle": "Leviticus",
+    "year": 2026,
+    "director": "Adrian Chiarella",
+    "country": "Australia, United States of America",
+    "runtime": 88,
+    "genre": [
+      "Terror",
+      "Romance"
+    ]
+  },
+  {
+    "id": 473,
+    "id_tmdb": 1575337,
+    "title": "Kaguya: A Princesa Espacial",
+    "originalTitle": "超かぐや姫！",
+    "year": 2026,
+    "director": "Shingo Yamashita",
+    "country": "Japan",
+    "runtime": 141,
+    "genre": [
+      "Animação",
+      "Fantasia",
+      "Música",
+      "Ficção científica"
+    ]
+  },
+  {
+    "id": 474,
+    "id_tmdb": 1679730,
+    "title": "A Heroína da Fita",
+    "originalTitle": "THE RIBBON HERO リボンヒーロー",
+    "year": 2026,
+    "director": "Yuki Igarashi",
+    "country": "Japan",
+    "runtime": 112,
+    "genre": [
+      "Animação",
+      "Fantasia",
+      "Drama",
+      "Ação"
+    ]
+  }
+]

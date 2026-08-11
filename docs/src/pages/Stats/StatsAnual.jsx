@@ -12,13 +12,15 @@ import Decadas from "../../components/ElementosStats/Decadas";
 
 import favoritos2024 from "../../data/favoritos/2024.json";
 import favoritos2025 from "../../data/favoritos/2025.json";
+import favoritos2026 from "../../data/favoritos/2026.json";
 import movies2024 from "../../data/filmes/2024_with_details.json";
 import movies2025 from "../../data/filmes/2025_with_details.json";
+import movies2026 from "../../data/filmes/2026_with_details.json";
 
 import "./StatsAnual.css";
 
 const StatsAnual = () => {
-  const [anoSelecionado, setAnoSelecionado] = useState(2025); // ano atual como padrao
+  const [anoSelecionado, setAnoSelecionado] = useState(2026); // ano atual como padrao
 
   const dadosPorAno = {
     2024: {
@@ -28,6 +30,10 @@ const StatsAnual = () => {
     2025: {
       movies: movies2025,
       favoritos: favoritos2025
+    },
+    2026: {
+      movies: movies2026,
+      favoritos: favoritos2026
     }
   };
 
@@ -63,6 +69,12 @@ const StatsAnual = () => {
             onClick={() => setAnoSelecionado(2025)}
           >
             2025
+          </button>
+          <button 
+            className={`ano-btn ${anoSelecionado === 2026 ? 'active' : ''}`}
+            onClick={() => setAnoSelecionado(2026)}
+          >
+            2026
           </button>
         </div>
 

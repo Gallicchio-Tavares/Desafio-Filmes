@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "UmaPessoaHumana",
+    "favoritos": [225, 262, 226, 178]
+  },
+  {
+    "id": 2,
+    "nome": "mathamen",
+    "favoritos": [58,139,3]
+  },
+  {
+    "id": 3,
+    "nome": "xeremel",
+    "favoritos": [105,397,466]
+  },
+  {
+    "id": 4,
+    "nome": "houkaita",
+    "favoritos": [52,134,139,23]
+  },
+  {
+    "id": 5,
+    "nome": "EdzinhoHowlett",
+    "favoritos": [116, 250, 164, 247]
+  },
+  {
+    "id": 6,
+    "nome": "ok1na",
+    "favoritos": [375, 230, 356, 258]
+  },
+  {
+    "id": 7,
+    "nome": "joaov0805",
+    "favoritos": [241, 109, 158, 473]
+  },
+  {
+    "id": 8,
+    "nome": "belovacomics",
+    "favoritos": [388, 409, 6, 283]
+  },
+  {
+    "id": 9,
+    "nome": "Belle_Is",
+    "favoritos": []
+  },
+  {
+    "id": 10,
+    "nome": "danielzanzao",
+    "favoritos": [49, 462, 465, 19]
+  },
+  {
+    "id":11,
+    "nome": "matheuspc3",
+    "favoritos": [343, 113, 465, 41]
+  },
+  {
+    "id":12,
+    "nome": "yatokami",
+    "favoritos": [1, 276, 362, 156]
+  },
+  {
+    "id":13,
+    "nome": "catlovrr96",
+    "favoritos": [450, 211, 308, 454]
+  },
+  {
+    "id":14,
+    "nome": "batgabi",
+    "favoritos": [347, 237, 352, 227]
+  },
+  {
+    "id":15,
+    "nome": "moonerz",
+    "favoritos": [295, 205, 36, 72]
+  },
+  {
+    "id":16,
+    "nome": "ValenteXD_",
+    "favoritos": [37, 396, 326, 385]
+  }
+]
