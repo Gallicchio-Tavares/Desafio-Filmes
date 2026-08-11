@@ -13,6 +13,7 @@
 .stats-movie{
   color: var(--muted);
   font-family: 'Inter', sans-serif;
+  text-align: center;
 }
 
 /* Grid principal: 3 colunas × 2 linhas */
@@ -114,6 +115,7 @@
 
 .stats-info-container {
   width: 100%;
+  text-align: center;
 }
 
 .stats-highlight-info {
@@ -136,6 +138,7 @@
 .stats-movie span[title] {
   border-bottom: 1px dotted #aaa;
   cursor: help;
+  text-align: center;
 }
 
 /* Melhoria para mostrar todos os filmes empatados em hover */

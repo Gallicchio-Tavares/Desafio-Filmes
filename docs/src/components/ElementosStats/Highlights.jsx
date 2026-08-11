@@ -34,12 +34,15 @@ const Highlights = ({ movies }) => {
     {
       titulo: 'Maior nota',
       filmes: getDestaquesComEmpates(movies, 'vote_average', 'desc'),
-      info: f => `Nota: ${f.vote_average}`,
+      info: f => `Nota: ${f.vote_average.toFixed(1)}`,
     },
     {
       titulo: 'Menor nota',
-      filmes: getDestaquesComEmpates(movies, 'vote_average'),
-      info: f => `Nota: ${f.vote_average}`,
+      filmes: getDestaquesComEmpates(
+        movies.filter(f => f.vote_average > 0),
+        'vote_average'
+      ),
+      info: f => `Nota: ${f.vote_average.toFixed(1)}`,
     },
   ];
 
@@ -49,7 +52,7 @@ const Highlights = ({ movies }) => {
       <div className="stats-grid">
         {destaques.map(({ titulo, filmes, info }) => {
           const posterSrc = getPosterUrl(filmes[0].poster_path);
-          const movieTitle = filmes[0].originalTitle || filmes[0].title;
+          const movieTitle = filmes[0].title;
 
           return (
             <div key={titulo} className="stats-card">
@@ -65,7 +68,7 @@ const Highlights = ({ movies }) => {
                 <h3 className="stats-subtitle">{titulo}</h3>
                 <p className="stats-movie">
                   {filmes.length > 1 ? (
-                    <span title={filmes.map(f => f.originalTitle || f.title).join(', ')}>
+                    <span title={filmes.map(f => f.title).join(', ')}>
                       {movieTitle} +{filmes.length - 1}
                     </span>
                   ) : (
